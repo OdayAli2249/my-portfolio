@@ -1,26 +1,20 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { NavLink, Outlet, useLocation } from 'react-router-dom';
+import Navbar from './components/NavBar';
+import { TabProps } from './components/NavBar/interfaces';
 
-function App() {
+export default function App() {
+
+  const location = useLocation();
+  const query = location.search;
+  const tabs: TabProps[] = [
+    { name: 'Home', url: '/' + query },
+    { name: 'Projects', url: '/projects' + query },
+    { name: 'Contact', url: '/contact' + query },];
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="flex flex-col">
+      <Navbar tabs={tabs} />
+      <Outlet />
     </div>
   );
 }
-
-export default App;
