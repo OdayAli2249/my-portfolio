@@ -27,7 +27,7 @@ export const useGroup = (): [Group[], GroupItem] => {
                 title: groupsTitle[index],
                 items: numberGroup.map(numberGroup => {
                     return {
-                        icon: '/look-up-svgrepo-com.svg',
+                        icon: 'https://odayali2249.github.io/portfolio-resources/resources/look-up-svgrepo-com.svg',
                         label: tags.get(numberGroup),
                         id: numberGroup
                     } as GroupItem

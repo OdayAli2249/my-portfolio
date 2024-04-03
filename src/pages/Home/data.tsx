@@ -2,7 +2,7 @@ export const basicInfo = {
     firstName: 'Oday',
     lastName: 'Ali',
     birthYear: 1997,
-    picture: '/profile_1.png',
+    picture: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png',
     education: [
         'Bachelor in IT Engineering and specialization in Artificial intelligence engineering (Damascus University).',
         'Master in Computer Science (in progress).'
