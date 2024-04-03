@@ -4,7 +4,7 @@ import { ProjectsCardOption } from './ProjectCardOption';
 
 export const ProjectCard: React.FC<ProjectCardProps> = ({ project, defaultAction }) => {
     const [maximized, setMaximized] = useState(false);
-    const handleClick = () => { setMaximized(!maximized); };
+    const handleClick = (event: any) => {event.stopPropagation(); setMaximized(!maximized); };
 
     return (
         <div className="bg-white rounded-lg shadow-md">
