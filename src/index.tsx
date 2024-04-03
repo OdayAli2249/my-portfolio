@@ -1,7 +1,7 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, createHashRouter, RouterProvider } from 'react-router-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Home from './pages/Home';
@@ -10,6 +10,7 @@ import App from './App';
 import Projects from './pages/Projects';
 
 const router = createBrowserRouter([
+
   {
     path: '/my-portfolio',
     element: <App />,
