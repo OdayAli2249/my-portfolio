@@ -1,6 +1,7 @@
 import { GalleryItemProps } from "../../components/Gallery/interfaces";
 import { Item } from "../../components/ItemList/interfaces";
 import { Item as LinkItem } from "../../components/LinkList/interfaces";
+import { MediaViewerProps } from "../../components/MediaViewer/interfaces";
 
 export type ActionType = 'LINK' | 'DEFAULT';
 
@@ -13,6 +14,7 @@ export interface Project {
     logoUrl: string;
     description: string;
     mediaUrl: string;
+    mediaViewer: MediaViewerProps;
     tags: number[];
     gallery?: GalleryItemProps[];
     linksTitle?: string;

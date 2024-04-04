@@ -4,7 +4,19 @@ import { Project } from "./interfaces";
 export const projects: Project[] = [{
     id: 1,
     type: 'video',
-    mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/sc/Sc-Demo-2-3.mp4',
+    mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/sc/sc-demo-1.mp4',
+    mediaViewer: {
+        image: 'https://odayali2249.github.io/portfolio-resources/resources/sc/dashboard.png',
+        images: [
+            'https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/sc/2.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/sc/3.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/sc/4.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/sc/5.jpg'
+        ],
+        video: 'https://odayali2249.github.io/portfolio-resources/resources/sc/sc-demo-1.mp4',
+        mediaViewType: 'APV'
+    },
     name: 'Poly Dynamics',
     logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/sc/logo.jpg',
     tags: [2, 7, 8, 9, 10],
@@ -12,9 +24,37 @@ export const projects: Project[] = [{
     gallery: [
         { src: 'https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg', type: 'image', highlightWord: 'Image(1): Rigid Body Simulator', tag: 2 },
         { src: 'https://odayali2249.github.io/portfolio-resources/resources/sc/2.jpg', type: 'image', highlightWord: 'Image(2): Rigid Body Simulator', tag: 2 },
-        { src: 'https://odayali2249.github.io/portfolio-resources/resources/sc/Sc-Demo-2-3.mp4', type: 'video', highlightWord: 'Demo(1): Rigid Body Simulator', tag: 2 },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/sc/3.jpg',
+                images: [
+                    'https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/sc/2.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/sc/3.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/sc/4.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/sc/5.jpg'
+                ],
+                video: 'https://odayali2249.github.io/portfolio-resources/resources/sc/Sc-Demo-2-3.mp4',
+                mediaViewType: 'APV'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/sc/Sc-Demo-2-3.mp4', type: 'video', highlightWord: 'Demo(1): Rigid Body Simulator', tag: 2
+        },
         { src: 'https://odayali2249.github.io/portfolio-resources/resources/sc/dashboard.png', type: 'image', highlightWord: 'Image(3): Rigid Body Simulator - Dashboard', tag: 2 },
-        { src: 'https://odayali2249.github.io/portfolio-resources/resources/sc/Sc-Demo-2-3.mp4', type: 'video', highlightWord: 'Demo(2): Rigid Body Simulator - Add wind Effect in X axis', tag: 2 },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg',
+                images: [
+                    'https://odayali2249.github.io/portfolio-resources/resources/sc/4.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/sc/6.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/sc/3.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/sc/5.jpg'
+                ],
+                video: 'https://odayali2249.github.io/portfolio-resources/resources/sc/Sc-Demo-2-3.mp4',
+                mediaViewType: 'APV'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/sc/Sc-Demo-2-3.mp4', type: 'video', highlightWord: 'Demo(1): Rigid Body Simulator', tag: 2
+        },
         { src: 'https://odayali2249.github.io/portfolio-resources/resources/sc/3.jpg', type: 'image', highlightWord: 'Image(4): Rigid Body Simulator', tag: 2 },
         { src: 'https://odayali2249.github.io/portfolio-resources/resources/sc/4.jpg', type: 'image', highlightWord: 'Image(5): Rigid Body Simulator', tag: 2 },
         { src: 'https://odayali2249.github.io/portfolio-resources/resources/sc/5.jpg', type: 'image', highlightWord: 'Image(6): Rigid Body Simulator', tag: 2 },
@@ -103,7 +143,19 @@ export const projects: Project[] = [{
 {
     id: 2,
     type: 'video',
-    mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4',
+    mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/ms/ms-demo-3.mp4',
+    mediaViewer: {
+        image: 'https://odayali2249.github.io/portfolio-resources/resources/ms/menu.jpg',
+        images: [
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg'
+        ],
+        video: 'https://odayali2249.github.io/portfolio-resources/resources/ms/ms-demo-3.mp4',
+        mediaViewType: 'APV'
+    },
     name: 'Ultimate Mine Sweeper',
     logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/ms/logo.jpg',
     tags: [1, 2, 3, 4, 5, 6],
@@ -111,9 +163,37 @@ export const projects: Project[] = [{
     gallery: [
         { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg', type: 'image', highlightWord: 'Image(1): Ultimate Mines Weeper Game', tag: 1 },
         { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg', type: 'image', highlightWord: 'Image(2): Ultimate Mines Weeper Game', tag: 1 },
-        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4', type: 'video', highlightWord: 'Demo(1): Ultimate Mines Weeper Game', tag: 1 },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+                images: [
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg'
+                ],
+                video: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4',
+                mediaViewType: 'APV'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4', type: 'video', highlightWord: 'Demo(1): Ultimate Mines Weeper Game', tag: 1
+        },
         { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/menu.jpg', type: 'image', highlightWord: 'Image(3): Ultimate Mines Weeper - Dashboard', tag: 1 },
-        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4', type: 'video', highlightWord: 'Demo(2): Ultimate Mines Weeper Game', tag: 1 },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+                images: [
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg'
+                ],
+                video: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4',
+                mediaViewType: 'APV'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4', type: 'video', highlightWord: 'Demo(2): Ultimate Mines Weeper Game', tag: 1
+        },
         { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg', type: 'image', highlightWord: 'Image(4): Ultimate Mines Weeper Game', tag: 1 },
         { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg', type: 'image', highlightWord: 'Image(5): Ultimate Mines Weeper Game', tag: 1 },
         { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg', type: 'image', highlightWord: 'Image(6): Ultimate Mines Weeper Game', tag: 1 },

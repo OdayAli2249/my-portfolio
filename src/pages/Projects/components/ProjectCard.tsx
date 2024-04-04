@@ -1,19 +1,24 @@
 import React, { useState } from 'react';
 import { ProjectCardProps } from '../interfaces';
 import { ProjectsCardOption } from './ProjectCardOption';
+import MediaViewer from '../../../components/MediaViewer';
 
 export const ProjectCard: React.FC<ProjectCardProps> = ({ project, defaultAction }) => {
     const [maximized, setMaximized] = useState(false);
-    const handleClick = (event: any) => {event.stopPropagation(); setMaximized(!maximized); };
+    const handleClick = (event: any) => { event.stopPropagation(); setMaximized(!maximized); };
+
+    // <video className="w-full h-[200px] object-contain rounded-t-lg cursor-pointer bg-blue-200"
+    //     autoPlay loop muted onClick={handleClick}>
+    //     <source src={project.mediaUrl} type="video/mp4" />
+    //     Your browser does not support the video tag.
+    // </video>
+
+    // <MediaViewer {...project.mediaViewer!} />
 
     return (
         <div className="bg-white rounded-lg shadow-md">
-            {project.type === 'video' ? (
-                <video className="w-full h-[200px] object-contain rounded-t-lg cursor-pointer bg-blue-200"
-                    autoPlay loop muted onClick={handleClick}>
-                    <source src={project.mediaUrl} type="video/mp4" />
-                    Your browser does not support the video tag.
-                </video>) : (<img className="w-full h-[200px] object-cover rounded-t-lg cursor-pointer"
+            {project.type === 'video' ? (<div onClick={handleClick}><MediaViewer {...project.mediaViewer!} /></div>) :
+                (<img className="w-full h-[200px] object-cover rounded-t-lg cursor-pointer"
                     src={project.mediaUrl} alt="Card Media" onClick={handleClick} />)}
             <div className="mt-2 flex justify-center">
                 {project.options.map((option, index) =>
