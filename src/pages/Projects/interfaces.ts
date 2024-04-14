@@ -12,6 +12,7 @@ export interface Project {
     type: 'video' | 'image';
     name: string;
     logoUrl: string;
+    hyperWords?: Map<string, string>;
     description: string;
     mediaUrl: string;
     mediaViewer: MediaViewerProps;

@@ -5,7 +5,9 @@ import { TabProps } from './components/NavBar/interfaces';
 export default function App() {
 
   const location = useLocation();
-  const query = location.search;
+  const currentSearchParams = new URLSearchParams(location.search);
+  currentSearchParams.delete('tag');
+  const query = '?' + currentSearchParams.toString();
   const tabs: TabProps[] = [
     { name: 'Home', url: '/my-portfolio' + query },
     { name: 'Projects', url: '/my-portfolio/projects' + query },

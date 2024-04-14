@@ -1,5 +1,3 @@
-// src/interfaces.ts
-
 export interface Item {
   icon: string;
   label: string;

@@ -20,6 +20,10 @@ export const projects: Project[] = [{
     name: 'Poly Dynamics',
     logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/sc/logo.jpg',
     tags: [2, 7, 8, 9, 10],
+    hyperWords: new Map<string, string>([
+        ['efficient', "https://en.wikipedia.org/wiki/Java_(programming_language)"],
+        ['polygons', "https://www.mathsisfun.com/geometry/polygons.html"]
+    ]),
     description: 'Scientific computation - Physics engine - 2D games math',
     gallery: [
         { src: 'https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg', type: 'image', highlightWord: 'Image(1): Rigid Body Simulator', tag: 2 },

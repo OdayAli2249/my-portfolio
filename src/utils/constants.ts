@@ -35,7 +35,7 @@ export const tagToAssociatedSecondaryTags: { [key: number]: number[] } = {
     10: [8, 9, 10]
 };
 
-export const groupsTitle: string[] = ['Recommended', 'Profession', 'Experience'];
+export const groupsTitle: string[] = ['Recommended', 'Proficient', 'Other'];
 export const basicTags = [2, 5, 6];
 
 export const tagsObject = {

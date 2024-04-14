@@ -3,7 +3,7 @@ import useURLParams from './useUrlParams';
 import { projectsMap } from '../pages/Projects/data';
 import { secondaryTags, tagToAssociatedSecondaryTags, tags } from '../utils/constants';
 
-type HighLightedWordsType = { primary?: string[], secondary?: string[] };
+type HighLightedWordsType = { primary?: string[], secondary?: string[], hyperWords?: Map<string, string> };
 
 export const useHighLight = (): HighLightedWordsType | undefined => {
     const [urlParams, _] = useURLParams();
@@ -32,7 +32,8 @@ export const useHighLight = (): HighLightedWordsType | undefined => {
         {
             primary: _tag ? getAssociatedSecondaryTags([_tag]).map(tag => tag.toLocaleLowerCase()) : undefined,
             secondary: _project ? getAssociatedSecondaryTags(_project.tags).map(tag => tag.toLocaleLowerCase()) :
-                undefined
+                undefined,
+            hyperWords: _project?.hyperWords
         };
 
         return _highLightedWords;

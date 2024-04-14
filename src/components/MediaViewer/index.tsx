@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from 'react';
+import React from 'react';
 import { MediaViewerProps } from './interfaces';
 import Slideshow from '../SlideShow';
 import Video from '../Video';
