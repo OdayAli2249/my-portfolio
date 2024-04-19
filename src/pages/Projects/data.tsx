@@ -255,6 +255,336 @@ export const projects: Project[] = [{
     ]
 },
 {
+    id: 2,
+    type: 'video',
+    mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/ms/ms-demo-3.mp4',
+    mediaViewer: {
+        image: 'https://odayali2249.github.io/portfolio-resources/resources/ms/menu.jpg',
+        images: [
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg'
+        ],
+        video: 'https://odayali2249.github.io/portfolio-resources/resources/ms/ms-demo-3.mp4',
+        mediaViewType: 'APV'
+    },
+    name: 'Ultimate Mine Sweeper',
+    logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/ms/logo.jpg',
+    tags: [1, 2, 3, 4, 5, 6],
+    description: 'Multithreads Programming - Data Structures and Algorithms - Problem Solving - 2D games math',
+    gallery: [
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg', type: 'image', highlightWord: 'Image(1): Ultimate Mines Weeper Game', tag: 1 },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg', type: 'image', highlightWord: 'Image(2): Ultimate Mines Weeper Game', tag: 1 },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+                images: [
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg'
+                ],
+                video: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4',
+                mediaViewType: 'APV'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4', type: 'video', highlightWord: 'Demo(1): Ultimate Mines Weeper Game', tag: 1
+        },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/menu.jpg', type: 'image', highlightWord: 'Image(3): Ultimate Mines Weeper - Dashboard', tag: 1 },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+                images: [
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg'
+                ],
+                video: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4',
+                mediaViewType: 'APV'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4', type: 'video', highlightWord: 'Demo(2): Ultimate Mines Weeper Game', tag: 1
+        },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg', type: 'image', highlightWord: 'Image(4): Ultimate Mines Weeper Game', tag: 1 },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg', type: 'image', highlightWord: 'Image(5): Ultimate Mines Weeper Game', tag: 1 },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg', type: 'image', highlightWord: 'Image(6): Ultimate Mines Weeper Game', tag: 1 },
+    ],
+    linksTitle: 'Links:',
+    links: [
+        {
+            text: 'Source Code:',
+            url: 'https://github.com/OdayAli2249/poly-dynamics-2D',
+            clickableText: 'Ultimate Mines Weeper',
+        }],
+    aboutTitle: 'About the Project:',
+    aboutItems: [
+        {
+            title: 'Mine Sweeper Game with Advanced Roles',
+            boldSentence: 'Mine Sweeper Game with Advanced Roles',
+            description: 'Developed a Mine Sweeper game with additional roles, offering enhanced gameplay experiences beyond the traditional rules.',
+            tag: 2
+        },
+        {
+            title: 'Desktop Application in Java',
+            boldSentence: 'Desktop Application in Java',
+            description: "Built a desktop application using Java, leveraging its robustness and cross-platform compatibility. Utilized Java's rich ecosystem and libraries to develop a feature-rich Mine Sweeper game.",
+            tag: 2
+        },
+        {
+            title: 'Flexible User Interface (UI) for Parameter Customization',
+            boldSentence: 'Flexible User Interface (UI) for Parameter Customization',
+            description: 'Empowered players to adjust settings such as the number of shields for each player, board dimensions, and timeout settings to tailor the game to their preferences.',
+            tag: 2
+        },
+        {
+            title: 'Object-Oriented Programming (OOP) and Advanced Software Architecture',
+            boldSentence: 'Object-Oriented Programming (OOP) and Advanced Software Architecture',
+            description: "Employed Object-Oriented Programming principles to design a modular and scalable codebase.",
+            tag: 4
+        },
+        {
+            title: 'Multithreading Programming for UI and Computation Separation',
+            boldSentence: 'Multithreading Programming for UI and Computation Separation',
+            description: 'Carefully managed interactions between threads to ensure smooth gameplay and user experience.',
+            tag: 1
+        },
+        {
+            title: 'File Storage for Game Persistence and Statistics',
+            boldSentence: 'File Storage for Game Persistence and Statistics',
+            description: 'Leveraged Java I/O stream SDK for efficient reading and writing of game data, enabling players to resume saved games and track their progress over time.',
+            tag: 1
+        },
+    ],
+    options: [
+        { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Code', actionType: 'LINK', link: 'https://github.com/OdayAli2249/poly-dynamics-2D' },
+        { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Demo', actionType: 'LINK', link: 'https://github.com/OdayAli2249/poly-dynamics-2D' },
+        { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Details', actionType: 'DEFAULT' },
+    ]
+},
+{
+    id: 2,
+    type: 'video',
+    mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/ms/ms-demo-3.mp4',
+    mediaViewer: {
+        image: 'https://odayali2249.github.io/portfolio-resources/resources/ms/menu.jpg',
+        images: [
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg'
+        ],
+        video: 'https://odayali2249.github.io/portfolio-resources/resources/ms/ms-demo-3.mp4',
+        mediaViewType: 'APV'
+    },
+    name: 'Ultimate Mine Sweeper',
+    logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/ms/logo.jpg',
+    tags: [1, 2, 3, 4, 5, 6],
+    description: 'Multithreads Programming - Data Structures and Algorithms - Problem Solving - 2D games math',
+    gallery: [
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg', type: 'image', highlightWord: 'Image(1): Ultimate Mines Weeper Game', tag: 1 },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg', type: 'image', highlightWord: 'Image(2): Ultimate Mines Weeper Game', tag: 1 },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+                images: [
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg'
+                ],
+                video: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4',
+                mediaViewType: 'APV'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4', type: 'video', highlightWord: 'Demo(1): Ultimate Mines Weeper Game', tag: 1
+        },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/menu.jpg', type: 'image', highlightWord: 'Image(3): Ultimate Mines Weeper - Dashboard', tag: 1 },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+                images: [
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg'
+                ],
+                video: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4',
+                mediaViewType: 'APV'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4', type: 'video', highlightWord: 'Demo(2): Ultimate Mines Weeper Game', tag: 1
+        },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg', type: 'image', highlightWord: 'Image(4): Ultimate Mines Weeper Game', tag: 1 },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg', type: 'image', highlightWord: 'Image(5): Ultimate Mines Weeper Game', tag: 1 },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg', type: 'image', highlightWord: 'Image(6): Ultimate Mines Weeper Game', tag: 1 },
+    ],
+    linksTitle: 'Links:',
+    links: [
+        {
+            text: 'Source Code:',
+            url: 'https://github.com/OdayAli2249/poly-dynamics-2D',
+            clickableText: 'Ultimate Mines Weeper',
+        }],
+    aboutTitle: 'About the Project:',
+    aboutItems: [
+        {
+            title: 'Mine Sweeper Game with Advanced Roles',
+            boldSentence: 'Mine Sweeper Game with Advanced Roles',
+            description: 'Developed a Mine Sweeper game with additional roles, offering enhanced gameplay experiences beyond the traditional rules.',
+            tag: 2
+        },
+        {
+            title: 'Desktop Application in Java',
+            boldSentence: 'Desktop Application in Java',
+            description: "Built a desktop application using Java, leveraging its robustness and cross-platform compatibility. Utilized Java's rich ecosystem and libraries to develop a feature-rich Mine Sweeper game.",
+            tag: 2
+        },
+        {
+            title: 'Flexible User Interface (UI) for Parameter Customization',
+            boldSentence: 'Flexible User Interface (UI) for Parameter Customization',
+            description: 'Empowered players to adjust settings such as the number of shields for each player, board dimensions, and timeout settings to tailor the game to their preferences.',
+            tag: 2
+        },
+        {
+            title: 'Object-Oriented Programming (OOP) and Advanced Software Architecture',
+            boldSentence: 'Object-Oriented Programming (OOP) and Advanced Software Architecture',
+            description: "Employed Object-Oriented Programming principles to design a modular and scalable codebase.",
+            tag: 4
+        },
+        {
+            title: 'Multithreading Programming for UI and Computation Separation',
+            boldSentence: 'Multithreading Programming for UI and Computation Separation',
+            description: 'Carefully managed interactions between threads to ensure smooth gameplay and user experience.',
+            tag: 1
+        },
+        {
+            title: 'File Storage for Game Persistence and Statistics',
+            boldSentence: 'File Storage for Game Persistence and Statistics',
+            description: 'Leveraged Java I/O stream SDK for efficient reading and writing of game data, enabling players to resume saved games and track their progress over time.',
+            tag: 1
+        },
+    ],
+    options: [
+        { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Code', actionType: 'LINK', link: 'https://github.com/OdayAli2249/poly-dynamics-2D' },
+        { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Demo', actionType: 'LINK', link: 'https://github.com/OdayAli2249/poly-dynamics-2D' },
+        { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Details', actionType: 'DEFAULT' },
+    ]
+},
+{
+    id: 2,
+    type: 'video',
+    mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/ms/ms-demo-3.mp4',
+    mediaViewer: {
+        image: 'https://odayali2249.github.io/portfolio-resources/resources/ms/menu.jpg',
+        images: [
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg'
+        ],
+        video: 'https://odayali2249.github.io/portfolio-resources/resources/ms/ms-demo-3.mp4',
+        mediaViewType: 'APV'
+    },
+    name: 'Ultimate Mine Sweeper',
+    logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/ms/logo.jpg',
+    tags: [1, 2, 3, 4, 5, 6],
+    description: 'Multithreads Programming - Data Structures and Algorithms - Problem Solving - 2D games math',
+    gallery: [
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg', type: 'image', highlightWord: 'Image(1): Ultimate Mines Weeper Game', tag: 1 },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg', type: 'image', highlightWord: 'Image(2): Ultimate Mines Weeper Game', tag: 1 },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+                images: [
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg'
+                ],
+                video: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4',
+                mediaViewType: 'APV'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4', type: 'video', highlightWord: 'Demo(1): Ultimate Mines Weeper Game', tag: 1
+        },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/menu.jpg', type: 'image', highlightWord: 'Image(3): Ultimate Mines Weeper - Dashboard', tag: 1 },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+                images: [
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg',
+                    'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg'
+                ],
+                video: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4',
+                mediaViewType: 'APV'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/Ms-Demo-2-1.mp4', type: 'video', highlightWord: 'Demo(2): Ultimate Mines Weeper Game', tag: 1
+        },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg', type: 'image', highlightWord: 'Image(4): Ultimate Mines Weeper Game', tag: 1 },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg', type: 'image', highlightWord: 'Image(5): Ultimate Mines Weeper Game', tag: 1 },
+        { src: 'https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg', type: 'image', highlightWord: 'Image(6): Ultimate Mines Weeper Game', tag: 1 },
+    ],
+    linksTitle: 'Links:',
+    links: [
+        {
+            text: 'Source Code:',
+            url: 'https://github.com/OdayAli2249/poly-dynamics-2D',
+            clickableText: 'Ultimate Mines Weeper',
+        }],
+    aboutTitle: 'About the Project:',
+    aboutItems: [
+        {
+            title: 'Mine Sweeper Game with Advanced Roles',
+            boldSentence: 'Mine Sweeper Game with Advanced Roles',
+            description: 'Developed a Mine Sweeper game with additional roles, offering enhanced gameplay experiences beyond the traditional rules.',
+            tag: 2
+        },
+        {
+            title: 'Desktop Application in Java',
+            boldSentence: 'Desktop Application in Java',
+            description: "Built a desktop application using Java, leveraging its robustness and cross-platform compatibility. Utilized Java's rich ecosystem and libraries to develop a feature-rich Mine Sweeper game.",
+            tag: 2
+        },
+        {
+            title: 'Flexible User Interface (UI) for Parameter Customization',
+            boldSentence: 'Flexible User Interface (UI) for Parameter Customization',
+            description: 'Empowered players to adjust settings such as the number of shields for each player, board dimensions, and timeout settings to tailor the game to their preferences.',
+            tag: 2
+        },
+        {
+            title: 'Object-Oriented Programming (OOP) and Advanced Software Architecture',
+            boldSentence: 'Object-Oriented Programming (OOP) and Advanced Software Architecture',
+            description: "Employed Object-Oriented Programming principles to design a modular and scalable codebase.",
+            tag: 4
+        },
+        {
+            title: 'Multithreading Programming for UI and Computation Separation',
+            boldSentence: 'Multithreading Programming for UI and Computation Separation',
+            description: 'Carefully managed interactions between threads to ensure smooth gameplay and user experience.',
+            tag: 1
+        },
+        {
+            title: 'File Storage for Game Persistence and Statistics',
+            boldSentence: 'File Storage for Game Persistence and Statistics',
+            description: 'Leveraged Java I/O stream SDK for efficient reading and writing of game data, enabling players to resume saved games and track their progress over time.',
+            tag: 1
+        },
+    ],
+    options: [
+        { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Code', actionType: 'LINK', link: 'https://github.com/OdayAli2249/poly-dynamics-2D' },
+        { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Demo', actionType: 'LINK', link: 'https://github.com/OdayAli2249/poly-dynamics-2D' },
+        { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Details', actionType: 'DEFAULT' },
+    ]
+},
+{
     id: 3,
     type: 'image',
     mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/1.jpg',
