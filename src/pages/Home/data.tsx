@@ -26,7 +26,7 @@ export const basicInfo: AboutMeData = {
 export const services: ServicesProps = {
     title: 'EXPERIENCE',
     headerText: "Get to know my services and qualifications",
-    subtitle: "In my mind, I believe that there is nothing I can't do and a person with good searching skills can accomplish any type of assignment or come up with new better one.",
+    subtitle: "In my mind, I believe that there is nothing I can't do and a person with good searching skills can accomplish any type of assignments or come up with new better ones.",
     srcImage: "https://odayali2249.github.io/portfolio-resources/resources/profile_1.png",
     popperLevelTop: [
         {

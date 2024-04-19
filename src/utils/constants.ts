@@ -1,29 +1,26 @@
 
 export const tags: Map<number, string> = new Map<number, string>([
     [-1, "All"],
-    [1, "Multithreads Programming"],
-    [2, "java"],
-    [3, "2D Games Development"],
-    [4, "OOP"],
-    [5, "Data Structures and Algorithms"],
-    [6, "Problem Solving"],
-    [7, "Physics Engine"],
-    [8, "Scientific Computation"],
-    [9, "OpenGL"],
-    [10, "Simulation"]
+    [1, "Node.js"],
+    [2, "React.js"],
+    [3, "Type Script"],
+    [4, "MaterialUI"],
+    [5, "Cloud Messaging"],
+    [6, "React-query"],
+    [7, "Vite"],
 ]);
 
 export const secondaryTags: Map<number, string> = new Map<number, string>([
-    [1, "Concurrent Programming"],
-    [2, "Programming language"],
-    [3, "Object Oriented Programming"],
-    [4, "Data Structures"],
-    [5, "Algorithms"],
-    [6, "Computational Science"],
-    [7, "Numerical Simulation"],
-    [8, "Modeling"],
-    [9, "Virtualization:"],
-    [10, "Simulator"]
+    // [1, "Concurrent Programming"],
+    // [2, "Programming language"],
+    // [3, "Object Oriented Programming"],
+    // [4, "Data Structures"],
+    // [5, "Algorithms"],
+    // [6, "Computational Science"],
+    // [7, "Numerical Simulation"],
+    // [8, "Modeling"],
+    // [9, "Virtualization:"],
+    // [10, "Simulator"]
 ]);
 
 export const tagToAssociatedSecondaryTags: { [key: number]: number[] } = {

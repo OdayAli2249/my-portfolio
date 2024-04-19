@@ -253,6 +253,221 @@ export const projects: Project[] = [{
         { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Demo', actionType: 'LINK', link: 'https://github.com/OdayAli2249/poly-dynamics-2D' },
         { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Details', actionType: 'DEFAULT' },
     ]
+},
+{
+    id: 3,
+    type: 'image',
+    mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/1.jpg',
+    mediaViewer: {
+        image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/1.jpg',
+        images: [
+            'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/1.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/2.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/3.jpg',
+            'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/4.jpg'
+        ],
+        mediaViewType: 'V'
+    },
+    name: 'Med Check',
+    logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mc/Dr Pack V.svg',
+    tags: [1, 2, 3, 4, 5, 6, 7],
+    description: 'Main Contributor among the team with +150 commit: I am intricately tied to this project as the main contributor and a highly effective team member',
+    gallery: [
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/1.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/1.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/2.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/2.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/3.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/3.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/4.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/4.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/5.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/5.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/6.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/6.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/7.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/7.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/8.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/8.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/9.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/9.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/10.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/10.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/11.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/11.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/12.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/12.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/13.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/13.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/14.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/14.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/15.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/15.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/16.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/16.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/17.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/17.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/18.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/18.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/19.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/19.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/20.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/20.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/21.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/21.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/22.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/22.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/23.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/23.jpg', type: 'image', highlightWord: '', tag: 2
+        },
+        {
+            mediaViewer: {
+                image: 'https://odayali2249.github.io/portfolio-resources/resources/mc/2x/24.jpg',
+                mediaViewType: 'V'
+            },
+            src: 'https://odayali2249.github.io/portfolio-resources/resources/mc/3x/24.jpg', type: 'image', highlightWord: '', tag: 2
+        }
+    ],
+    linksTitle: 'Links:',
+    links: [
+        {
+            text: '',
+            url: 'https://check.medxsol.com',
+            clickableText: 'Visit the platform',
+        }],
+    aboutTitle: 'About the Project:',
+    aboutItems: [
+        {
+            title: 'Description',
+            boldSentence: 'Description',
+            description: 'Med Check is an advanced web platform designed to streamline and automate tasks within pharmacies, catering to pharmacists, assistants, nurses, administrators, and most importantly, patients. The system offers comprehensive features for scheduling and monitoring patient medications, managing billing, generating reports, and providing healthcare support, all accessible through a centralized dashboard.',
+            tag: 1
+        },
+        {
+            title: 'Technologies',
+            boldSentence: 'Technologies',
+            description: "The project utilizes a modern tech stack including React.js for building user interfaces, Material-UI for implementing Google's Material Design principles and pre-designed components, TypeScript for enhanced code readability and maintainability, cloud messaging for real-time notifications, React-Query for efficient data fetching with caching capabilities, and Vite for fast and efficient development and deployment processes. These technologies collectively empower the Pharmacy Management System with scalability, performance optimization, and a seamless user experience.",
+            tag: 1
+        }
+    ],
+    options: [
+        { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
+        { icon: 'https://odayali2249.github.io/portfolio-resources/resources/details.svg', label: 'Details', actionType: 'DEFAULT' },
+    ]
 }]
 
 export const projectsMap: Map<number, Project> = arrayToMap(projects);

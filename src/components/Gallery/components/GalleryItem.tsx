@@ -17,8 +17,7 @@ export const GalleryItem: React.FC<GalleryItemProps> = ({ mediaViewer, src, type
 
     return (
         <div className="relative cursor-pointer p-1 flex flex-col items-center" onClick={handleClick}>
-            {type === 'image' ? (<img src={src} alt="Image" className="w-full h-[200px] object-cover rounded-md" />) :
-                (<div onClick={handleClick}><MediaViewer {...mediaViewer!} /></div>)}
+            <div onClick={handleClick}><MediaViewer {...mediaViewer!} /></div>
             {highlightWord && (<div className="m-2 text-center"><HighlightedWordsText text={highlightWord} /></div>)}
             {maximized && (
                 <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-90 flex justify-center items-center z-50"
