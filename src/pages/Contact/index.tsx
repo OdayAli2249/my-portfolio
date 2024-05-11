@@ -1,7 +1,11 @@
 import React from 'react';
 import { FaMapMarkerAlt, FaEnvelope, FaPhone, FaLinkedin } from 'react-icons/fa';
+import { run } from './algorithm/functions';
 
 const Contact: React.FC = () => {
+
+  run();
+
   return (
     <div className="max-w-7xl mx-auto w-full flex flex-col items-start px-2 xs:px-2 sm:px-4 md:px-8 lg:px-24 mb-8">
       <h1 className="text-md xs:text-md md:text-lg lg:text-2xl font-bold text-blue-600 !leading-relaxed py-2 xs:py-2 sm:py-4 md:py-8 lg:py-16" >
