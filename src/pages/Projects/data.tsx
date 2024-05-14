@@ -269,10 +269,10 @@ export const projects: Project[] = [
             ],
             mediaViewType: 'V'
         },
-        name: 'Med Check',
+        name: 'Med Check Platform',
         logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mc/Dr Pack V.svg',
         tags: [1, 2, 3, 4, 5, 6, 7],
-        description: 'Main Contributor among the team with +150 commit: I am intricately tied to this project as the main contributor and a highly effective team member',
+        description: 'Main Contributor among the team with +150 commit.',
         gallery: [
             {
                 mediaViewer: {
@@ -453,17 +453,48 @@ export const projects: Project[] = [
         aboutTitle: 'About the Project:',
         aboutItems: [
             {
-                title: 'Description',
+                title: '# Description:',
                 boldSentence: 'Description',
-                description: 'Med Check is an advanced web platform designed to streamline and automate tasks within pharmacies, catering to pharmacists, assistants, nurses, administrators, and most importantly, patients. The system offers comprehensive features for scheduling and monitoring patient medications, managing billing, generating reports, and providing healthcare support, all accessible through a centralized dashboard.',
+                description: "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
                 tag: 1
             },
             {
-                title: 'Technologies',
-                boldSentence: 'Technologies',
-                description: "The project utilizes a modern tech stack including React.js for building user interfaces, Material-UI for implementing Google's Material Design principles and pre-designed components, TypeScript for enhanced code readability and maintainability, cloud messaging for real-time notifications, React-Query for efficient data fetching with caching capabilities, and Vite for fast and efficient development and deployment processes. These technologies collectively empower the Pharmacy Management System with scalability, performance optimization, and a seamless user experience.",
+                title: '',
+                boldSentence: '',
+                description: "- As someone who joined a company where a project had been stalled for five months without progress, it was challenging to release the first satisfactory version to the client just two months after starting my position, which made him accept the total seven months, and led to me receiving a financial bonus from the CEO as recognition of my achievement.",
                 tag: 1
-            }
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "- Award: Leading the statistics of contributors in the repository, my name stands at the forefront as the top contributor among eight individuals in the project, with 164 commits over three months.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "- Our team has the lowest costs, fewest members, and handles the most challenging and profitable project compared to other teams in the company's market projects.",
+                tag: 1
+            },
+            {
+                title: '# Stack:',
+                boldSentence: '# Stack:',
+                description: "React.js, type script, MaterialUI, react-query, Vite, FCM, axios.",
+                tag: 1
+            },
+            {
+                title: '# My Achievement:',
+                boldSentence: 'My Achievement',
+                description: "- Led a small team and managed task organization, improving branching and automating workflow sequencing between designers and backend/frontend developers. Reduced wait times by about 40% through the implementation of various specialized CI/CD technologies.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "- Refactored page navigation and routing mechanism to reduce the depth of the browsing history stack, which helped reduce the average down to 2 actions to reach the target despite the size of code base and the speed required to constantly deliver new features to the client.",
+                tag: 1
+            },
+
         ],
         options: [
             { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
@@ -473,15 +504,15 @@ export const projects: Project[] = [
     {
         id: 4,
         type: 'image',
-        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/business frames/3x/2.jpg',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/business frames/2x/cover.jpg',
         mediaViewer: {
             image: 'https://odayali2249.github.io/portfolio-resources/resources/web/business frames/3x/2.jpg',
             mediaViewType: 'V'
         },
         name: 'Bus Frames',
-        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/business frames/2x/1.jpg',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/business frames/logo.png',
         tags: [1, 2, 3, 4, 5, 6, 7],
-        description: 'Main Contributor among the team with +150 commit: I am intricately tied to this project as the main contributor and a highly effective team member',
+        description: 'Full stack project with nest.js and react.js.',
         gallery: [
             {
                 mediaViewer: {
@@ -579,41 +610,78 @@ export const projects: Project[] = [
         links: [
             {
                 text: '',
-                url: 'https://check.medxsol.com',
+                url: 'https://odayali2249.github.io/business_frames/home',
                 clickableText: 'Visit the platform',
             }],
         aboutTitle: 'About the Project:',
         aboutItems: [
             {
-                title: 'Description',
+                title: '# Description:',
                 boldSentence: 'Description',
-                description: 'Med Check is an advanced web platform designed to streamline and automate tasks within pharmacies, catering to pharmacists, assistants, nurses, administrators, and most importantly, patients. The system offers comprehensive features for scheduling and monitoring patient medications, managing billing, generating reports, and providing healthcare support, all accessible through a centralized dashboard.',
+                description: 'Implemented a personal, complex, feature-rich full stack project from scratch, the problem that this solution solves is to perform organized way to manage big content with +10,000,000 items within a company/institution, the content items could be services/products of that company, the platform offers a subsystem representing a recruitment platform so the company owner and his partner can hire/fire/promote employees, and most importantly, assign them permissions by creating permission groups of users, content (service/products) and operations (add/edit/delete).within the context mentioned, I talked about only 30% of the project.',
                 tag: 1
             },
             {
-                title: 'Technologies',
-                boldSentence: 'Technologies',
-                description: "The project utilizes a modern tech stack including React.js for building user interfaces, Material-UI for implementing Google's Material Design principles and pre-designed components, TypeScript for enhanced code readability and maintainability, cloud messaging for real-time notifications, React-Query for efficient data fetching with caching capabilities, and Vite for fast and efficient development and deployment processes. These technologies collectively empower the Pharmacy Management System with scalability, performance optimization, and a seamless user experience.",
+                title: '# Stack:',
+                boldSentence: '# Stack:',
+                description: "Back end: node.js nest.js, dependency injection, sequelize ORM, postgresql,type script.",
                 tag: 1
-            }
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "Front end: react.js java script, redux, axios, Sass.",
+                tag: 1
+            },
+            {
+                title: '# My Achievement:',
+                boldSentence: 'My Achievement',
+                description: "Developed a fully functional, complex, well-structured and responsive full-stack project.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "- Excuted a modern Method for debugging and project maintenance, which increased the reliability in general, and the development speed of the system by 30%.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "- Individually, Analyzed and designed readable diagrams using online tools such as Cacoo to ensure that a system is built with a strong foundation.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "- Meticulously tracked the request transmission rate to minimize cloud connectivity, thereby enhancing speed and optimizing user experience.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "- Closely monitored rendering counts, ensuring minimal unnecessary UI rendering using core react.js techniques, thereby enhancing performance and elevating user experience which led to 20% less page loading time.",
+                tag: 1
+            },
+
         ],
         options: [
-            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://odayali2249.github.io/business_frames/home' },
             { icon: 'https://odayali2249.github.io/portfolio-resources/resources/details.svg', label: 'Details', actionType: 'DEFAULT' },
         ]
     },
     {
         id: 5,
         type: 'image',
-        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/1.jpg',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/cover.jpg',
         mediaViewer: {
             image: 'https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/1.jpg',
             mediaViewType: 'V'
         },
-        name: 'Bus Frames',
-        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/1.jpg',
+        name: 'Ordert System',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/ordert/ic_notification.png',
         tags: [1, 2, 3, 4, 5, 6, 7],
-        description: 'Main Contributor among the team with +150 commit: I am intricately tied to this project as the main contributor and a highly effective team member',
+        description: '',
         gallery: [
             {
                 mediaViewer: {
@@ -711,23 +779,35 @@ export const projects: Project[] = [
         links: [
             {
                 text: '',
-                url: 'https://check.medxsol.com',
+                url: 'https://ordert.com/welcome',
                 clickableText: 'Visit the platform',
             }],
         aboutTitle: 'About the Project:',
         aboutItems: [
             {
-                title: 'Description',
+                title: '# Description:',
                 boldSentence: 'Description',
-                description: 'Med Check is an advanced web platform designed to streamline and automate tasks within pharmacies, catering to pharmacists, assistants, nurses, administrators, and most importantly, patients. The system offers comprehensive features for scheduling and monitoring patient medications, managing billing, generating reports, and providing healthcare support, all accessible through a centralized dashboard.',
+                description: 'A web dashboard for restaurant management, payments, and various roles management, catering to end-users, waiters, owners, admins, and kitchen staff.',
                 tag: 1
             },
             {
-                title: 'Technologies',
-                boldSentence: 'Technologies',
-                description: "The project utilizes a modern tech stack including React.js for building user interfaces, Material-UI for implementing Google's Material Design principles and pre-designed components, TypeScript for enhanced code readability and maintainability, cloud messaging for real-time notifications, React-Query for efficient data fetching with caching capabilities, and Vite for fast and efficient development and deployment processes. These technologies collectively empower the Pharmacy Management System with scalability, performance optimization, and a seamless user experience.",
+                title: '',
+                boldSentence: '',
+                description: "It also a platform provides an abundance of interfaces to facilitate user interaction and the creation of integrated orders, with the ability to know the order status in real time through notifications.",
                 tag: 1
-            }
+            },
+            {
+                title: '# My Achievement:',
+                boldSentence: 'My Achievement',
+                description: "- Designed a complex, user friendly UI components to help user find their needs with a minimum number of actions.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "- Considered methods for decreasing rendering cost on browser rendering engine by using debouncing, memoization and lazy loading techniques which shortens the necessary waiting time and increases the level of customer access by 36%.",
+                tag: 1
+            },
         ],
         options: [
             { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
@@ -737,15 +817,15 @@ export const projects: Project[] = [
     {
         id: 6,
         type: 'image',
-        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/medX/3x/4.jpg',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/medX/2x/cover.jpg',
         mediaViewer: {
             image: 'https://odayali2249.github.io/portfolio-resources/resources/web/medX/3x/4.jpg',
             mediaViewType: 'V'
         },
-        name: 'Bus Frames',
-        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/medX/2x/1.jpg',
+        name: 'MedX Website',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/medX/Logo.svg',
         tags: [1, 2, 3, 4, 5, 6, 7],
-        description: 'Main Contributor among the team with +150 commit: I am intricately tied to this project as the main contributor and a highly effective team member',
+        description: '',
         gallery: [
             {
                 mediaViewer: {
@@ -829,23 +909,35 @@ export const projects: Project[] = [
         links: [
             {
                 text: '',
-                url: 'https://check.medxsol.com',
+                url: 'https://medxsol.com/',
                 clickableText: 'Visit the platform',
             }],
         aboutTitle: 'About the Project:',
         aboutItems: [
             {
-                title: 'Description',
+                title: '# Description:',
                 boldSentence: 'Description',
-                description: 'Med Check is an advanced web platform designed to streamline and automate tasks within pharmacies, catering to pharmacists, assistants, nurses, administrators, and most importantly, patients. The system offers comprehensive features for scheduling and monitoring patient medications, managing billing, generating reports, and providing healthcare support, all accessible through a centralized dashboard.',
+                description: 'Promotional website.',
                 tag: 1
             },
             {
-                title: 'Technologies',
-                boldSentence: 'Technologies',
-                description: "The project utilizes a modern tech stack including React.js for building user interfaces, Material-UI for implementing Google's Material Design principles and pre-designed components, TypeScript for enhanced code readability and maintainability, cloud messaging for real-time notifications, React-Query for efficient data fetching with caching capabilities, and Vite for fast and efficient development and deployment processes. These technologies collectively empower the Pharmacy Management System with scalability, performance optimization, and a seamless user experience.",
+                title: '# Stack:',
+                boldSentence: 'Stack',
+                description: "react.js, type script, next.js, TailwindCss.",
                 tag: 1
-            }
+            },
+            {
+                title: '# My Achievement:',
+                boldSentence: 'My Achievement',
+                description: "- Designed and coded complex components using tailwindCss and animation tools, imporving the receiving, acceptance and accessibilty of the visitors.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "- Implemented SEO best practices, escalating website traffic by 50%.",
+                tag: 1
+            },
         ],
         options: [
             { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
@@ -855,15 +947,15 @@ export const projects: Project[] = [
     {
         id: 7,
         type: 'image',
-        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/3.jpg',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/cover.jpg',
         mediaViewer: {
             image: 'https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/3.jpg',
             mediaViewType: 'V'
         },
-        name: 'Bus Frames',
-        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/1.jpg',
+        name: 'Disrupt-X',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/logo.svg',
         tags: [1, 2, 3, 4, 5, 6, 7],
-        description: 'Main Contributor among the team with +150 commit: I am intricately tied to this project as the main contributor and a highly effective team member',
+        description: '',
         gallery: [
             {
                 mediaViewer: {
@@ -926,23 +1018,17 @@ export const projects: Project[] = [
         links: [
             {
                 text: '',
-                url: 'https://check.medxsol.com',
+                url: 'https://disrupt-x.io/',
                 clickableText: 'Visit the platform',
             }],
         aboutTitle: 'About the Project:',
         aboutItems: [
             {
-                title: 'Description',
+                title: '# Description:',
                 boldSentence: 'Description',
-                description: 'Med Check is an advanced web platform designed to streamline and automate tasks within pharmacies, catering to pharmacists, assistants, nurses, administrators, and most importantly, patients. The system offers comprehensive features for scheduling and monitoring patient medications, managing billing, generating reports, and providing healthcare support, all accessible through a centralized dashboard.',
+                description: 'Cloud IoT Solutions Platform/Store/Landing website which allows companies to host, manage, monitor their IoT Devices, the platform contains Roles management system control access privileges.',
                 tag: 1
             },
-            {
-                title: 'Technologies',
-                boldSentence: 'Technologies',
-                description: "The project utilizes a modern tech stack including React.js for building user interfaces, Material-UI for implementing Google's Material Design principles and pre-designed components, TypeScript for enhanced code readability and maintainability, cloud messaging for real-time notifications, React-Query for efficient data fetching with caching capabilities, and Vite for fast and efficient development and deployment processes. These technologies collectively empower the Pharmacy Management System with scalability, performance optimization, and a seamless user experience.",
-                tag: 1
-            }
         ],
         options: [
             { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
@@ -952,15 +1038,15 @@ export const projects: Project[] = [
     {
         id: 8,
         type: 'image',
-        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/facility/3x/1.jpg',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/facility/2x/cover.jpg',
         mediaViewer: {
             image: 'https://odayali2249.github.io/portfolio-resources/resources/web/facility/3x/1.jpg',
             mediaViewType: 'V'
         },
-        name: 'Bus Frames',
-        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/facility/2x/1.jpg',
+        name: 'Facilitrol-X',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/web/facility/logo.png',
         tags: [1, 2, 3, 4, 5, 6, 7],
-        description: 'Main Contributor among the team with +150 commit: I am intricately tied to this project as the main contributor and a highly effective team member',
+        description: '',
         gallery: [
             {
                 mediaViewer: {
@@ -995,21 +1081,21 @@ export const projects: Project[] = [
         links: [
             {
                 text: '',
-                url: 'https://check.medxsol.com',
+                url: 'https://facilitrol-x.io/',
                 clickableText: 'Visit the platform',
             }],
         aboutTitle: 'About the Project:',
         aboutItems: [
             {
-                title: 'Description',
+                title: '# Description:',
                 boldSentence: 'Description',
-                description: 'Med Check is an advanced web platform designed to streamline and automate tasks within pharmacies, catering to pharmacists, assistants, nurses, administrators, and most importantly, patients. The system offers comprehensive features for scheduling and monitoring patient medications, managing billing, generating reports, and providing healthcare support, all accessible through a centralized dashboard.',
+                description: "A landing website for facility management software system which is a comprehensive platform designed to streamline and optimize the management of various aspects of a facility or building.",
                 tag: 1
             },
             {
-                title: 'Technologies',
-                boldSentence: 'Technologies',
-                description: "The project utilizes a modern tech stack including React.js for building user interfaces, Material-UI for implementing Google's Material Design principles and pre-designed components, TypeScript for enhanced code readability and maintainability, cloud messaging for real-time notifications, React-Query for efficient data fetching with caching capabilities, and Vite for fast and efficient development and deployment processes. These technologies collectively empower the Pharmacy Management System with scalability, performance optimization, and a seamless user experience.",
+                title: '# My Achievement:',
+                boldSentence: 'My Achievement',
+                description: "Collaborated with the development and design teams to create user-friendly UI components that showcase promotional content, enhancing the website's appeal to visitors.",
                 tag: 1
             }
         ],
@@ -1021,15 +1107,15 @@ export const projects: Project[] = [
     {
         id: 9,
         type: 'image',
-        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/cover.png',
         mediaViewer: {
             image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg',
             mediaViewType: 'V'
         },
-        name: 'Bus Frames',
-        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/1.jpg',
+        name: 'Ordert',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/logo.png',
         tags: [1, 2, 3, 4, 5, 6, 7],
-        description: 'Main Contributor among the team with +150 commit: I am intricately tied to this project as the main contributor and a highly effective team member',
+        description: '',
         gallery: [
             {
                 mediaViewer: {
@@ -1113,467 +1199,47 @@ export const projects: Project[] = [
         links: [
             {
                 text: '',
-                url: 'https://check.medxsol.com',
-                clickableText: 'Visit the platform',
+                url: 'https://play.google.com/store/apps/details?id=com.mod.ordert&hl=en_US&gl=TR',
+                clickableText: 'Google Play',
             }],
         aboutTitle: 'About the Project:',
         aboutItems: [
             {
-                title: 'Description',
+                title: '# Description:',
                 boldSentence: 'Description',
-                description: 'Med Check is an advanced web platform designed to streamline and automate tasks within pharmacies, catering to pharmacists, assistants, nurses, administrators, and most importantly, patients. The system offers comprehensive features for scheduling and monitoring patient medications, managing billing, generating reports, and providing healthcare support, all accessible through a centralized dashboard.',
+                description: "App simplifies order management and table reservations, offering a visual layout for exploring table positions and additional features.",
                 tag: 1
             },
             {
-                title: 'Technologies',
-                boldSentence: 'Technologies',
-                description: "The project utilizes a modern tech stack including React.js for building user interfaces, Material-UI for implementing Google's Material Design principles and pre-designed components, TypeScript for enhanced code readability and maintainability, cloud messaging for real-time notifications, React-Query for efficient data fetching with caching capabilities, and Vite for fast and efficient development and deployment processes. These technologies collectively empower the Pharmacy Management System with scalability, performance optimization, and a seamless user experience.",
-                tag: 1
-            }
-        ],
-        options: [
-            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
-            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/details.svg', label: 'Details', actionType: 'DEFAULT' },
-        ]
-    },
-    {
-        id: 10,
-        type: 'image',
-        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/2.jpg',
-        mediaViewer: {
-            image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/2.jpg',
-            mediaViewType: 'V'
-        },
-        name: 'Bus Frames',
-        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/1.jpg',
-        tags: [1, 2, 3, 4, 5, 6, 7],
-        description: 'Main Contributor among the team with +150 commit: I am intricately tied to this project as the main contributor and a highly effective team member',
-        gallery: [
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/1.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/1.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/2.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/2.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/3.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/3.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/4.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/4.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/5.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/5.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/6.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/6.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/7.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/7.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/8.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/8.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/9.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/9.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/10.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/10.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-        ],
-        linksTitle: 'Links:',
-        links: [
-            {
-                text: '',
-                url: 'https://check.medxsol.com',
-                clickableText: 'Visit the platform',
-            }],
-        aboutTitle: 'About the Project:',
-        aboutItems: [
-            {
-                title: 'Description',
-                boldSentence: 'Description',
-                description: 'Med Check is an advanced web platform designed to streamline and automate tasks within pharmacies, catering to pharmacists, assistants, nurses, administrators, and most importantly, patients. The system offers comprehensive features for scheduling and monitoring patient medications, managing billing, generating reports, and providing healthcare support, all accessible through a centralized dashboard.',
+                title: '# Stack:',
+                boldSentence: '# Stack:',
+                description: "Flutter, MVVM, GetX, FCM, Code magic.",
                 tag: 1
             },
             {
-                title: 'Technologies',
-                boldSentence: 'Technologies',
-                description: "The project utilizes a modern tech stack including React.js for building user interfaces, Material-UI for implementing Google's Material Design principles and pre-designed components, TypeScript for enhanced code readability and maintainability, cloud messaging for real-time notifications, React-Query for efficient data fetching with caching capabilities, and Vite for fast and efficient development and deployment processes. These technologies collectively empower the Pharmacy Management System with scalability, performance optimization, and a seamless user experience.",
-                tag: 1
-            }
-        ],
-        options: [
-            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
-            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/details.svg', label: 'Details', actionType: 'DEFAULT' },
-        ]
-    },
-    {
-        id: 11,
-        type: 'image',
-        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/2.jpg',
-        mediaViewer: {
-            image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/2.jpg',
-            mediaViewType: 'V'
-        },
-        name: 'Bus Frames',
-        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/1.jpg',
-        tags: [1, 2, 3, 4, 5, 6, 7],
-        description: 'Main Contributor among the team with +150 commit: I am intricately tied to this project as the main contributor and a highly effective team member',
-        gallery: [
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/1.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/1.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/2.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/2.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/3.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/3.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/4.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/4.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/5.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/5.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/6.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/6.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/7.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/7.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/8.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/8.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/9.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/9.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/10.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/10.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-        ],
-        linksTitle: 'Links:',
-        links: [
-            {
-                text: '',
-                url: 'https://check.medxsol.com',
-                clickableText: 'Visit the platform',
-            }],
-        aboutTitle: 'About the Project:',
-        aboutItems: [
-            {
-                title: 'Description',
-                boldSentence: 'Description',
-                description: 'Med Check is an advanced web platform designed to streamline and automate tasks within pharmacies, catering to pharmacists, assistants, nurses, administrators, and most importantly, patients. The system offers comprehensive features for scheduling and monitoring patient medications, managing billing, generating reports, and providing healthcare support, all accessible through a centralized dashboard.',
+                title: '# My Achievement:',
+                boldSentence: 'My Achievement',
+                description: "- Spearheaded a significant refactor of the app, optimizing and streamlining the codebase while integrating newer technologies. This initiative led to a remarkable 60% reduction in the app's size on Google Play.",
                 tag: 1
             },
             {
-                title: 'Technologies',
-                boldSentence: 'Technologies',
-                description: "The project utilizes a modern tech stack including React.js for building user interfaces, Material-UI for implementing Google's Material Design principles and pre-designed components, TypeScript for enhanced code readability and maintainability, cloud messaging for real-time notifications, React-Query for efficient data fetching with caching capabilities, and Vite for fast and efficient development and deployment processes. These technologies collectively empower the Pharmacy Management System with scalability, performance optimization, and a seamless user experience.",
-                tag: 1
-            }
-        ],
-        options: [
-            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
-            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/details.svg', label: 'Details', actionType: 'DEFAULT' },
-        ]
-    },
-    {
-        id: 12,
-        type: 'image',
-        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/2.jpg',
-        mediaViewer: {
-            image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/2.jpg',
-            mediaViewType: 'V'
-        },
-        name: 'Bus Frames',
-        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/1.jpg',
-        tags: [1, 2, 3, 4, 5, 6, 7],
-        description: 'Main Contributor among the team with +150 commit: I am intricately tied to this project as the main contributor and a highly effective team member',
-        gallery: [
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/1.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/1.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/2.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/2.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/3.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/3.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/4.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/4.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/5.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/5.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/6.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/6.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/7.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/7.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/8.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/8.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/9.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/9.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/10.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/10.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-        ],
-        linksTitle: 'Links:',
-        links: [
-            {
-                text: '',
-                url: 'https://check.medxsol.com',
-                clickableText: 'Visit the platform',
-            }],
-        aboutTitle: 'About the Project:',
-        aboutItems: [
-            {
-                title: 'Description',
-                boldSentence: 'Description',
-                description: 'Med Check is an advanced web platform designed to streamline and automate tasks within pharmacies, catering to pharmacists, assistants, nurses, administrators, and most importantly, patients. The system offers comprehensive features for scheduling and monitoring patient medications, managing billing, generating reports, and providing healthcare support, all accessible through a centralized dashboard.',
+                title: '',
+                boldSentence: '',
+                description: "- Elevated the app to a new level, transitioning it from a state riddled with bugs to a polished, production-ready version for end users.",
                 tag: 1
             },
             {
-                title: 'Technologies',
-                boldSentence: 'Technologies',
-                description: "The project utilizes a modern tech stack including React.js for building user interfaces, Material-UI for implementing Google's Material Design principles and pre-designed components, TypeScript for enhanced code readability and maintainability, cloud messaging for real-time notifications, React-Query for efficient data fetching with caching capabilities, and Vite for fast and efficient development and deployment processes. These technologies collectively empower the Pharmacy Management System with scalability, performance optimization, and a seamless user experience.",
-                tag: 1
-            }
-        ],
-        options: [
-            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
-            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/details.svg', label: 'Details', actionType: 'DEFAULT' },
-        ]
-    },
-    {
-        id: 14,
-        type: 'image',
-        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/2.jpg',
-        mediaViewer: {
-            image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/2.jpg',
-            mediaViewType: 'V'
-        },
-        name: 'Bus Frames',
-        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/1.jpg',
-        tags: [1, 2, 3, 4, 5, 6, 7],
-        description: 'Main Contributor among the team with +150 commit: I am intricately tied to this project as the main contributor and a highly effective team member',
-        gallery: [
-            // {
-            //     mediaViewer: {
-            //         image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/1.jpg',
-            //         mediaViewType: 'V'
-            //     },
-            //     src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/1.jpg', type: 'image', highlightWord: '', tag: 2
-            // },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/2.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/2.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/3.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/3.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/4.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/4.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/5.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/5.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/6.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/6.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/7.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/7.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/8.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/8.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/9.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/9.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-            {
-                mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/10.jpg',
-                    mediaViewType: 'V'
-                },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/10.jpg', type: 'image', highlightWord: '', tag: 2
-            },
-        ],
-        linksTitle: 'Links:',
-        links: [
-            {
-                text: '',
-                url: 'https://check.medxsol.com',
-                clickableText: 'Visit the platform',
-            }],
-        aboutTitle: 'About the Project:',
-        aboutItems: [
-            {
-                title: 'Description',
-                boldSentence: 'Description',
-                description: 'Med Check is an advanced web platform designed to streamline and automate tasks within pharmacies, catering to pharmacists, assistants, nurses, administrators, and most importantly, patients. The system offers comprehensive features for scheduling and monitoring patient medications, managing billing, generating reports, and providing healthcare support, all accessible through a centralized dashboard.',
+                title: '',
+                boldSentence: '',
+                description: "- Proposed, designed, and implemented UI/UX enhancements to simplify feature usability for users, ensuring a more intuitive experience.",
                 tag: 1
             },
             {
-                title: 'Technologies',
-                boldSentence: 'Technologies',
-                description: "The project utilizes a modern tech stack including React.js for building user interfaces, Material-UI for implementing Google's Material Design principles and pre-designed components, TypeScript for enhanced code readability and maintainability, cloud messaging for real-time notifications, React-Query for efficient data fetching with caching capabilities, and Vite for fast and efficient development and deployment processes. These technologies collectively empower the Pharmacy Management System with scalability, performance optimization, and a seamless user experience.",
+                title: '',
+                boldSentence: '',
+                description: "- Introduced a modern CI/CD tool called Code Magic, which significantly reduced deployment time by 25%, improving our development process.",
                 tag: 1
-            }
+            },
         ],
         options: [
             { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
@@ -1583,15 +1249,15 @@ export const projects: Project[] = [
     {
         id: 13,
         type: 'image',
-        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/metrowatch/3x/2.jpg',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/metrowatch/2x/cover.jpg',
         mediaViewer: {
             image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/metrowatch/3x/2.jpg',
             mediaViewType: 'V'
         },
-        name: 'Bus Frames',
-        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/metrowatch/2x/1.jpg',
+        name: 'NetroWatch',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/metrowatch/logo.svg',
         tags: [1, 2, 3, 4, 5, 6, 7],
-        description: 'Main Contributor among the team with +150 commit: I am intricately tied to this project as the main contributor and a highly effective team member',
+        description: 'Main Contributor among the team with +150 commit.',
         gallery: [
             {
                 mediaViewer: {
@@ -1668,23 +1334,511 @@ export const projects: Project[] = [
         links: [
             {
                 text: '',
-                url: 'https://check.medxsol.com',
-                clickableText: 'Visit the platform',
+                url: 'https://play.google.com/store/apps/details?id=com.disruptX.metrowatch&hl=en_US&gl=TR',
+                clickableText: 'Google Play',
             }],
         aboutTitle: 'About the Project:',
         aboutItems: [
             {
-                title: 'Description',
+                title: '# Description:',
                 boldSentence: 'Description',
-                description: 'Med Check is an advanced web platform designed to streamline and automate tasks within pharmacies, catering to pharmacists, assistants, nurses, administrators, and most importantly, patients. The system offers comprehensive features for scheduling and monitoring patient medications, managing billing, generating reports, and providing healthcare support, all accessible through a centralized dashboard.',
+                description: "A Feature rich platform enables companies to host, manage, and monitor IoT lock devices (e.g., pad lock, parking lock, asset tracker, bike cable), featuring role management for controlling access privileges and more.",
                 tag: 1
             },
             {
-                title: 'Technologies',
-                boldSentence: 'Technologies',
-                description: "The project utilizes a modern tech stack including React.js for building user interfaces, Material-UI for implementing Google's Material Design principles and pre-designed components, TypeScript for enhanced code readability and maintainability, cloud messaging for real-time notifications, React-Query for efficient data fetching with caching capabilities, and Vite for fast and efficient development and deployment processes. These technologies collectively empower the Pharmacy Management System with scalability, performance optimization, and a seamless user experience.",
+                title: '# Stack:',
+                boldSentence: '# Stack:',
+                description: "Flutter, BLoC, reactive-ble",
+                tag: 1
+            },
+            {
+                title: '# My Achievement:',
+                boldSentence: 'My Achievement',
+                description: "- Collaborated with a 7-member team, organized efficient meetings, and met a tight deadline, reducing the development time for the first version to under 2 months.",
+                tag: 1
+            },
+        ],
+        options: [
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/details.svg', label: 'Details', actionType: 'DEFAULT' },
+        ]
+    },
+    {
+        id: 10,
+        type: 'image',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/cover.jpg',
+        mediaViewer: {
+            image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/2.jpg',
+            mediaViewType: 'V'
+        },
+        name: 'Defcon Patrols',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/logo.png',
+        tags: [1, 2, 3, 4, 5, 6, 7],
+        description: '',
+        gallery: [
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/1.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/1.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/2.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/2.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/3.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/3.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/4.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/4.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/5.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/5.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/6.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/6.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/7.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/7.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/8.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/8.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/9.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/9.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/10.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/10.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+        ],
+        linksTitle: 'Links:',
+        links: [
+            {
+                text: '',
+                url: 'https://play.google.com/store/apps/details?id=com.disruptX.defcon&hl=en_US&gl=TR',
+                clickableText: 'Google Play',
+            }],
+        aboutTitle: 'About the Project:',
+        aboutItems: [
+            {
+                title: '# Description:',
+                boldSentence: 'Description',
+                description: "A mobile app offers a Cloud IoT Solutions Platform for hosting, managing, and monitoring IoT security devices in companies, covering various sensors in institutions. It alerts on alarms, minimizing damage to people and properties.",
+                tag: 1
+            },
+            {
+                title: '# Stack:',
+                boldSentence: '# Stack:',
+                description: "Flutter, BLoC, FCM, socket.io, Clean architecture, dependency  injection.",
+                tag: 1
+            },
+            {
+                title: '# My Achievement:',
+                boldSentence: 'My Achievement',
+                description: "- Refactor huge codebase, with +150 folder and +300 file, to git ride of deprecated packages and reduce code size, ended up with 30% less bundle size on play store.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "- Suggested and Achieved an alarm notification system by implementing bidirectional connection through mesaging service, enhancing the app's reliability and alignment with its purpose.",
+                tag: 1
+            },
+
+        ],
+        options: [
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/details.svg', label: 'Details', actionType: 'DEFAULT' },
+        ]
+    },
+    {
+        id: 11,
+        type: 'image',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/cover.jpg',
+        mediaViewer: {
+            image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/2.jpg',
+            mediaViewType: 'V'
+        },
+        name: 'Digital-X',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/logo.png',
+        tags: [1, 2, 3, 4, 5, 6, 7],
+        description: '',
+        gallery: [
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/1.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/1.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/2.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/2.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/3.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/3.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/4.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/4.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/5.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/5.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/6.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/6.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/7.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/7.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/8.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/8.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/9.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/9.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/10.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/10.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+        ],
+        linksTitle: 'Links:',
+        // links: [
+        //     {
+        //         text: '',
+        //         url: 'https://check.medxsol.com',
+        //         clickableText: 'Visit the platform',
+        //     }],
+        aboutTitle: 'About the Project:',
+        aboutItems: [
+            // {
+            //     title: '# Description:',
+            //     boldSentence: 'Description',
+            //     description: "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
+            //     tag: 1
+            // },
+            {
+                title: '# Stack:',
+                boldSentence: '# Stack:',
+                description: "Flutter, BloC, Clean Architecture",
+                tag: 1
+            },
+            {
+                title: '# My Achievement:',
+                boldSentence: 'My Achievement',
+                description: "Contributed in developement process of the app, including converting figma design to interactive coded UI, managing UI state and data I/O.",
                 tag: 1
             }
+        ],
+        options: [
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/details.svg', label: 'Details', actionType: 'DEFAULT' },
+        ]
+    },
+    {
+        id: 12,
+        type: 'image',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/cover.jpg',
+        mediaViewer: {
+            image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/2.jpg',
+            mediaViewType: 'V'
+        },
+        name: 'Muslim App',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/logo.png',
+        tags: [1, 2, 3, 4, 5, 6, 7],
+        description: '',
+        gallery: [
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/1.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/1.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/2.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/2.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/3.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/3.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/4.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/4.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/5.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/5.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/6.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/6.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/7.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/7.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/8.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/8.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/9.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/9.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/10.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/10.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+        ],
+        linksTitle: 'Links:',
+        // links: [
+        //     {
+        //         text: '',
+        //         url: 'https://check.medxsol.com',
+        //         clickableText: 'Visit the platform',
+        //     }],
+        aboutTitle: 'About the Project:',
+        aboutItems: [
+            {
+                title: '# Description:',
+                boldSentence: 'Description',
+                description: "An app designed for Muslim communities within a city or country, facilitating easy location of mosques through map integration. It serves as a centralized platform for donations and disseminates announcements pertinent to the community's activities and events.",
+                tag: 1
+            },
+            {
+                title: '# Stack:',
+                boldSentence: '# Stack:',
+                description: "Flutter, Clean Architecture",
+                tag: 1
+            },
+            {
+                title: '# My Achievement:',
+                boldSentence: 'My Achievement',
+                description: "- Actively participated in meetings, contributed to the development process, and ensured effective communication throughout the project.",
+                tag: 1
+            },
+        ],
+        options: [
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/details.svg', label: 'Details', actionType: 'DEFAULT' },
+        ]
+    },
+    {
+        id: 14,
+        type: 'image',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/cover.jpg',
+        mediaViewer: {
+            image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/2.jpg',
+            mediaViewType: 'V'
+        },
+        name: 'Global Mobility',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/logo.svg',
+        tags: [1, 2, 3, 4, 5, 6, 7],
+        description: '',
+        gallery: [
+            // {
+            //     mediaViewer: {
+            //         image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/1.jpg',
+            //         mediaViewType: 'V'
+            //     },
+            //     src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/1.jpg', type: 'image', highlightWord: '', tag: 2
+            // },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/2.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/2.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/3.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/3.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/4.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/4.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/5.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/5.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/6.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/6.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/7.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/7.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/8.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/8.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/9.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/9.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/10.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/10.jpg', type: 'image', highlightWord: '', tag: 2
+            },
+        ],
+        linksTitle: 'Links:',
+        // links: [
+        //     {
+        //         text: '',
+        //         url: 'https://check.medxsol.com',
+        //         clickableText: 'Visit the platform',
+        //     }],
+        aboutTitle: 'About the Project:',
+        aboutItems: [
+            {
+                title: '# Description:',
+                boldSentence: 'Description',
+                description: "An online Scooter renting app in Dubai city.",
+                tag: 1
+            },
+            {
+                title: '# Stack:',
+                boldSentence: '# Stack:',
+                description: "Flutter, BloC, Clean Architecture, socket.io",
+                tag: 1
+            },
+            {
+                title: '# My Achievement:',
+                boldSentence: 'My Achievement',
+                description: "- Communicated with non-technical stuff and tester to resolve software issues.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "- Intergrated a map viewer widget with markers and tracking routes to enhance user situational awareness, aligning with the application's purpose.",
+                tag: 1
+            },
+
         ],
         options: [
             { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Visit', actionType: 'LINK', link: 'https://check.medxsol.com' },

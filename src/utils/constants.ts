@@ -8,6 +8,20 @@ export const tags: Map<number, string> = new Map<number, string>([
     [5, "Cloud Messaging"],
     [6, "React-query"],
     [7, "Vite"],
+    [8, "Nest.js"],
+    [9, "Dependency Injection"],
+    [10, "Sequelize ORM"],
+    [11, "Postgresql"],
+    [12, "Redux"],
+    [13, "Axios"],
+    [14, "Sass"],
+    [15, "TailwindCss"],
+    [16, "Flutter"],
+    [17, "BLoC"],
+    [18, "FCM"],
+    [19, "Clean architecture"],
+    [20, "MVVM"],
+    [21, "GetX"],
 ]);
 
 export const secondaryTags: Map<number, string> = new Map<number, string>([
@@ -33,7 +47,7 @@ export const tagToAssociatedSecondaryTags: { [key: number]: number[] } = {
 };
 
 export const groupsTitle: string[] = ['Recommended', 'Proficient', 'Other'];
-export const basicTags = [2, 5, 6];
+export const basicTags = [2, 5, 6, 12, 14, 15, 16];
 
 export const tagsObject = {
     primary: {

@@ -30,9 +30,9 @@ const Projects: React.FC = () => {
       onClick={(event) => { }}>
       {(isXs || isSm || isMd) && filterButton}
       <div className={(isXs || isSm || isMd) ? (
-        isSidebarOpen === undefined ? "fixed top-0 z-50 w-[75%] bg-white transform translate-x-[-100%] h-screen pt-[60px] shadow-lg" : !isSidebarOpen ?
-          `fixed top-0 z-50 w-[75%] bg-white transform translate-x-[-100%] duration-300 ease-in-out h-screen pt-[60px] shadow-lg` :
-          `fixed top-0 z-50 w-[75%] bg-white transform translate-x-[0%] duration-300 ease-in-out h-screen overflow-auto pt-[60px] shadow-lg`) :
+        isSidebarOpen === undefined ? "fixed top-0 z-50 w-[80%] bg-white transform translate-x-[-100%] h-screen pt-[60px] shadow-lg" : !isSidebarOpen ?
+          `fixed top-0 z-50 w-[80%] bg-white transform translate-x-[-100%] duration-300 ease-in-out h-screen pt-[60px] shadow-lg` :
+          `fixed top-0 z-50 w-[80%] bg-white transform translate-x-[0%] duration-300 ease-in-out h-screen overflow-auto pt-[60px] shadow-lg`) :
         "w-[25%] overflow-auto"}>
         {filterButton}
         <SelectableItemList groups={groups} onSelect={(item) => {
@@ -44,7 +44,7 @@ const Projects: React.FC = () => {
       {(isXs || isSm || isMd) && isSidebarOpen && <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-75 flex justify-center items-center z-40"
         onClick={toggleSidebar} />}
       <div className={(isXs || isSm || isMd) ? "w-full overflow-auto" :
-        "w-[75%] overflow-auto"}>
+        "w-[80%] overflow-auto"}>
         <ProjectsGallery >
           {filteredProjects.map(project => (<ProjectCard key={project.id} project={project}
             defaultAction={() => { showProjectDetails(project.id) }} />))}
