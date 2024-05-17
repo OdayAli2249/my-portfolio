@@ -1845,6 +1845,70 @@ export const projects: Project[] = [
             { icon: 'https://odayali2249.github.io/portfolio-resources/resources/details.svg', label: 'Details', actionType: 'DEFAULT' },
         ]
     },
+    {
+        id: 14,
+        type: 'image',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/qi/logo.png',
+        mediaViewer: {
+            image: 'https://odayali2249.github.io/portfolio-resources/resources/qi/logo.png',
+            mediaViewType: 'V'
+        },
+        name: 'Q Interpreter',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/qi/logo.png',
+        tags: [],
+        description: '',
+        gallery: [
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/qi/output.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/qi/output.png', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/qi/chart.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/qi/chart.png', type: 'image', highlightWord: '', tag: 2
+            },
+        ],
+        linksTitle: 'Links:',
+        links: [
+            {
+                text: '',
+                url: 'https://github.com/OdayAli2249/Q-Interpreter',
+                clickableText: 'github',
+            }],
+        aboutTitle: 'About the Project:',
+        hyperWords: new Map<string, string>([
+            ["github", "https://github.com/OdayAli2249/Q-Interpreter"],
+        ]),
+        aboutItems: [
+            {
+                title: '# Description:',
+                boldSentence: 'Description',
+                description: "The Q Interpreter is a Java-based project developed using JavaCC, aimed at interpreting the Q programming language (my made up programming language :-) ). This project provides a parser capable of understanding Q code through the utilization of tokens and grammars defined in a .jj file. JavaCC then generates a set of files that serve as the lexical and syntax analyzers, constructing a parse tree from the input code.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "Complete details on github",
+                tag: 1
+            },
+            {
+                title: '# Stack:',
+                boldSentence: '# Stack:',
+                description: "Java, JCC, Compiler Design, Software Engineering",
+                tag: 1
+            }
+        ],
+        options: [
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Github', actionType: 'LINK', link: 'https://github.com/OdayAli2249/Q-Interpreter' },
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/details.svg', label: 'Details', actionType: 'DEFAULT' },
+        ]
+    },
 ]
 
 export const projectsMap: Map<number, Project> = arrayToMap(projects);
