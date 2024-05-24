@@ -1944,10 +1944,10 @@ export const projects: Project[] = [
             },
             {
                 mediaViewer: {
-                    image: 'https://odayali2249.github.io/portfolio-resources/resources/cc/4.png',
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/cc/7.png',
                     mediaViewType: 'V'
                 },
-                src: 'https://odayali2249.github.io/portfolio-resources/resources/cc/4.png', type: 'image', highlightWord: '', tag: 2
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/cc/7.png', type: 'image', highlightWord: '', tag: 2
             },
             {
                 mediaViewer: {
