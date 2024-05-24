@@ -1894,6 +1894,12 @@ export const projects: Project[] = [
             {
                 title: '',
                 boldSentence: '',
+                description: "Q interpreter support recursion functions! in the right is a screenshot of defining and testing Fibonacci sequence function.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
                 description: "Complete details on github",
                 tag: 1
             },
@@ -1901,6 +1907,121 @@ export const projects: Project[] = [
                 title: '# Stack:',
                 boldSentence: '# Stack:',
                 description: "Java, JCC, Compiler Design, Software Engineering",
+                tag: 1
+            }
+        ],
+        options: [
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/visit.svg', label: 'Github', actionType: 'LINK', link: 'https://github.com/OdayAli2249/Q-Interpreter' },
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/details.svg', label: 'Details', actionType: 'DEFAULT' },
+        ]
+    },
+    {
+        id: 15,
+        type: 'image',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/cc/6.png',
+        mediaViewer: {
+            image: 'https://odayali2249.github.io/portfolio-resources/resources/cc/6.png',
+            mediaViewType: 'V'
+        },
+        name: 'FuzzyDrive',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/cc/logo.png',
+        tags: [],
+        description: '',
+        gallery: [
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/cc/6.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/cc/6.png', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/cc/5.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/cc/5.png', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/cc/4.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/cc/4.png', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/cc/3.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/cc/3.png', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/cc/2.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/cc/2.png', type: 'image', highlightWord: '', tag: 2
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/cc/1.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/cc/1.png', type: 'image', highlightWord: '', tag: 2
+            },
+        ],
+        linksTitle: 'Links:',
+        links: [
+            {
+                text: '',
+                url: 'https://github.com/OdayAli2249/FuzzyDrive---AI-Powered-Self-Driving-Car-Simulation',
+                clickableText: 'github',
+            },
+            {
+                text: '',
+                url: 'https://drive.google.com/drive/folders/1zw306jIbmizZnSh8cGc6N6iLfTnBA0jq',
+                clickableText: 'demo',
+            },
+            {
+                text: 'Reference',
+                url: 'https://www.researchgate.net/publication/2247942_Fuzzy_Control_to_Drive_Car-Like_Vehicles',
+                clickableText: 'Original research paper',
+            },],
+        aboutTitle: 'About the Project:',
+        hyperWords: new Map<string, string>([
+            ["here", "https://www.researchgate.net/publication/2247942_Fuzzy_Control_to_Drive_Car-Like_Vehicles"],
+            ["github", "https://github.com/OdayAli2249/FuzzyDrive---AI-Powered-Self-Driving-Car-Simulation"]
+        ]),
+        aboutItems: [
+            {
+                title: '# Description:',
+                boldSentence: 'Description',
+                description: "A Unity 3D simulation that demonstrates the capabilities of an AI-powered self-driving car using fuzzy logic and rule-based system technologies. This project tackles the complex challenge of implementing a self-driving car simulation, based on research from a self-driving car simulation paper which you can find here.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "The simulation features two vehicles: one operated by the user and the other navigated by an intelligent system leveraging fuzzy logic principles and knowledge-based systems.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "My contribution is to transform a theoretical concept in a scientific research into a measurable and controllable computer simulation using artificial intelligence technology, as well as an improvement on the method presented in the research to increase efficiency.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "Complete, Well documented details on github",
+                tag: 1
+            },
+            {
+                title: '# Stack:',
+                boldSentence: '# Stack:',
+                description: "Artificial Intelligence, Rule-Based Systems, Expert Systems, Fuzzy Logic, Game Development, Unity 3D.",
                 tag: 1
             }
         ],
