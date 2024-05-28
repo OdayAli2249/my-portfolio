@@ -1601,7 +1601,7 @@ export const projects: Project[] = [
             mediaViewType: 'V'
         },
         name: 'Q Interpreter',
-        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/qi/logo.png',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/qi/logo.p5g',
         tags: [],
         description: '',
         gallery: [
@@ -1948,6 +1948,303 @@ export const projects: Project[] = [
         options: [
             { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Code', actionType: 'LINK', link: 'https://github.com/OdayAli2249/poly-dynamics-2D' },
             { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Demo', actionType: 'LINK', link: 'https://drive.google.com/drive/folders/10ZuK_7OOMD-zlNDn203hk-63XNLrMH9M?usp=sharing' },
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Details', actionType: 'DEFAULT' },
+        ]
+    },
+    {
+        id: 16,
+        type: 'video',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/ss/cover.png',
+        mediaViewer: {
+            image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/cover.png',
+            mediaViewType: 'V'
+        },
+        name: 'ML Sudoku Solver',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/ss/logo.jpg',
+        tags: [2, 7, 8, 9, 10],
+        hyperWords: new Map<string, string>([
+            ['github', "https://github.com/OdayAli2249/ML-Sudoku-Solver"],
+        ]),
+        description: 'Computer Vission - Machine Learning',
+        gallery: [
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/5.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/ss/5.jpg', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol.jpg', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol2.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol2.jpg', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol3.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol3.jpg', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol4.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol4.jpg', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/1.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/ss/1.jpg', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/1-sol.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/ss/1-sol.png', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/2.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/ss/2.jpg', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/2-sol.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/ss/2-sol.png', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/3.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/ss/3.jpg', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/3-sol.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/ss/3-sol.png', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/4.jpg',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/ss/4.jpg', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/ss/4-sol.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/ss/4-sol.png', type: 'image', highlightWord: '', tag: 1
+            },
+        ],
+        linksTitle: 'Links:',
+        links: [
+            {
+                text: 'Source Code:',
+                url: 'https://github.com/OdayAli2249/ML-Sudoku-Solver',
+                clickableText: 'ML Sudoku Solver',
+            }
+        ],
+        aboutTitle: 'About the Project:',
+        aboutItems: [
+            {
+                title: '',
+                boldSentence: '',
+                description: "Real-Time ML Sudoku Solver is a project that demonstrates a fascinating intersection of computer vision, machine learning," +
+                    " and deep learning to solve Sudoku puzzles directly from video capture.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "- Complete documentation about implementation available on github .",
+                tag: 1
+            },
+            {
+                title: 'Technologies',
+                boldSentence: 'Technologies',
+                description: 'Python , Machine Learning , Computer Vission , Tensorflow , Keras , Opencv .',
+                tag: 1
+            },
+            {
+                title: 'Features',
+                boldSentence: 'Features',
+                description: '- Real-Time Video Processing: Captures and processes video input to detect and solve Sudoku puzzles in real-time.',
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: '- Image Input Support: Besides video, it can also solve Sudoku puzzles from still images.',
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: '- Machine Learning: Utilizes TensorFlow and Keras for digit recognition.',
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: "- Computer Vision: Employs OpenCV for image preprocessing and contour detection.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: '- Dynamic Overlay: Displays the solved Sudoku puzzle overlayed on the original video feed.',
+                tag: 1
+            },
+        ],
+        options: [
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Code', actionType: 'LINK', link: 'https://github.com/OdayAli2249/ML-Sudoku-Solver' },
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Details', actionType: 'DEFAULT' },
+        ]
+    },
+    {
+        id: 17,
+        type: 'video',
+        mediaUrl: 'https://odayali2249.github.io/portfolio-resources/resources/py/cover.png',
+        mediaViewer: {
+            image: 'https://odayali2249.github.io/portfolio-resources/resources/py/cover.png',
+            mediaViewType: 'V'
+        },
+        name: 'Python for Beginners',
+        logoUrl: 'https://odayali2249.github.io/portfolio-resources/resources/py/logo.svg',
+        tags: [2, 7, 8, 9, 10],
+        hyperWords: new Map<string, string>([
+            ['github', "https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23"],
+        ]),
+        description: 'Educational - Voluntary',
+        gallery: [
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/py/image1.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/py/image1.png', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/py/image2.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/py/image2.png', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/py/image3.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/py/image3.png', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/py/image4.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/py/image4.png', type: 'image', highlightWord: '', tag: 1
+            },
+            {
+                mediaViewer: {
+                    image: 'https://odayali2249.github.io/portfolio-resources/resources/py/image5.png',
+                    mediaViewType: 'V'
+                },
+                src: 'https://odayali2249.github.io/portfolio-resources/resources/py/image5.png', type: 'image', highlightWord: '', tag: 1
+            },
+        ],
+        linksTitle: 'Links:',
+        links: [
+            {
+                text: 'Source Code:',
+                url: 'https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23',
+                clickableText: 'Course Files',
+            }
+        ],
+        aboutTitle: 'About the Project:',
+        aboutItems: [
+            {
+                title: '',
+                boldSentence: '',
+                description: "This is the lab files and exercises belong to a free, voluntary Python course that I created, organized and taught at information technology engineering,"
+                    + " damascus university. The aim of this course was to provide a comprehensive introduction to Python programming, covering fundamental concepts and progressing to more advanced topics, including an introduction to artificial intelligence.",
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: `- The curriculum is designed to be comprehensive and engaging, featuring various exercises that illustrate advanced concepts and reinforce each chapter's goals.
+                 Exercises include a "Guess the Number" game, an employee list CRUD application, a "Worm" game, a multi-player Tic-Tac-Toe game, and, in the AI introduction chapter, a family relationship recognition program using First-order logic. These practical projects ensure learners gain hands-on experience with Python's diverse capabilities.`,
+                tag: 1
+            },
+            {
+                title: 'Chapters',
+                boldSentence: 'Chapters',
+                description: '',
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: '- Basics: Data types, loops, control commands, conditions.',
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: '- Functions: Defining and calling functions, arguments, return values, scope.',
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: '- Data Structures: Lists, tuples, dictionaries, sets.',
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: '- Object-Oriented Programming (OOP): Classes, objects, inheritance, polymorphism.',
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: '- Storage and Handling of Files: Reading from and writing to files, handling different file formats.',
+                tag: 1
+            },
+            {
+                title: '',
+                boldSentence: '',
+                description: '- Introduction to Artificial Intelligence: Basic concepts of AI, simple AI project.',
+                tag: 1
+            },
+        ],
+        options: [
+            { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Code', actionType: 'LINK', link: 'https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23' },
             { icon: 'https://odayali2249.github.io/portfolio-resources/resources/profile_1.png', label: 'Details', actionType: 'DEFAULT' },
         ]
     },
