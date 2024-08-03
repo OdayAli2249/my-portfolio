@@ -13,10 +13,10 @@ const Contact: React.FC = () => {
         {"Contact Me"}
       </h1>
       <div className="w-full grid grid-cols-1 xs:grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-3 gap-4">
-        <div className="flex items-center">
+        {/* <div className="flex items-center">
           <FaMapMarkerAlt className="text-blue-500 mr-4" />
           <span>{`${"Damascus"}, ${"Syria"}`}</span>
-        </div>
+        </div> */}
 
         <div className="flex items-center">
           <FaPhone className="text-blue-500 mr-4" />
@@ -26,11 +26,11 @@ const Contact: React.FC = () => {
         <div className="flex items-center">
           <FaLinkedin className="text-blue-500 mr-4" />
           <a
-            href={"https://odayali2249.github.io/my-portfolio"}
+            href={"https://www.linkedin.com/in/oday-ali-eng/"}
             target="_blank"
             rel="noopener noreferrer"
           >
-            {"Linkedin"}
+            Linkedin
           </a>
         </div>
 
