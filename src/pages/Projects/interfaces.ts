@@ -1,3 +1,4 @@
+import { ReactNode } from "react";
 import { GalleryItemProps } from "../../components/Gallery/interfaces";
 import { Item } from "../../components/ItemList/interfaces";
 import { Item as LinkItem } from "../../components/LinkList/interfaces";
@@ -23,6 +24,7 @@ export interface Project {
     aboutTitle?: string;
     aboutItems?: Item[];
     options: ProjectOption[];
+    customComponent?: ReactNode;
 }
 
 
