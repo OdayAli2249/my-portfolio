@@ -26,7 +26,7 @@ export const basicInfo: AboutMeData = {
   ],
   languages: ["English", "German (in progress)"],
   profession:
-    "A software engineer with more than 3 years of experience, specializing in front-end development.",
+    "A software engineer with 4 years of experience, specializing in front-end development.",
 };
 
 export const services: ServicesProps = {
@@ -162,7 +162,7 @@ trust among members, and resulted in more efficient project completions.`,
 satisfaction and increased customer retention by 30% by addressing bottlenecks and drop-off points.`,
       ],
       companyName: "Ark-e Tech",
-      position: "Front-end Engineer",
+      position: "Front-end Developer",
       date: "MAY 2022 - FEB 2023",
     },
     {
@@ -176,8 +176,8 @@ eight individuals in my team, with 164 commits over three months.`,
         // "Implemented innovative caching strategies and optimized API design to minimize server calls, thereby accelerating user interaction and response times.",
       ],
       companyName: "Disrupt-x.IOT",
-      position: "Mobile Engineer",
-      date: "MAR 2021 - APR 2022",
+      position: "Mobile Developer",
+      date: "NOV 2020 - APR 2022",
     },
   ],
 };
