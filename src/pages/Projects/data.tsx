@@ -160,31 +160,31 @@ export const projects: Project[] = [
     id: 3,
     type: "image",
     mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/1.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/1.png",
     mediaViewer: {
       image:
-        "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/1.png",
       images: [
-        "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/1.png",
-        "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/2.png",
-        "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/3.png",
-        "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/4.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/2.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/3.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/4.png",
       ],
       mediaViewType: "V",
     },
     name: "Dr.Pack",
     logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/logo.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/logo.png",
     tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
     description: "Desktop app - Web platform",
     gallery: [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/cover.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/cover.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/1.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/1.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -192,10 +192,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/2.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/2.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/2.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/2.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -203,10 +203,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/3.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/3.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/3.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/3.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -214,10 +214,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/4.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/4.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/4.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/4.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -225,10 +225,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/5.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/5.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/5.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/5.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -236,10 +236,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/6.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/6.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/6.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/6.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -247,10 +247,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/7.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/7.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/7.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/7.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -258,10 +258,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/8.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/8.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/8.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/8.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -269,10 +269,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/9.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/9.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/9.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/9.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -349,31 +349,31 @@ export const projects: Project[] = [
     id: 24,
     type: "image",
     mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/1.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/1.png",
     mediaViewer: {
       image:
-        "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/1.png",
       images: [
-        "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/1.png",
-        "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/2.png",
-        "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/3.png",
-        "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/4.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/2.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/3.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/4.png",
       ],
       mediaViewType: "V",
     },
     name: "X.eMAR",
     logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/logo.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/logo.png",
     tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
     description: "Desktop app - Web platform",
     gallery: [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/cover.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/cover.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/1.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/1.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -381,10 +381,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/2.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/2.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/2.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/2.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -392,10 +392,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/3.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/3.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/3.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/3.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -403,10 +403,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/4.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/4.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/4.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/4.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -414,10 +414,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/5.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/5.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/5.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/5.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -425,10 +425,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/6.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/6.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/6.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/6.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -436,10 +436,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/7.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/7.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/7.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/7.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -447,10 +447,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/8.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/8.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/8.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/8.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -458,10 +458,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/9.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/9.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/9.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/9.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -469,10 +469,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/10.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/10.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/10.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/10.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -549,31 +549,31 @@ export const projects: Project[] = [
     id: 25,
     type: "image",
     mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/1.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/1.png",
     mediaViewer: {
       image:
-        "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/1.png",
       images: [
-        "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/1.png",
-        "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/2.png",
-        "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/3.png",
-        "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/4.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/2.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/3.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/4.png",
       ],
       mediaViewType: "V",
     },
     name: "Pharmacy RX",
     logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/logo.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/logo.png",
     tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
     description: "Web Dashboard",
     gallery: [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/cover.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/cover.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/1.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/1.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -581,10 +581,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/2.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/2.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/2.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/2.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -592,10 +592,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/3.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/3.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/3.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/3.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -603,10 +603,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/4.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/4.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/4.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/4.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -614,10 +614,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/5.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/5.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/5.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/5.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -625,10 +625,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/6.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/6.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/6.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/6.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -636,10 +636,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/7.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/7.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/7.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/7.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -647,10 +647,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/8.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/8.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/8.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/8.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -658,10 +658,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/9.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/9.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/9.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/9.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -669,10 +669,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/10.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/10.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/10.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/10.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -680,10 +680,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/11.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/11.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/11.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/11.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -691,10 +691,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/12.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/12.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/12.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/12.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -702,10 +702,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/13.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/13.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/13.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/13.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -713,10 +713,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/14.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/14.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/14.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/14.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -724,10 +724,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/15.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/15.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/15.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/15.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -735,10 +735,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/16.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/16.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/16.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/16.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -815,31 +815,31 @@ export const projects: Project[] = [
     id: 26,
     type: "image",
     mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/1.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/1.png",
     mediaViewer: {
       image:
-        "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/1.png",
       images: [
-        "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/1.png",
-        "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/2.png",
-        "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/3.png",
-        "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/4.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/2.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/3.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/4.png",
       ],
       mediaViewType: "V",
     },
     name: "Alef - Ignite Shield",
     logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/logo.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/logo.png",
     tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
     description: "Web Dashboard",
     gallery: [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/cover.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/cover.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/1.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/1.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -847,10 +847,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/2.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/2.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/2.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/2.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -858,10 +858,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/3.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/3.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/3.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/3.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -869,10 +869,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/4.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/4.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/4.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/4.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -880,10 +880,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/5.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/5.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/5.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/5.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -891,10 +891,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/6.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/6.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/6.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/6.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -902,10 +902,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/7.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/7.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/7.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/7.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -913,10 +913,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/8.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/8.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/8.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/8.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -993,31 +993,31 @@ export const projects: Project[] = [
     id: 27,
     type: "image",
     mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/1.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/2x/1.png",
     mediaViewer: {
       image:
-        "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/3x/1.png",
       images: [
-        "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/1.png",
-        "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/2.png",
-        "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/3.png",
-        "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/4.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/2x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/2x/2.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/2x/3.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/2x/4.png",
       ],
       mediaViewType: "V",
     },
     name: "Dashboard Builder",
     logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/logo.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/logo.png",
     tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
     description: "Web Dashboard",
     gallery: [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/cover.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/2x/cover.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/1.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/3x/1.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1025,10 +1025,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/2.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/2x/2.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/2.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/3x/2.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1036,10 +1036,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/3.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/2x/3.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/3.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/3x/3.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1047,10 +1047,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/4.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/2x/4.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/4.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/3x/4.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1058,10 +1058,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/5.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/2x/5.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/5.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/3x/5.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1069,10 +1069,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/6.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/2x/6.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/6.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/3x/6.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1080,10 +1080,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/7.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/2x/7.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/7.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/3x/7.png",
         type: "image",
         highlightWord: "",
         tag: 2,
