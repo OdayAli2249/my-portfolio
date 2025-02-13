@@ -160,31 +160,31 @@ export const projects: Project[] = [
     id: 3,
     type: "image",
     mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/1.jpg",
+      "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/1.png",
     mediaViewer: {
       image:
-        "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/1.jpg",
+        "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/1.png",
       images: [
-        "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/1.jpg",
-        "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/2.jpg",
-        "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/3.jpg",
-        "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/4.jpg",
+        "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/2.png",
+        "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/3.png",
+        "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/4.png",
       ],
       mediaViewType: "V",
     },
     name: "Dr.Pack",
     logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mc/logo.png",
+      "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/logo.png",
     tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
     description: "Desktop app - Web platform",
     gallery: [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/1.jpg",
+            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/cover.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/1.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/1.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -192,10 +192,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/2.jpg",
+            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/2.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/2.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/2.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -203,10 +203,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/3.jpg",
+            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/3.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/3.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/3.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -214,10 +214,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/4.jpg",
+            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/4.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/4.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/4.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -225,10 +225,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/5.jpg",
+            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/5.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/5.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/5.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -236,10 +236,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/6.jpg",
+            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/6.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/6.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/6.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -247,10 +247,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/7.jpg",
+            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/7.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/7.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/7.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -258,10 +258,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/8.jpg",
+            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/8.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/8.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/8.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -269,175 +269,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/9.jpg",
+            "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/2x/9.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/9.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/10.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/10.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/11.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/11.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/12.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/12.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/13.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/13.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/14.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/14.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/15.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/15.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/16.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/16.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/17.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/17.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/18.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/18.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/19.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/19.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/20.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/20.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/21.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/21.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/22.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/22.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/23.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/23.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mc/2x/24.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mc/3x/24.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dr.Pack/3x/9.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -502,6 +337,817 @@ export const projects: Project[] = [
         label: "Visit",
         actionType: "LINK",
         link: "https://check.medxsol.com",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+        label: "Details",
+        actionType: "DEFAULT",
+      },
+    ],
+  },
+  {
+    id: 24,
+    type: "image",
+    mediaUrl:
+      "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/1.png",
+    mediaViewer: {
+      image:
+        "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/1.png",
+      images: [
+        "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/2.png",
+        "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/3.png",
+        "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/4.png",
+      ],
+      mediaViewType: "V",
+    },
+    name: "X.eMAR",
+    logoUrl:
+      "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/logo.png",
+    tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
+    description: "Desktop app - Web platform",
+    gallery: [
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/cover.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/1.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/2.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/2.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/3.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/3.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/4.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/4.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/5.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/5.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/6.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/6.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/7.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/7.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/8.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/8.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/9.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/9.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/2x/10.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/X.eMAR/3x/10.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+    ],
+    linksTitle: "Links:",
+    links: [
+      {
+        text: "",
+        url: "https://check.medxsol.com",
+        clickableText: "Visit the platform",
+      },
+    ],
+    aboutTitle: "About the Project:",
+    aboutItems: [
+      {
+        title: "# Description:",
+        boldSentence: "Description",
+        description:
+          "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- As someone who joined a company where a project had been stalled for five months without progress, it was challenging to release the first satisfactory version to the client just two months after starting my position, which made him accept the total seven months, and led to me receiving a financial bonus from the CEO as recognition of my achievement.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Our team has the lowest costs, fewest members, and handles the most challenging and profitable project compared to other teams in the company.",
+        tag: 1,
+      },
+      {
+        title: "# Stack:",
+        boldSentence: "# Stack:",
+        description:
+          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, FCM.",
+        tag: 1,
+      },
+      {
+        title: "# My Achievement:",
+        boldSentence: "My Achievement",
+        description:
+          "- Led a small team and managed task organization, improving branching and automating workflow sequencing between designers and backend/frontend developers. Reduced wait times by about 40% through the implementation of various specialized CI/CD technologies.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Refactored page navigation and routing mechanism to reduce the depth of the browsing history stack, which helped reduce the average down to 2 actions to reach the target despite the size of code base and the speed required to constantly deliver new features to the client.",
+        tag: 1,
+      },
+    ],
+    options: [
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
+        label: "Visit",
+        actionType: "LINK",
+        link: "https://check.medxsol.com",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+        label: "Details",
+        actionType: "DEFAULT",
+      },
+    ],
+  },
+  {
+    id: 25,
+    type: "image",
+    mediaUrl:
+      "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/1.png",
+    mediaViewer: {
+      image:
+        "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/1.png",
+      images: [
+        "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/2.png",
+        "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/3.png",
+        "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/4.png",
+      ],
+      mediaViewType: "V",
+    },
+    name: "Pharmacy RX",
+    logoUrl:
+      "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/logo.png",
+    tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
+    description: "Web Dashboard",
+    gallery: [
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/cover.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/1.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/2.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/2.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/3.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/3.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/4.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/4.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/5.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/5.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/6.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/6.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/7.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/7.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/8.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/8.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/9.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/9.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/10.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/10.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/11.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/11.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/12.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/12.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/13.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/13.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/14.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/14.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/15.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/15.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/2x/16.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Pharmacy RX/3x/16.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      }
+    ],
+    linksTitle: "Links:",
+    links: [
+      {
+        text: "",
+        url: "https://check.medxsol.com",
+        clickableText: "Visit the platform",
+      },
+    ],
+    aboutTitle: "About the Project:",
+    aboutItems: [
+      {
+        title: "# Description:",
+        boldSentence: "Description",
+        description:
+          "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- As someone who joined a company where a project had been stalled for five months without progress, it was challenging to release the first satisfactory version to the client just two months after starting my position, which made him accept the total seven months, and led to me receiving a financial bonus from the CEO as recognition of my achievement.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Our team has the lowest costs, fewest members, and handles the most challenging and profitable project compared to other teams in the company.",
+        tag: 1,
+      },
+      {
+        title: "# Stack:",
+        boldSentence: "# Stack:",
+        description:
+          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, FCM.",
+        tag: 1,
+      },
+      {
+        title: "# My Achievement:",
+        boldSentence: "My Achievement",
+        description:
+          "- Led a small team and managed task organization, improving branching and automating workflow sequencing between designers and backend/frontend developers. Reduced wait times by about 40% through the implementation of various specialized CI/CD technologies.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Refactored page navigation and routing mechanism to reduce the depth of the browsing history stack, which helped reduce the average down to 2 actions to reach the target despite the size of code base and the speed required to constantly deliver new features to the client.",
+        tag: 1,
+      },
+    ],
+    options: [
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
+        label: "Visit",
+        actionType: "LINK",
+        link: "https://chilliwack-ph.medxsol.com/",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+        label: "Details",
+        actionType: "DEFAULT",
+      },
+    ],
+  },
+  {
+    id: 26,
+    type: "image",
+    mediaUrl:
+      "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/1.png",
+    mediaViewer: {
+      image:
+        "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/1.png",
+      images: [
+        "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/2.png",
+        "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/3.png",
+        "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/4.png",
+      ],
+      mediaViewType: "V",
+    },
+    name: "Alef - Ignite Shield",
+    logoUrl:
+      "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/logo.png",
+    tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
+    description: "Web Dashboard",
+    gallery: [
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/cover.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/1.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/2.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/2.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/3.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/3.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/4.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/4.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/5.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/5.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/6.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/6.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/7.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/7.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/2x/8.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Ignite Shield/3x/8.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+    ],
+    linksTitle: "Links:",
+    links: [
+      {
+        text: "",
+        url: "https://stage.alefiot.xyz/",
+        clickableText: "Visit the platform",
+      },
+    ],
+    aboutTitle: "About the Project:",
+    aboutItems: [
+      {
+        title: "# Description:",
+        boldSentence: "Description",
+        description:
+          "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- As someone who joined a company where a project had been stalled for five months without progress, it was challenging to release the first satisfactory version to the client just two months after starting my position, which made him accept the total seven months, and led to me receiving a financial bonus from the CEO as recognition of my achievement.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Our team has the lowest costs, fewest members, and handles the most challenging and profitable project compared to other teams in the company.",
+        tag: 1,
+      },
+      {
+        title: "# Stack:",
+        boldSentence: "# Stack:",
+        description:
+          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, FCM.",
+        tag: 1,
+      },
+      {
+        title: "# My Achievement:",
+        boldSentence: "My Achievement",
+        description:
+          "- Led a small team and managed task organization, improving branching and automating workflow sequencing between designers and backend/frontend developers. Reduced wait times by about 40% through the implementation of various specialized CI/CD technologies.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Refactored page navigation and routing mechanism to reduce the depth of the browsing history stack, which helped reduce the average down to 2 actions to reach the target despite the size of code base and the speed required to constantly deliver new features to the client.",
+        tag: 1,
+      },
+    ],
+    options: [
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
+        label: "Visit",
+        actionType: "LINK",
+        link: "https://chilliwack-ph.medxsol.com/",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+        label: "Details",
+        actionType: "DEFAULT",
+      },
+    ],
+  },
+  {
+    id: 27,
+    type: "image",
+    mediaUrl:
+      "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/1.png",
+    mediaViewer: {
+      image:
+        "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/1.png",
+      images: [
+        "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/2.png",
+        "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/3.png",
+        "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/4.png",
+      ],
+      mediaViewType: "V",
+    },
+    name: "Dashboard Builder",
+    logoUrl:
+      "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/logo.png",
+    tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
+    description: "Web Dashboard",
+    gallery: [
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/cover.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/1.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/2.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/2.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/3.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/3.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/4.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/4.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/5.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/5.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/6.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/6.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/2x/7.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/web/Dashboard Builder/3x/7.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+    ],
+    linksTitle: "Links:",
+    links: [
+      {
+        text: "",
+        url: "https://stage.alefiot.xyz/",
+        clickableText: "Visit the platform",
+      },
+    ],
+    aboutTitle: "About the Project:",
+    aboutItems: [
+      {
+        title: "# Description:",
+        boldSentence: "Description",
+        description:
+          "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- As someone who joined a company where a project had been stalled for five months without progress, it was challenging to release the first satisfactory version to the client just two months after starting my position, which made him accept the total seven months, and led to me receiving a financial bonus from the CEO as recognition of my achievement.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Our team has the lowest costs, fewest members, and handles the most challenging and profitable project compared to other teams in the company.",
+        tag: 1,
+      },
+      {
+        title: "# Stack:",
+        boldSentence: "# Stack:",
+        description:
+          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, FCM.",
+        tag: 1,
+      },
+      {
+        title: "# My Achievement:",
+        boldSentence: "My Achievement",
+        description:
+          "- Led a small team and managed task organization, improving branching and automating workflow sequencing between designers and backend/frontend developers. Reduced wait times by about 40% through the implementation of various specialized CI/CD technologies.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Refactored page navigation and routing mechanism to reduce the depth of the browsing history stack, which helped reduce the average down to 2 actions to reach the target despite the size of code base and the speed required to constantly deliver new features to the client.",
+        tag: 1,
+      },
+    ],
+    options: [
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
+        label: "Visit",
+        actionType: "LINK",
+        link: "https://chilliwack-ph.medxsol.com/",
       },
       {
         icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
@@ -1163,250 +1809,250 @@ export const projects: Project[] = [
       },
     ],
   },
-  {
-    id: 7,
-    type: "image",
-    mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/cover.jpg",
-    mediaViewer: {
-      image:
-        "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/3.jpg",
-      mediaViewType: "V",
-    },
-    name: "Disrupt-X",
-    logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/logo.png",
-    tags: [2, 3],
-    description: "Web Platform",
-    gallery: [
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/1.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/1.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/2.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/2.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/3.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/3.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/4.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/4.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/5.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/5.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/6.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/6.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/7.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/7.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/8.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/8.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-    ],
-    linksTitle: "Links:",
-    links: [
-      {
-        text: "",
-        url: "https://disrupt-x.io/",
-        clickableText: "Visit the platform",
-      },
-    ],
-    aboutTitle: "About the Project:",
-    aboutItems: [
-      {
-        title: "# Description:",
-        boldSentence: "Description",
-        description:
-          "Cloud IoT Solutions Platform/Store/Landing website which allows companies to host, manage, monitor their IoT Devices, the platform contains Roles management system control access privileges.",
-        tag: 1,
-      },
-      {
-        title: "# My Achievement:",
-        boldSentence: "My Achievement",
-        description:
-          "Maintaining and improving software applications by fixing bugs and integrating new features. Enhanced system stability and contributed to smoother user experiences.",
-        tag: 1,
-      },
-    ],
-    options: [
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
-        label: "Visit",
-        actionType: "LINK",
-        link: "https://disrupt-x.io/",
-      },
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-        label: "Details",
-        actionType: "DEFAULT",
-      },
-    ],
-  },
-  {
-    id: 8,
-    type: "image",
-    mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/facility/2x/cover.jpg",
-    mediaViewer: {
-      image:
-        "https://odayali2249.github.io/portfolio-resources/resources/web/facility/3x/1.jpg",
-      mediaViewType: "V",
-    },
-    name: "Facilitrol-X",
-    logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/facility/logo.png",
-    tags: [2, 3, 24],
-    description: "Website",
-    gallery: [
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/facility/2x/1.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/facility/3x/1.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/facility/2x/2.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/facility/3x/2.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/facility/2x/3.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/facility/3x/3.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/facility/2x/4.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/facility/3x/4.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-    ],
-    linksTitle: "Links:",
-    links: [
-      {
-        text: "",
-        url: "https://facilitrol-x.io/",
-        clickableText: "Visit the platform",
-      },
-    ],
-    aboutTitle: "About the Project:",
-    aboutItems: [
-      {
-        title: "# Description:",
-        boldSentence: "Description",
-        description:
-          "A landing website for facility management software system which is a comprehensive platform designed to streamline and optimize the management of various aspects of a facility or building.",
-        tag: 1,
-      },
-      {
-        title: "# My Achievement:",
-        boldSentence: "My Achievement",
-        description:
-          "Collaborated with the development and design teams to create user-friendly UI components that showcase promotional content, enhancing the website's appeal to visitors.",
-        tag: 1,
-      },
-    ],
-    options: [
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
-        label: "Visit",
-        actionType: "LINK",
-        link: "https://facilitrol-x.io/",
-      },
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-        label: "Details",
-        actionType: "DEFAULT",
-      },
-    ],
-  },
+  // {
+  //   id: 7,
+  //   type: "image",
+  //   mediaUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/cover.jpg",
+  //   mediaViewer: {
+  //     image:
+  //       "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/3.jpg",
+  //     mediaViewType: "V",
+  //   },
+  //   name: "Disrupt-X",
+  //   logoUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/logo.png",
+  //   tags: [2, 3],
+  //   description: "Web Platform",
+  //   gallery: [
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/1.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/1.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/2.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/2.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/3.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/3.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/4.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/4.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/5.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/5.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/6.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/6.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/7.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/7.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/2x/8.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/disrupt-x/3x/8.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //   ],
+  //   linksTitle: "Links:",
+  //   links: [
+  //     {
+  //       text: "",
+  //       url: "https://disrupt-x.io/",
+  //       clickableText: "Visit the platform",
+  //     },
+  //   ],
+  //   aboutTitle: "About the Project:",
+  //   aboutItems: [
+  //     {
+  //       title: "# Description:",
+  //       boldSentence: "Description",
+  //       description:
+  //         "Cloud IoT Solutions Platform/Store/Landing website which allows companies to host, manage, monitor their IoT Devices, the platform contains Roles management system control access privileges.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# My Achievement:",
+  //       boldSentence: "My Achievement",
+  //       description:
+  //         "Maintaining and improving software applications by fixing bugs and integrating new features. Enhanced system stability and contributed to smoother user experiences.",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   options: [
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
+  //       label: "Visit",
+  //       actionType: "LINK",
+  //       link: "https://disrupt-x.io/",
+  //     },
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+  //       label: "Details",
+  //       actionType: "DEFAULT",
+  //     },
+  //   ],
+  // },
+  // {
+  //   id: 8,
+  //   type: "image",
+  //   mediaUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/web/facility/2x/cover.jpg",
+  //   mediaViewer: {
+  //     image:
+  //       "https://odayali2249.github.io/portfolio-resources/resources/web/facility/3x/1.jpg",
+  //     mediaViewType: "V",
+  //   },
+  //   name: "Facilitrol-X",
+  //   logoUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/web/facility/logo.png",
+  //   tags: [2, 3, 24],
+  //   description: "Website",
+  //   gallery: [
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/facility/2x/1.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/facility/3x/1.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/facility/2x/2.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/facility/3x/2.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/facility/2x/3.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/facility/3x/3.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/facility/2x/4.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/facility/3x/4.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //   ],
+  //   linksTitle: "Links:",
+  //   links: [
+  //     {
+  //       text: "",
+  //       url: "https://facilitrol-x.io/",
+  //       clickableText: "Visit the platform",
+  //     },
+  //   ],
+  //   aboutTitle: "About the Project:",
+  //   aboutItems: [
+  //     {
+  //       title: "# Description:",
+  //       boldSentence: "Description",
+  //       description:
+  //         "A landing website for facility management software system which is a comprehensive platform designed to streamline and optimize the management of various aspects of a facility or building.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# My Achievement:",
+  //       boldSentence: "My Achievement",
+  //       description:
+  //         "Collaborated with the development and design teams to create user-friendly UI components that showcase promotional content, enhancing the website's appeal to visitors.",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   options: [
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
+  //       label: "Visit",
+  //       actionType: "LINK",
+  //       link: "https://facilitrol-x.io/",
+  //     },
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+  //       label: "Details",
+  //       actionType: "DEFAULT",
+  //     },
+  //   ],
+  // },
   {
     id: 9,
     type: "image",
