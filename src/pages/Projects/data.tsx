@@ -181,7 +181,7 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/cover.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/1.png",
           mediaViewType: "V",
         },
         src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/1.png",
@@ -214,10 +214,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/4.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/4.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/4.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/4.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -225,10 +225,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/5.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/5.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/5.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/5.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -236,10 +236,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/6.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/6.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/6.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/6.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -247,10 +247,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/7.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/7.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/7.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/7.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -269,10 +269,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/9.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/2x/9.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/9.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Dr.Pack/3x/9.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -292,244 +292,47 @@ export const projects: Project[] = [
         title: "# Description:",
         boldSentence: "Description",
         description:
-          "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
+          `Dr.Pack, part of the Medxsol web platform, is an advanced web application designed to streamline and 
+          automate daily tasks for pharmacists, assistants, and administrators. It simplifies medication 
+          scheduling, patient billing, reporting, and healthcare coordination, ensuring efficiency, accuracy, and 
+          compliance in pharmaceutical management.`,
         tag: 1,
       },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- As someone who joined a company where a project had been stalled for five months without progress, it was challenging to release the first satisfactory version to the client just two months after starting my position, which made him accept the total seven months, and led to me receiving a financial bonus from the CEO as recognition of my achievement.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Our team has the lowest costs, fewest members, and handles the most challenging and profitable project compared to other teams in the company.",
-        tag: 1,
-      },
+      // {
+      //   title: "",
+      //   boldSentence: "",
+      //   description:
+      //     "- As someone who joined a company where a project had been stalled for five months without progress, it was challenging to release the first satisfactory version to the client just two months after starting my position, which made him accept the total seven months, and led to me receiving a financial bonus from the CEO as recognition of my achievement.",
+      //   tag: 1,
+      // },
+      // {
+      //   title: "",
+      //   boldSentence: "",
+      //   description:
+      //     "- Our team has the lowest costs, fewest members, and handles the most challenging and profitable project compared to other teams in the company.",
+      //   tag: 1,
+      // },
       {
         title: "# Stack:",
         boldSentence: "# Stack:",
         description:
-          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, FCM.",
+          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, Cloud Messaging.",
         tag: 1,
       },
-      {
-        title: "# My Achievement:",
-        boldSentence: "My Achievement",
-        description:
-          "- Led a small team and managed task organization, improving branching and automating workflow sequencing between designers and backend/frontend developers. Reduced wait times by about 40% through the implementation of various specialized CI/CD technologies.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Refactored page navigation and routing mechanism to reduce the depth of the browsing history stack, which helped reduce the average down to 2 actions to reach the target despite the size of code base and the speed required to constantly deliver new features to the client.",
-        tag: 1,
-      },
-    ],
-    options: [
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
-        label: "Visit",
-        actionType: "LINK",
-        link: "https://check.medxsol.com",
-      },
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-        label: "Details",
-        actionType: "DEFAULT",
-      },
-    ],
-  },
-  {
-    id: 24,
-    type: "image",
-    mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/1.png",
-    mediaViewer: {
-      image:
-        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/1.png",
-      images: [
-        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/1.png",
-        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/2.png",
-        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/3.png",
-        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/4.png",
-      ],
-      mediaViewType: "V",
-    },
-    name: "X.eMAR",
-    logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/logo.png",
-    tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
-    description: "Desktop app - Web platform",
-    gallery: [
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/cover.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/1.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/2.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/2.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/3.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/3.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/4.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/4.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/5.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/5.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/6.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/6.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/7.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/7.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/8.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/8.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/9.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/9.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/10.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/10.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-    ],
-    linksTitle: "Links:",
-    links: [
-      {
-        text: "",
-        url: "https://check.medxsol.com",
-        clickableText: "Visit the platform",
-      },
-    ],
-    aboutTitle: "About the Project:",
-    aboutItems: [
-      {
-        title: "# Description:",
-        boldSentence: "Description",
-        description:
-          "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- As someone who joined a company where a project had been stalled for five months without progress, it was challenging to release the first satisfactory version to the client just two months after starting my position, which made him accept the total seven months, and led to me receiving a financial bonus from the CEO as recognition of my achievement.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Our team has the lowest costs, fewest members, and handles the most challenging and profitable project compared to other teams in the company.",
-        tag: 1,
-      },
-      {
-        title: "# Stack:",
-        boldSentence: "# Stack:",
-        description:
-          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, FCM.",
-        tag: 1,
-      },
-      {
-        title: "# My Achievement:",
-        boldSentence: "My Achievement",
-        description:
-          "- Led a small team and managed task organization, improving branching and automating workflow sequencing between designers and backend/frontend developers. Reduced wait times by about 40% through the implementation of various specialized CI/CD technologies.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Refactored page navigation and routing mechanism to reduce the depth of the browsing history stack, which helped reduce the average down to 2 actions to reach the target despite the size of code base and the speed required to constantly deliver new features to the client.",
-        tag: 1,
-      },
+      // {
+      //   title: "# My Achievement:",
+      //   boldSentence: "My Achievement",
+      //   description:
+      //     "- Led a small team and managed task organization, improving branching and automating workflow sequencing between designers and backend/frontend developers. Reduced wait times by about 40% through the implementation of various specialized CI/CD technologies.",
+      //   tag: 1,
+      // },
+      // {
+      //   title: "",
+      //   boldSentence: "",
+      //   description:
+      //     "- Refactored page navigation and routing mechanism to reduce the depth of the browsing history stack, which helped reduce the average down to 2 actions to reach the target despite the size of code base and the speed required to constantly deliver new features to the client.",
+      //   tag: 1,
+      // },
     ],
     options: [
       {
@@ -549,7 +352,7 @@ export const projects: Project[] = [
     id: 25,
     type: "image",
     mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/1.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/cover.png",
     mediaViewer: {
       image:
         "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/1.png",
@@ -563,17 +366,17 @@ export const projects: Project[] = [
     },
     name: "Pharmacy RX",
     logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/logo.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/logo.PNG",
     tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
     description: "Web Dashboard",
     gallery: [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/cover.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/1.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/1.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/1.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -592,10 +395,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/3.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/3.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/3.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/3.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -603,10 +406,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/4.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/4.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/4.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/4.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -614,10 +417,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/5.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/5.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/5.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/5.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -625,10 +428,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/6.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/6.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/6.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/6.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -636,10 +439,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/7.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/7.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/7.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/7.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -699,56 +502,56 @@ export const projects: Project[] = [
         highlightWord: "",
         tag: 2,
       },
+      // {
+      //   mediaViewer: {
+      //     image:
+      //       "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/13.png",
+      //     mediaViewType: "V",
+      //   },
+      //   src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/13.png",
+      //   type: "image",
+      //   highlightWord: "",
+      //   tag: 2,
+      // },
+      // {
+      //   mediaViewer: {
+      //     image:
+      //       "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/14.PNG",
+      //     mediaViewType: "V",
+      //   },
+      //   src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/14.PNG",
+      //   type: "image",
+      //   highlightWord: "",
+      //   tag: 2,
+      // },
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/13.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/15.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/13.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/15.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
       },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/14.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/14.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/15.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/15.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/16.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/16.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      }
+      // {
+      //   mediaViewer: {
+      //     image:
+      //       "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/16.png",
+      //     mediaViewType: "V",
+      //   },
+      //   src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/16.png",
+      //   type: "image",
+      //   highlightWord: "",
+      //   tag: 2,
+      // }
     ],
     linksTitle: "Links:",
     links: [
       {
         text: "",
-        url: "https://check.medxsol.com",
+        url: "https://chilliwack-ph.medxsol.com",
         clickableText: "Visit the platform",
       },
     ],
@@ -758,42 +561,17 @@ export const projects: Project[] = [
         title: "# Description:",
         boldSentence: "Description",
         description:
-          "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- As someone who joined a company where a project had been stalled for five months without progress, it was challenging to release the first satisfactory version to the client just two months after starting my position, which made him accept the total seven months, and led to me receiving a financial bonus from the CEO as recognition of my achievement.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Our team has the lowest costs, fewest members, and handles the most challenging and profitable project compared to other teams in the company.",
+          `Pharmacy RX, part of the Medxsol web platform, is a pharmacy management web app designed for registered 
+          pharmacy administrators to efficiently handle patient prescription requests and orders. Patients using 
+          the mobile app can upload prescription images, allowing admins to set medication reminders for patient, 
+          review and generate medical receipts in response.`,
         tag: 1,
       },
       {
         title: "# Stack:",
         boldSentence: "# Stack:",
         description:
-          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, FCM.",
-        tag: 1,
-      },
-      {
-        title: "# My Achievement:",
-        boldSentence: "My Achievement",
-        description:
-          "- Led a small team and managed task organization, improving branching and automating workflow sequencing between designers and backend/frontend developers. Reduced wait times by about 40% through the implementation of various specialized CI/CD technologies.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Refactored page navigation and routing mechanism to reduce the depth of the browsing history stack, which helped reduce the average down to 2 actions to reach the target despite the size of code base and the speed required to constantly deliver new features to the client.",
+          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, Cloud Messaging.",
         tag: 1,
       },
     ],
@@ -815,7 +593,7 @@ export const projects: Project[] = [
     id: 26,
     type: "image",
     mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/1.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/cover.PNG",
     mediaViewer: {
       image:
         "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/1.png",
@@ -829,17 +607,17 @@ export const projects: Project[] = [
     },
     name: "Alef - Ignite Shield",
     logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/logo.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/logo.svg",
     tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
     description: "Web Dashboard",
     gallery: [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/cover.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/1.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/1.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/1.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -847,10 +625,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/2.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/2.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/2.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/2.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -858,10 +636,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/3.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/3.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/3.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/3.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -869,10 +647,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/4.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/4.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/4.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/4.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -880,10 +658,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/5.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/5.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/5.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/5.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -891,10 +669,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/6.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/6.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/6.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/6.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -902,10 +680,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/7.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/7.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/7.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/7.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -913,10 +691,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/8.png",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/2x/8.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/8.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Ignite Shield/3x/8.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -936,42 +714,14 @@ export const projects: Project[] = [
         title: "# Description:",
         boldSentence: "Description",
         description:
-          "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- As someone who joined a company where a project had been stalled for five months without progress, it was challenging to release the first satisfactory version to the client just two months after starting my position, which made him accept the total seven months, and led to me receiving a financial bonus from the CEO as recognition of my achievement.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Our team has the lowest costs, fewest members, and handles the most challenging and profitable project compared to other teams in the company.",
+          "Interactive monitoring dashboard for reviewing real-time readings and statistics from IoT devices installed across various assets and facilities. Each device is equipped with multiple configurable sensors of different types, providing detailed insights into operational performance, environmental conditions, and system health. The dashboard enables users to track, analyze, and visualize sensor data efficiently, enhancing decision-making and proactive maintenance. Customizable widgets allow users to filter data, set thresholds, and configure alerts, ensuring seamless monitoring tailored to specific needs.",
         tag: 1,
       },
       {
         title: "# Stack:",
         boldSentence: "# Stack:",
         description:
-          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, FCM.",
-        tag: 1,
-      },
-      {
-        title: "# My Achievement:",
-        boldSentence: "My Achievement",
-        description:
-          "- Led a small team and managed task organization, improving branching and automating workflow sequencing between designers and backend/frontend developers. Reduced wait times by about 40% through the implementation of various specialized CI/CD technologies.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Refactored page navigation and routing mechanism to reduce the depth of the browsing history stack, which helped reduce the average down to 2 actions to reach the target despite the size of code base and the speed required to constantly deliver new features to the client.",
+          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, Cloud Messaging.",
         tag: 1,
       },
     ],
@@ -980,7 +730,7 @@ export const projects: Project[] = [
         icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
         label: "Visit",
         actionType: "LINK",
-        link: "https://chilliwack-ph.medxsol.com/",
+        link: "https://stage.alefiot.xyz/",
       },
       {
         icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
@@ -1007,7 +757,7 @@ export const projects: Project[] = [
     },
     name: "Dashboard Builder",
     logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/logo.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/Dashboard Builder/logo.svg",
     tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
     description: "Web Dashboard",
     gallery: [
@@ -1093,8 +843,8 @@ export const projects: Project[] = [
     links: [
       {
         text: "",
-        url: "https://stage.alefiot.xyz/",
-        clickableText: "Visit the platform",
+        url: "https://drive.google.com/drive/folders/1EaUWpQuqTVL4YYsIsd-H6hpzJJO2g-cA",
+        clickableText: "DEMO",
       },
     ],
     aboutTitle: "About the Project:",
@@ -1103,51 +853,23 @@ export const projects: Project[] = [
         title: "# Description:",
         boldSentence: "Description",
         description:
-          "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- As someone who joined a company where a project had been stalled for five months without progress, it was challenging to release the first satisfactory version to the client just two months after starting my position, which made him accept the total seven months, and led to me receiving a financial bonus from the CEO as recognition of my achievement.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Our team has the lowest costs, fewest members, and handles the most challenging and profitable project compared to other teams in the company.",
+          "Dynamic dashboard builder that enables users to drag, drop, resize, and configure various widgets (charts, maps, cards) to create personalized dashboards. Built for IoT systems, it allows real-time monitoring of sensor readings, device statistics, and locations. Each widget is fully customizable through an intuitive configuration form, allowing users to modify data sources and adjust appearance for tailored insights.",
         tag: 1,
       },
       {
         title: "# Stack:",
         boldSentence: "# Stack:",
         description:
-          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, FCM.",
-        tag: 1,
-      },
-      {
-        title: "# My Achievement:",
-        boldSentence: "My Achievement",
-        description:
-          "- Led a small team and managed task organization, improving branching and automating workflow sequencing between designers and backend/frontend developers. Reduced wait times by about 40% through the implementation of various specialized CI/CD technologies.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Refactored page navigation and routing mechanism to reduce the depth of the browsing history stack, which helped reduce the average down to 2 actions to reach the target despite the size of code base and the speed required to constantly deliver new features to the client.",
+          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios.",
         tag: 1,
       },
     ],
     options: [
       {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
-        label: "Visit",
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/demo.svg",
+        label: "DEMO",
         actionType: "LINK",
-        link: "https://chilliwack-ph.medxsol.com/",
+        link: "https://drive.google.com/drive/folders/1EaUWpQuqTVL4YYsIsd-H6hpzJJO2g-cA",
       },
       {
         icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
@@ -1407,29 +1129,248 @@ export const projects: Project[] = [
       },
     ],
   },
+  // {
+  //   id: 5,
+  //   type: "image",
+  //   mediaUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/cover.jpg",
+  //   mediaViewer: {
+  //     image:
+  //       "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/1.jpg",
+  //     mediaViewType: "V",
+  //   },
+  //   name: "Ordert Platform",
+  //   logoUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/ic_notification.png",
+  //   tags: [2, 3, 25],
+  //   description: "Web Platform",
+  //   gallery: [
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/1.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/1.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/2.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/2.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/3.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/3.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/4.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/4.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/5.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/5.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/6.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/6.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/7.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/7.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/8.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/8.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/9.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/9.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/10.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/10.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/11.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/11.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/12.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/12.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/13.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/13.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //   ],
+  //   linksTitle: "Links:",
+  //   links: [
+  //     {
+  //       text: "",
+  //       url: "https://ordert.com/welcome",
+  //       clickableText: "Visit the platform",
+  //     },
+  //   ],
+  //   aboutTitle: "About the Project:",
+  //   aboutItems: [
+  //     {
+  //       title: "# Description:",
+  //       boldSentence: "Description",
+  //       description:
+  //         "A web dashboard for restaurant management, payments, and various roles management, catering to end-users, waiters, owners, admins, and kitchen staff.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "It also a platform provides an abundance of interfaces to facilitate user interaction and the creation of integrated orders, with the ability to know the order status in real time through notifications.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# My Achievement:",
+  //       boldSentence: "My Achievement",
+  //       description:
+  //         "- Spearheaded a significant refactor of the Platform, optimizing and streamlining the codebase while integrating newer technologies. This initiative led to a remarkable 60% reduction in loading times on browsers.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "- Considered methods for decreasing rendering cost on browser rendering engine by using debouncing, memoization and lazy loading techniques which shortens the necessary waiting time and increases the level of customer access by 36%.",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   options: [
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
+  //       label: "Visit",
+  //       actionType: "LINK",
+  //       link: "https://ordert.com/welcome",
+  //     },
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+  //       label: "Details",
+  //       actionType: "DEFAULT",
+  //     },
+  //   ],
+  // },
   {
-    id: 5,
+    id: 24,
     type: "image",
     mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/cover.jpg",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/8.PNG",
     mediaViewer: {
       image:
-        "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/1.jpg",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/1.png",
+      images: [
+        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/1.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/2.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/3.png",
+        "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/4.png",
+      ],
       mediaViewType: "V",
     },
-    name: "Ordert Platform",
+    name: "X.eMAR",
     logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/ic_notification.png",
-    tags: [2, 3, 25],
-    description: "Web Platform",
+      "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/logo.PNG",
+    tags: [2, 3, 4, 5, 6, 7, 13, 18, 25, 24, 39],
+    description: "Desktop app - Web platform",
     gallery: [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/1.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/1.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/1.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/1.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1437,10 +1378,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/2.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/2.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/2.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/2.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1448,10 +1389,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/3.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/3.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/3.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/3.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1459,10 +1400,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/4.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/4.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/4.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/4.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1470,10 +1411,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/5.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/5.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/5.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/5.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1481,10 +1422,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/6.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/6.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/6.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/6.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1492,10 +1433,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/7.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/7.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/7.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/7.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1503,10 +1444,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/8.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/8.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/8.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/8.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1514,10 +1455,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/9.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/9.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/9.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/9.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1525,43 +1466,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/10.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/2x/10.PNG",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/10.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/11.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/11.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/12.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/12.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/2x/13.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/ordert/3x/13.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/X.eMAR/3x/10.PNG",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -1571,7 +1479,7 @@ export const projects: Project[] = [
     links: [
       {
         text: "",
-        url: "https://ordert.com/welcome",
+        url: "https://check.medxsol.com",
         clickableText: "Visit the platform",
       },
     ],
@@ -1581,28 +1489,42 @@ export const projects: Project[] = [
         title: "# Description:",
         boldSentence: "Description",
         description:
-          "A web dashboard for restaurant management, payments, and various roles management, catering to end-users, waiters, owners, admins, and kitchen staff.",
+          "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
         tag: 1,
       },
       {
         title: "",
         boldSentence: "",
         description:
-          "It also a platform provides an abundance of interfaces to facilitate user interaction and the creation of integrated orders, with the ability to know the order status in real time through notifications.",
+          "- As someone who joined a company where a project had been stalled for five months without progress, it was challenging to release the first satisfactory version to the client just two months after starting my position, which made him accept the total seven months, and led to me receiving a financial bonus from the CEO as recognition of my achievement.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Our team has the lowest costs, fewest members, and handles the most challenging and profitable project compared to other teams in the company.",
+        tag: 1,
+      },
+      {
+        title: "# Stack:",
+        boldSentence: "# Stack:",
+        description:
+          "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, Cloud Messaging.",
         tag: 1,
       },
       {
         title: "# My Achievement:",
         boldSentence: "My Achievement",
         description:
-          "- Spearheaded a significant refactor of the Platform, optimizing and streamlining the codebase while integrating newer technologies. This initiative led to a remarkable 60% reduction in loading times on browsers.",
+          "- Led a small team and managed task organization, improving branching and automating workflow sequencing between designers and backend/frontend developers. Reduced wait times by about 40% through the implementation of various specialized CI/CD technologies.",
         tag: 1,
       },
       {
         title: "",
         boldSentence: "",
         description:
-          "- Considered methods for decreasing rendering cost on browser rendering engine by using debouncing, memoization and lazy loading techniques which shortens the necessary waiting time and increases the level of customer access by 36%.",
+          "- Refactored page navigation and routing mechanism to reduce the depth of the browsing history stack, which helped reduce the average down to 2 actions to reach the target despite the size of code base and the speed required to constantly deliver new features to the client.",
         tag: 1,
       },
     ],
@@ -1611,7 +1533,7 @@ export const projects: Project[] = [
         icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
         label: "Visit",
         actionType: "LINK",
-        link: "https://ordert.com/welcome",
+        link: "https://check.medxsol.com",
       },
       {
         icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
@@ -2054,28 +1976,28 @@ export const projects: Project[] = [
   //   ],
   // },
   {
-    id: 9,
+    id: 10,
     type: "image",
     mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/cover.png",
+      "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/cover.jpg",
     mediaViewer: {
       image:
-        "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg",
+        "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/2.jpg",
       mediaViewType: "V",
     },
-    name: "Ordert",
+    name: "Defcon Patrols",
     logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/logo.png",
-    tags: [16, 18, 19, 20, 21, 37, 25],
+      "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/logo.png",
+    tags: [9, 16, 17, 18, 5, 9, 19, 37, 24],
     description: "Mobile App",
     gallery: [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/1.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/1.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/1.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/1.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2083,10 +2005,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/2.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/2.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/2.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2094,10 +2016,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/3.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/3.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/3.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/3.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2105,10 +2027,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/4.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/4.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/4.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/4.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2116,10 +2038,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/5.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/5.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/5.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/5.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2127,10 +2049,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/6.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/6.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/6.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/6.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2138,10 +2060,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/7.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/7.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/7.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/7.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2149,10 +2071,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/8.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/8.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/8.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/8.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2160,10 +2082,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/9.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/9.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/9.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/9.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2171,21 +2093,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/10.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/10.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/10.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/11.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/11.png",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/10.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2195,7 +2106,7 @@ export const projects: Project[] = [
     links: [
       {
         text: "",
-        url: "https://play.google.com/store/apps/details?id=com.mod.ordert&hl=en_US&gl=TR",
+        url: "https://play.google.com/store/apps/details?id=com.disruptX.defcon&hl=en_US&gl=TR",
         clickableText: "Google Play",
       },
     ],
@@ -2205,41 +2116,28 @@ export const projects: Project[] = [
         title: "# Description:",
         boldSentence: "Description",
         description:
-          "App simplifies order management and table reservations, offering a visual layout for exploring table positions and additional features.",
+          "A mobile app offers a Cloud IoT Solutions Platform for hosting, managing, and monitoring IoT security devices in companies, covering various sensors in institutions. It alerts on alarms, minimizing damage to people and properties.",
         tag: 1,
       },
       {
         title: "# Stack:",
         boldSentence: "# Stack:",
-        description: "Flutter, MVVM, GetX, FCM, Code-magic.",
+        description:
+          "Flutter, BLoC, Cloud Messaging, socket.io, Clean architecture, dependency  injection.",
         tag: 1,
       },
       {
         title: "# My Achievement:",
         boldSentence: "My Achievement",
         description:
-          "- Designed a complex, user friendly UI components to help user find their needs with a minimum number of actions.",
+          "- Refactor huge codebase, with +150 folder and +300 file, to git ride of deprecated packages and reduce code size, ended up with 30% less bundle size on play store.",
         tag: 1,
       },
       {
         title: "",
         boldSentence: "",
         description:
-          "- Elevated the app to a new level, transitioning it from a state riddled with bugs to a polished, production-ready version for end users.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Proposed, designed, and implemented UI/UX enhancements to simplify feature usability for users, ensuring a more intuitive experience.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Introduced a modern CI/CD tool called Code Magic, which significantly reduced deployment time by 25%, improving our development process.",
+          "- Suggested and Achieved an alarm notification system by implementing bidirectional connection through mesaging service, enhancing the app's reliability and alignment with its purpose.",
         tag: 1,
       },
     ],
@@ -2248,7 +2146,7 @@ export const projects: Project[] = [
         icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
         label: "Play Store",
         actionType: "LINK",
-        link: "https://play.google.com/store/apps/details?id=com.mod.ordert&hl=en_US&gl=TR",
+        link: "https://play.google.com/store/apps/details?id=com.disruptX.defcon&hl=en_US&gl=TR",
       },
       {
         icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
@@ -2430,28 +2328,28 @@ export const projects: Project[] = [
     ],
   },
   {
-    id: 10,
+    id: 9,
     type: "image",
     mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/cover.jpg",
+      "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/cover.png",
     mediaViewer: {
       image:
-        "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/2.jpg",
+        "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg",
       mediaViewType: "V",
     },
-    name: "Defcon Patrols",
+    name: "Ordert",
     logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/logo.png",
-    tags: [9, 16, 17, 18, 5, 9, 19, 37, 24],
+      "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/logo.png",
+    tags: [16, 18, 19, 20, 21, 37, 25],
     description: "Mobile App",
     gallery: [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/1.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/1.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/1.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/1.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2459,10 +2357,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/2.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/2.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/2.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2470,10 +2368,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/3.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/3.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/3.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/3.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2481,10 +2379,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/4.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/4.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/4.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/4.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2492,10 +2390,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/5.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/5.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/5.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/5.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2503,10 +2401,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/6.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/6.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/6.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/6.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2514,10 +2412,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/7.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/7.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/7.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/7.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2525,10 +2423,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/8.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/8.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/8.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/8.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2536,10 +2434,10 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/9.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/9.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/9.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/9.jpg",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2547,10 +2445,21 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/2x/10.jpg",
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/10.jpg",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/defcon patrols/3x/10.jpg",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/10.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/11.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/11.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -2560,7 +2469,7 @@ export const projects: Project[] = [
     links: [
       {
         text: "",
-        url: "https://play.google.com/store/apps/details?id=com.disruptX.defcon&hl=en_US&gl=TR",
+        url: "https://play.google.com/store/apps/details?id=com.mod.ordert&hl=en_US&gl=TR",
         clickableText: "Google Play",
       },
     ],
@@ -2570,28 +2479,41 @@ export const projects: Project[] = [
         title: "# Description:",
         boldSentence: "Description",
         description:
-          "A mobile app offers a Cloud IoT Solutions Platform for hosting, managing, and monitoring IoT security devices in companies, covering various sensors in institutions. It alerts on alarms, minimizing damage to people and properties.",
+          "App simplifies order management and table reservations, offering a visual layout for exploring table positions and additional features.",
         tag: 1,
       },
       {
         title: "# Stack:",
         boldSentence: "# Stack:",
-        description:
-          "Flutter, BLoC, FCM, socket.io, Clean architecture, dependency  injection.",
+        description: "Flutter, MVVM, GetX, Cloud Messaging, Code-magic.",
         tag: 1,
       },
       {
         title: "# My Achievement:",
         boldSentence: "My Achievement",
         description:
-          "- Refactor huge codebase, with +150 folder and +300 file, to git ride of deprecated packages and reduce code size, ended up with 30% less bundle size on play store.",
+          "- Designed a complex, user friendly UI components to help user find their needs with a minimum number of actions.",
         tag: 1,
       },
       {
         title: "",
         boldSentence: "",
         description:
-          "- Suggested and Achieved an alarm notification system by implementing bidirectional connection through mesaging service, enhancing the app's reliability and alignment with its purpose.",
+          "- Elevated the app to a new level, transitioning it from a state riddled with bugs to a polished, production-ready version for end users.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Proposed, designed, and implemented UI/UX enhancements to simplify feature usability for users, ensuring a more intuitive experience.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Introduced a modern CI/CD tool called Code Magic, which significantly reduced deployment time by 25%, improving our development process.",
         tag: 1,
       },
     ],
@@ -2600,7 +2522,7 @@ export const projects: Project[] = [
         icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
         label: "Play Store",
         actionType: "LINK",
-        link: "https://play.google.com/store/apps/details?id=com.disruptX.defcon&hl=en_US&gl=TR",
+        link: "https://play.google.com/store/apps/details?id=com.mod.ordert&hl=en_US&gl=TR",
       },
       {
         icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
@@ -2609,6 +2531,7 @@ export const projects: Project[] = [
       },
     ],
   },
+
   {
     id: 11,
     type: "image",
@@ -3870,171 +3793,171 @@ export const projects: Project[] = [
       },
     ],
   },
-  {
-    id: 17,
-    type: "video",
-    mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/py/cover.png",
-    mediaViewer: {
-      image:
-        "https://odayali2249.github.io/portfolio-resources/resources/py/cover.png",
-      mediaViewType: "V",
-    },
-    name: "Python for Beginners",
-    logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/py/logo.png",
-    tags: [33],
-    hyperWords: new Map<string, string>([
-      [
-        "github",
-        "https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23",
-      ],
-    ]),
-    description: "Educational - Voluntary",
-    gallery: [
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/py/image1.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/py/image1.png",
-        type: "image",
-        highlightWord: "",
-        tag: 1,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/py/image2.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/py/image2.png",
-        type: "image",
-        highlightWord: "",
-        tag: 1,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/py/image3.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/py/image3.png",
-        type: "image",
-        highlightWord: "",
-        tag: 1,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/py/image4.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/py/image4.png",
-        type: "image",
-        highlightWord: "",
-        tag: 1,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/py/image5.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/py/image5.png",
-        type: "image",
-        highlightWord: "",
-        tag: 1,
-      },
-    ],
-    linksTitle: "Links:",
-    links: [
-      {
-        text: "Source Code:",
-        url: "https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23",
-        clickableText: "Course Files",
-      },
-    ],
-    aboutTitle: "About the Project:",
-    aboutItems: [
-      {
-        title: "# Description",
-        boldSentence: "# Description",
-        description:
-          "This is the lab files and exercises belong to a free, voluntary Python course that I created, organized and taught at the faculty of information technology engineering," +
-          " damascus university. The aim of this course was to provide a comprehensive introduction to Python programming, covering fundamental concepts and progressing to more advanced topics, including an introduction to artificial intelligence.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description: `- The curriculum is designed to be comprehensive and engaging, featuring various exercises that illustrate advanced concepts and reinforce each chapter's goals.
-                 Exercises include a "Guess the Number" game, an employee list CRUD application, a "Worm" game, a multi-player Tic-Tac-Toe game, finally, in the AI introduction chapter, a family relationship recognition program using First-order logic. These practical projects ensure learners gain hands-on experience with Python's diverse capabilities.`,
-        tag: 1,
-      },
-      {
-        title: "# Chapters",
-        boldSentence: "# Chapters",
-        description: "",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Basics: Data types, loops, control commands, conditions.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Functions: Defining and calling functions, arguments, return values, scope.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description: "- Data Structures: Lists, tuples, dictionaries, sets.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Object-Oriented Programming (OOP): Classes, objects, inheritance, polymorphism.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Storage and Handling of Files: Reading from and writing to files, handling different file formats.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Introduction to Artificial Intelligence: Basic concepts of AI, simple AI project.",
-        tag: 1,
-      },
-    ],
-    options: [
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
-        label: "Code",
-        actionType: "LINK",
-        link: "https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23",
-      },
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-        label: "Details",
-        actionType: "DEFAULT",
-      },
-    ],
-  },
+  // {
+  //   id: 17,
+  //   type: "video",
+  //   mediaUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/py/cover.png",
+  //   mediaViewer: {
+  //     image:
+  //       "https://odayali2249.github.io/portfolio-resources/resources/py/cover.png",
+  //     mediaViewType: "V",
+  //   },
+  //   name: "Python for Beginners",
+  //   logoUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/py/logo.png",
+  //   tags: [33],
+  //   hyperWords: new Map<string, string>([
+  //     [
+  //       "github",
+  //       "https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23",
+  //     ],
+  //   ]),
+  //   description: "Educational - Voluntary",
+  //   gallery: [
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/py/image1.png",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/py/image1.png",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 1,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/py/image2.png",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/py/image2.png",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 1,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/py/image3.png",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/py/image3.png",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 1,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/py/image4.png",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/py/image4.png",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 1,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/py/image5.png",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/py/image5.png",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   linksTitle: "Links:",
+  //   links: [
+  //     {
+  //       text: "Source Code:",
+  //       url: "https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23",
+  //       clickableText: "Course Files",
+  //     },
+  //   ],
+  //   aboutTitle: "About the Project:",
+  //   aboutItems: [
+  //     {
+  //       title: "# Description",
+  //       boldSentence: "# Description",
+  //       description:
+  //         "This is the lab files and exercises belong to a free, voluntary Python course that I created, organized and taught at the faculty of information technology engineering," +
+  //         " damascus university. The aim of this course was to provide a comprehensive introduction to Python programming, covering fundamental concepts and progressing to more advanced topics, including an introduction to artificial intelligence.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description: `- The curriculum is designed to be comprehensive and engaging, featuring various exercises that illustrate advanced concepts and reinforce each chapter's goals.
+  //                Exercises include a "Guess the Number" game, an employee list CRUD application, a "Worm" game, a multi-player Tic-Tac-Toe game, finally, in the AI introduction chapter, a family relationship recognition program using First-order logic. These practical projects ensure learners gain hands-on experience with Python's diverse capabilities.`,
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# Chapters",
+  //       boldSentence: "# Chapters",
+  //       description: "",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "- Basics: Data types, loops, control commands, conditions.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "- Functions: Defining and calling functions, arguments, return values, scope.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description: "- Data Structures: Lists, tuples, dictionaries, sets.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "- Object-Oriented Programming (OOP): Classes, objects, inheritance, polymorphism.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "- Storage and Handling of Files: Reading from and writing to files, handling different file formats.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "- Introduction to Artificial Intelligence: Basic concepts of AI, simple AI project.",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   options: [
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
+  //       label: "Code",
+  //       actionType: "LINK",
+  //       link: "https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23",
+  //     },
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+  //       label: "Details",
+  //       actionType: "DEFAULT",
+  //     },
+  //   ],
+  // },
   {
     id: 18,
     type: "video",

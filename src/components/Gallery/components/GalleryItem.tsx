@@ -9,11 +9,6 @@ export const GalleryItem: React.FC<GalleryItemProps> = ({ mediaViewer, src, type
     const handleClick = () => {
         setMaximized(!maximized);
     };
-    // <video className="w-full h-[200px] object-contain rounded-md" autoPlay loop muted>
-    //     <source src={src} type="video/mp4" /> Your browser does not support the video tag.
-    // </video>
-
-    // <MediaViewer {...mediaViewer!} />
 
     return (
         <div className="relative cursor-pointer p-1 flex flex-col items-center" onClick={handleClick}>
@@ -23,7 +18,7 @@ export const GalleryItem: React.FC<GalleryItemProps> = ({ mediaViewer, src, type
                 <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-90 flex justify-center items-center z-50"
                     onClick={handleClick}>
                     {type === 'image' ? (<div className="flex flex-col items-center justify-center">
-                        <img src={src} alt="Maximized Image" className="w-[60%] h-[90%] object-contain" />
+                        <img src={src} alt="Maximized Image" className="w-[80%] h-[90%] object-contain" />
                         {highlightWord && (
                             <div className="mt-8 text-center">
                                 <HighlightedWordsText text={highlightWord} lightText />

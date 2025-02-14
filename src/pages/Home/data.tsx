@@ -17,16 +17,16 @@ export const basicInfo: AboutMeData = {
     // "Master in Computer Science (in progress).",
   ],
   expertise: [
-    "- Proficient in front-end development with React.js.",
-    "- Familiar with CI/CD automation and setup using tools provided by GitLab and AWS services like S3, EC2, and IAM.",
-    "- Hands-on experience with back-end tasks using Nest.js and mobile tasks using Flutter.",
+    "- Proficient in front-end development with React.js and mobile development with flutter.",
+    // "- Familiar with CI/CD automation and setup using tools provided by GitLab and AWS services like S3, EC2, and IAM.",
+    // "- Hands-on experience with back-end tasks using Nest.js and mobile tasks using Flutter.",
     "- Experienced in machine learning, including successful projects in computer vision, NLP, and data mining.",
     // "- Familiar with the prototyping tool Figma and aware of UX considerations.",
     "- Diving deeply into complex software systems to make them reliable, scalable, and maintainable is my job.",
   ],
-  languages: ["English", "German (in progress)"],
+  languages: ["Arabic (native)", "English"],
   profession:
-    "A software engineer with 4 years of experience, specializing in front-end development.",
+    "A software engineer with more than 3 years of experience, specializing in front-end development.",
 };
 
 export const services: ServicesProps = {
@@ -97,18 +97,18 @@ export const skills: SkillsProps = {
         items: [2, 3, 4, 6, 7, 12, 13, 14, 15, 26],
       },
       {
-        title: "CI/CD - Software engineering",
-        subtitle:
-          "A mindset of software engineer dealing with product that should be easy to scale, maintain and read, besides, awareness of Developers / Operations continuous life cycle optimization.",
-        icon: "https://odayali2249.github.io/portfolio-resources/icons/deployment-icon.svg",
-        items: [7, 25, 39],
-      },
-      {
         title: "Mobile Development",
         subtitle:
           "Designed and developed cross-platform mobile applications using Flutter, and distributed them on Google Play.",
         icon: "https://odayali2249.github.io/portfolio-resources/icons/mobile-development-icon.svg",
         items: [16, 17, 18, 19, 20, 21, 9],
+      },
+      {
+        title: "CI/CD - Software engineering",
+        subtitle:
+          "A mindset of software engineer dealing with product that should be easy to scale, maintain and read, besides, awareness of Developers / Operations continuous life cycle optimization.",
+        icon: "https://odayali2249.github.io/portfolio-resources/icons/deployment-icon.svg",
+        items: [7, 25, 39],
       },
       {
         title: "Other",
@@ -124,27 +124,34 @@ export const skills: SkillsProps = {
 export const worksExperience: WorkExperience = {
   title: "WORK HISTORY",
   items: [
+    //   {
+    //     responsibilities: [
+    //       `Tackled a challenging short-term volunteer project to develop an algorithm for generating a chicken mixture. Delved deeply into an unfamiliar 
+    // field to understand unclear requirements, even beyond the client's expertise. Utilized a combination of advanced concepts such as linear algebra, first-order logic, loss functions, 
+    // and optimization loops. Implemented rigorous unit and integration testing. Delivered an impressive algorithm that successfully passed client acceptance testing, 
+    // demonstrating the solution's effectiveness.`,
+    //     ],
+    //     companyName: "Damascus University",
+    //     position: "Software Engineer",
+    //     date: "FEB 2024 - MAY 2024",
+    //   },
     {
       responsibilities: [
-        `Tackled a challenging short-term volunteer project to develop an algorithm for generating a chicken mixture. Delved deeply into an unfamiliar 
-  field to understand unclear requirements, even beyond the client's expertise. Utilized a combination of advanced concepts such as linear algebra, first-order logic, loss functions, 
-  and optimization loops. Implemented rigorous unit and integration testing. Delivered an impressive algorithm that successfully passed client acceptance testing, 
-  demonstrating the solution's effectiveness.`,
-      ],
-      companyName: "Damascus University",
-      position: "Software Engineer",
-      date: "FEB 2024 - MAY 2024",
-    },
-    {
-      responsibilities: [
-        `Led the team and managed task organization, merge requests and code continues integration, used gitlab CI/CD tools for improving automating workflow including building,
- automated testing, deployment to different environments, reduced wait times and increased delivery speed.`,
-        `Measured performance using React Developer Tools, Web Vitals and Lighthouse. Analyzed weaknesses and implemented improvements with React.lazy, react query
- and optimized asset caching. Achieved a 40% reduction in load times.`,
-        `Collaborated closely with customers to deeply understand their requirements. Effectively communicated the technical implementation to my
- team and CEO, ensuring the best possible delivery of the solution.`,
-        `Revived a stalled large-scale software platform, delivering the initial release within two months. This satisfied the client and restored 
-the CEO's confidence in continuing the contract.`,
+        'Engineered and delivered the most complex front-end features, ensuring seamless functionality and user experience.',
+        'Built a dashboard builder with drag-and-drop, resizing, and customizable widgets (charts, maps, cards) for real-time IoT monitoring.',
+        'Led technical coordination between front-end, back-end, and design teams, eliminating bottlenecks and reducing project delays.',
+        'Served junior developers, providing guidance and technical solutions that accelerated feature development.',
+        'Integrated a scalable Firebase notification system, handling background/foreground alerts and automatic data updates.',
+        `Authored well-structured, detailed pull requests with comprehensive explanations, screenshots, and bug fixes, improving code clarity and
+team efficiency.`
+        //         `Led the team and managed task organization, merge requests and code continues integration, used gitlab CI/CD tools for improving automating workflow including building,
+        //  automated testing, deployment to different environments, reduced wait times and increased delivery speed.`,
+        //         `Measured performance using React Developer Tools, Web Vitals and Lighthouse. Analyzed weaknesses and implemented improvements with React.lazy, react query
+        //  and optimized asset caching. Achieved a 40% reduction in load times.`,
+        //         `Collaborated closely with customers to deeply understand their requirements. Effectively communicated the technical implementation to my
+        //  team and CEO, ensuring the best possible delivery of the solution.`,
+        //         `Revived a stalled large-scale software platform, delivering the initial release within two months. This satisfied the client and restored 
+        // the CEO's confidence in continuing the contract.`,
       ],
       companyName: "Unifi Solutions",
       position: "Front-end Engineer",
@@ -152,14 +159,12 @@ the CEO's confidence in continuing the contract.`,
     },
     {
       responsibilities: [
-        `Successfully navigated complex challenges to refactor extensive software systems, transitioning from outdated state management
-and versioning technologies to cutting-edge alternatives.`,
-        `Achieved a substantial reduction in codebase size, up to 60%, aiming to enhance performance and minimize loading times on
-browsers.`,
-        `Developed and implemented a communication protocol that increased team productivity by 25% and reduced project turnaround times by 20%. This improved team morale, built 
-trust among members, and resulted in more efficient project completions.`,
-        `Developed a method to optimize UX by analyzing software monitoring data and real-life customer UI usage using Google Analytics. This significantly improved user 
-satisfaction and increased customer retention by 30% by addressing bottlenecks and drop-off points.`,
+        `Implemented UI enhancements using animations, micro-interactions, and dynamic theming to improve user engagement.`,
+        //         `Achieved a substantial reduction in codebase size, up to 60%, aiming to enhance performance and minimize loading times on
+        // browsers.`,
+        `Reduced mobile app bundle size by 70% after a large-scale code refactor, significantly improving load speed and app performance.`,
+        `Designed scalable state management solutions using Getx (in the mobile app), Redux, and React Query, improving data flow efficiency.`,
+        'Championed Agile development, breaking down complex features into actionable tasks, resulting in faster delivery cycles.'
       ],
       companyName: "Ark-e Tech",
       position: "Front-end Developer",
@@ -167,12 +172,15 @@ satisfaction and increased customer retention by 30% by addressing bottlenecks a
     },
     {
       responsibilities: [
-        `Assisted in maintaining and improving software applications by fixing bugs and integrating new features. Enhanced system stability 
-and contributed to smoother user experiences.`,
-        `implemented innovative caching strategies and optimized API design to minimize server calls, thereby accelerating user interaction
-and response times.`,
-        `Leading the statistics of contributors in the repository, my name stands at the forefront as the top contributor among
-eight individuals in my team, with 164 commits over three months.`,
+        'Translated Figma/Adobe XD designs into pixel-perfect, responsive, and accessible web applications.',
+        'Integrated RESTful APIs endpoints efficiently, optimizing data-fetching strategies',
+        'Worked closely with backend developers to define API contracts and improve response time by 30%.'
+        //         `Assisted in maintaining and improving software applications by fixing bugs and integrating new features. Enhanced system stability 
+        // and contributed to smoother user experiences.`,
+        //         `implemented innovative caching strategies and optimized API design to minimize server calls, thereby accelerating user interaction
+        // and response times.`,
+        //         `Leading the statistics of contributors in the repository, my name stands at the forefront as the top contributor among
+        // eight individuals in my team, with 164 commits over three months.`,
         // "Implemented innovative caching strategies and optimized API design to minimize server calls, thereby accelerating user interaction and response times.",
       ],
       companyName: "Disrupt-x.IOT",

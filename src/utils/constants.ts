@@ -25,7 +25,7 @@ export const tags: Map<number, string> = new Map<number, string>([
     [22, "java"],
     [23, "Compiler Design"],
     [24, "Software Engineering"],
-    [25, "CI/CD"],
+    // [25, "CI/CD"],
     [26, "Responsive Design"],
     [27, "Artificial Intelligence"],
     [28, "Expert System"],
@@ -39,7 +39,7 @@ export const tags: Map<number, string> = new Map<number, string>([
     [36, "Intelligence Search Algorithm"],
     [37, "OOP"],
     [38, "Multithreaded programming"],
-    [39, "AWS"],
+    // [39, "AWS"],
     [40, "C#"]
 ]);
 
@@ -67,7 +67,7 @@ export const tagToAssociatedSecondaryTags: { [key: number]: number[] } = {
 };
 
 export const groupsTitle: string[] = ['Recommended', 'Proficient', 'Other'];
-export const basicTags = [2, 3, 4, 25, 26, 24, 12, 14, 15, 7, 22, 38, 39, 6, 13, 37];
+export const basicTags = [2, 3, 4, 26, 24, 12, 14, 15, 7, 22, 38, 6, 13, 37];
 
 export const tagsObject = {
     primary: {
