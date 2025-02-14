@@ -4,159 +4,6 @@ import { Project } from "./interfaces";
 
 export const projects: Project[] = [
   {
-    id: 23,
-    type: "image",
-    mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/1.jpg",
-    mediaViewer: {
-      image:
-        "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/1.jpg",
-      mediaViewType: "V",
-    },
-    name: "Poul-X",
-    logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/logo.jpg",
-    tags: [2, 4, 24, 27],
-    description: "Intelligence algorithm - Website",
-    gallery: [
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/1.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/1.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/2.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/2.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/3.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/3.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/4.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/4.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/5.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/5.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/6.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/6.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/7.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/7.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/8.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/8.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/9.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/9.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/10.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/10.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/11.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/11.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-    ],
-    customComponent: <FeederMixtureAlgorithmDoc />,
-    options: [
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/demo.svg",
-        label: "DEMO",
-        actionType: "LINK",
-        link: "https://drive.google.com/drive/folders/1Bzj9Kgjjt8x2Uw1wYuesTJZrGNm3SIlV",
-      },
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-        label: "Details",
-        actionType: "DEFAULT",
-      },
-    ],
-  },
-  {
     id: 3,
     type: "image",
     mediaUrl:
@@ -1702,6 +1549,159 @@ export const projects: Project[] = [
         label: "Visit",
         actionType: "LINK",
         link: "https://medxsol.com/",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+        label: "Details",
+        actionType: "DEFAULT",
+      },
+    ],
+  },
+  {
+    id: 23,
+    type: "image",
+    mediaUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/1.jpg",
+    mediaViewer: {
+      image:
+        "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/1.jpg",
+      mediaViewType: "V",
+    },
+    name: "Poul-X",
+    logoUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/logo.jpg",
+    tags: [2, 4, 24, 27],
+    description: "Intelligence algorithm - Website",
+    gallery: [
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/1.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/1.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/2.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/2.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/3.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/3.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/4.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/4.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/5.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/5.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/6.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/6.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/7.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/7.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/8.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/8.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/9.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/9.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/10.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/10.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/2x/11.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/poulX/3x/11.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+    ],
+    customComponent: <FeederMixtureAlgorithmDoc />,
+    options: [
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/demo.svg",
+        label: "DEMO",
+        actionType: "LINK",
+        link: "https://drive.google.com/drive/folders/1Bzj9Kgjjt8x2Uw1wYuesTJZrGNm3SIlV",
       },
       {
         icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
