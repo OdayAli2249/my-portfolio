@@ -4460,82 +4460,82 @@ export const projects: Project[] = [
       },
     ],
   },
-  {
-    id: 22,
-    type: "video",
-    mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/et/cover.png",
-    mediaViewer: {
-      image:
-        "https://odayali2249.github.io/portfolio-resources/resources/et/cover.png",
-      mediaViewType: "V",
-    },
-    name: "Ether Website",
-    logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/et/logo.png",
-    tags: [2, 3, 15],
-    description: "Web3 - Blockchain",
-    gallery: [
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/et/cover.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/et/cover.png",
-        type: "image",
-        highlightWord: "",
-        tag: 1,
-      },
-    ],
-    linksTitle: "Links:",
-    links: [
-      {
-        text: "Source Code:",
-        url: "https://github.com/OdayAli2249/ether-website",
-        clickableText: "Ether Website",
-      },
-      {
-        text: "Visit:",
-        url: "https://odayali2249.github.io/ether-website/",
-        clickableText: "Ether Website",
-      },
-    ],
-    aboutTitle: "About the project:",
-    aboutItems: [
-      {
-        title: "# Description:",
-        boldSentence: "",
-        description: `A simple web page that interact with ethereum blockchain and fetch data like node number and balance.`,
-        tag: 1,
-      },
-      {
-        title: "# Stack:",
-        boldSentence: "# Stack:",
-        description: "React.js, Typescript, TailwindCss, React-Query.",
-        tag: 1,
-      },
-    ],
-    options: [
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
-        label: "Code",
-        actionType: "LINK",
-        link: "https://github.com/OdayAli2249/ether-website",
-      },
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
-        label: "Visit",
-        actionType: "LINK",
-        link: "https://odayali2249.github.io/ether-website/",
-      },
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-        label: "Details",
-        actionType: "DEFAULT",
-      },
-    ],
-  },
+  // {
+  //   id: 22,
+  //   type: "video",
+  //   mediaUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/et/cover.png",
+  //   mediaViewer: {
+  //     image:
+  //       "https://odayali2249.github.io/portfolio-resources/resources/et/cover.png",
+  //     mediaViewType: "V",
+  //   },
+  //   name: "Ether Website",
+  //   logoUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/et/logo.png",
+  //   tags: [2, 3, 15],
+  //   description: "Web3 - Blockchain",
+  //   gallery: [
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/et/cover.png",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/et/cover.png",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   linksTitle: "Links:",
+  //   links: [
+  //     {
+  //       text: "Source Code:",
+  //       url: "https://github.com/OdayAli2249/ether-website",
+  //       clickableText: "Ether Website",
+  //     },
+  //     {
+  //       text: "Visit:",
+  //       url: "https://odayali2249.github.io/ether-website/",
+  //       clickableText: "Ether Website",
+  //     },
+  //   ],
+  //   aboutTitle: "About the project:",
+  //   aboutItems: [
+  //     {
+  //       title: "# Description:",
+  //       boldSentence: "",
+  //       description: `A simple web page that interact with ethereum blockchain and fetch data like node number and balance.`,
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# Stack:",
+  //       boldSentence: "# Stack:",
+  //       description: "React.js, Typescript, TailwindCss, React-Query.",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   options: [
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
+  //       label: "Code",
+  //       actionType: "LINK",
+  //       link: "https://github.com/OdayAli2249/ether-website",
+  //     },
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
+  //       label: "Visit",
+  //       actionType: "LINK",
+  //       link: "https://odayali2249.github.io/ether-website/",
+  //     },
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+  //       label: "Details",
+  //       actionType: "DEFAULT",
+  //     },
+  //   ],
+  // },
 ];
 
 export const projectsMap: Map<number, Project> = arrayToMap(projects);
