@@ -294,8 +294,7 @@ export const projects: Project[] = [
         description:
           `Dr.Pack, part of the Medxsol web platform, is an advanced web application designed to streamline and 
           automate daily tasks for pharmacists, assistants, and administrators. It simplifies medication 
-          scheduling, patient billing, reporting, and healthcare coordination, ensuring efficiency, accuracy, and 
-          compliance in pharmaceutical management.`,
+          scheduling, patient billing, reporting, and healthcare coordination.`,
         tag: 1,
       },
       // {
@@ -373,14 +372,25 @@ export const projects: Project[] = [
       {
         mediaViewer: {
           image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/1.PNG",
+            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/11.png",
           mediaViewType: "V",
         },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/1.PNG",
+        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/11.png",
         type: "image",
         highlightWord: "",
         tag: 2,
       },
+      // {
+      //   mediaViewer: {
+      //     image:
+      //       "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/1.PNG",
+      //     mediaViewType: "V",
+      //   },
+      //   src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/1.PNG",
+      //   type: "image",
+      //   highlightWord: "",
+      //   tag: 2,
+      // },
       {
         mediaViewer: {
           image:
@@ -392,17 +402,17 @@ export const projects: Project[] = [
         highlightWord: "",
         tag: 2,
       },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/3.PNG",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/3.PNG",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
+      // {
+      //   mediaViewer: {
+      //     image:
+      //       "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/3.PNG",
+      //     mediaViewType: "V",
+      //   },
+      //   src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/3.PNG",
+      //   type: "image",
+      //   highlightWord: "",
+      //   tag: 2,
+      // },
       {
         mediaViewer: {
           image:
@@ -476,17 +486,6 @@ export const projects: Project[] = [
           mediaViewType: "V",
         },
         src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/10.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/2x/11.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/web/Pharmacy RX/3x/11.png",
         type: "image",
         highlightWord: "",
         tag: 2,
@@ -714,7 +713,13 @@ export const projects: Project[] = [
         title: "# Description:",
         boldSentence: "Description",
         description:
-          "Interactive monitoring dashboard for reviewing real-time readings and statistics from IoT devices installed across various assets and facilities. Each device is equipped with multiple configurable sensors of different types, providing detailed insights into operational performance, environmental conditions, and system health. The dashboard enables users to track, analyze, and visualize sensor data efficiently, enhancing decision-making and proactive maintenance. Customizable widgets allow users to filter data, set thresholds, and configure alerts, ensuring seamless monitoring tailored to specific needs.",
+          `Interactive monitoring dashboard for reviewing real-time readings and statistics from IoT devices 
+          installed across various assets and facilities.`,
+        //   Each device is equipped with multiple configurable sensors of different types, providing detailed insights 
+        // into operational performance, environmental conditions, and system health. The dashboard enables users to 
+        // track, analyze, and visualize sensor data efficiently, enhancing decision-making and proactive maintenance. 
+        // Customizable widgets allow users to filter data, set thresholds, and configure alerts, ensuring seamless 
+        // monitoring tailored to specific needs.",
         tag: 1,
       },
       {
@@ -1489,21 +1494,9 @@ export const projects: Project[] = [
         title: "# Description:",
         boldSentence: "Description",
         description:
-          "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- As someone who joined a company where a project had been stalled for five months without progress, it was challenging to release the first satisfactory version to the client just two months after starting my position, which made him accept the total seven months, and led to me receiving a financial bonus from the CEO as recognition of my achievement.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Our team has the lowest costs, fewest members, and handles the most challenging and profitable project compared to other teams in the company.",
+          `X.emar, part of the Medxsol web platform, is a dashboard for admins to efficiently schedule and manage 
+          patient visits by nurses. It organizes patient visits into routes, covering essential tasks such as 
+          medication administration, vital measurements, and other healthcare activities.`,
         tag: 1,
       },
       {
@@ -1511,20 +1504,6 @@ export const projects: Project[] = [
         boldSentence: "# Stack:",
         description:
           "React.js, TypeScript, MaterialUI, react-query, Vite, Axios, Cloud Messaging.",
-        tag: 1,
-      },
-      {
-        title: "# My Achievement:",
-        boldSentence: "My Achievement",
-        description:
-          "- Led a small team and managed task organization, improving branching and automating workflow sequencing between designers and backend/frontend developers. Reduced wait times by about 40% through the implementation of various specialized CI/CD technologies.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Refactored page navigation and routing mechanism to reduce the depth of the browsing history stack, which helped reduce the average down to 2 actions to reach the target despite the size of code base and the speed required to constantly deliver new features to the client.",
         tag: 1,
       },
     ],
