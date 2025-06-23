@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
+// import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 import { useScreenType } from '../../hooks/useScreenType';
 import { CarouselProps } from './interfaces';
 import { CarouselItem } from './components/CarouselItem';
@@ -33,12 +33,12 @@ export const Carousel: React.FC<CarouselProps> = ({ title, items }) => {
                         <CarouselItem key={index} {...item} />)}
                 </div>
             </div>
-            <div className="flex justify-end my-4">
+            {/* <div className="flex justify-end my-4">
                 <FaArrowLeft width={28} height={28} onClick={!isAtStart ? goToPrev : undefined}
                     className={`mr-4 ${isAtStart ? 'opacity-30' : 'cursor-pointer '}`} />
                 <FaArrowRight width={28} height={28} onClick={!isAtEnd ? goToNext : undefined}
                     className={isAtEnd ? 'opacity-30' : 'cursor-pointer'} />
-            </div>
+            </div> */}
         </div>
     );
 };

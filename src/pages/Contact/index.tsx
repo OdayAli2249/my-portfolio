@@ -19,12 +19,12 @@ const Contact: React.FC = () => {
         </div> */}
 
         <div className="flex items-center">
-          <FaPhone className="text-blue-500 mr-4" />
+          {/* <FaPhone className="text-blue-500 mr-4" /> */}
           <a href={`tel:${"+963-96451523"}`}>{"+963-96451523"}</a>
         </div>
 
         <div className="flex items-center">
-          <FaLinkedin className="text-blue-500 mr-4" />
+          {/* <FaLinkedin className="text-blue-500 mr-4" /> */}
           <a
             href={"https://www.linkedin.com/in/oday-ali-eng/"}
             target="_blank"
@@ -35,7 +35,7 @@ const Contact: React.FC = () => {
         </div>
 
         <div className="flex items-center">
-          <FaEnvelope className="text-blue-500 mr-4" />
+          {/* <FaEnvelope className="text-blue-500 mr-4" /> */}
           <a href={`mailto:${"ody.ali.eng@gmail.com"}`}>
             {"ody.ali.eng@gmail.com"}
           </a>
