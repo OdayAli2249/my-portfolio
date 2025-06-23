@@ -12,15 +12,16 @@ import Projects from './pages/Projects';
 const router = createBrowserRouter([
 
   {
-    path: '/my-portfolio',
+    path: '/gallery',
     element: <App />,
     children: [
+      // {
+      //   index: true,
+      //   element: <Home />,
+      // },
       {
+        // path: 'projects',
         index: true,
-        element: <Home />,
-      },
-      {
-        path: 'projects',
         element: <Projects />,
       },
       {
@@ -33,7 +34,7 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   // <React.StrictMode>
-    <RouterProvider router={router} />
+  <RouterProvider router={router} />
   // </React.StrictMode>,
 );
 

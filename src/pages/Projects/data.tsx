@@ -2306,718 +2306,718 @@ export const projects: Project[] = [
       },
     ],
   },
-  {
-    id: 9,
-    type: "image",
-    mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/cover.png",
-    mediaViewer: {
-      image:
-        "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg",
-      mediaViewType: "V",
-    },
-    name: "Ordert",
-    logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/logo.png",
-    tags: [16, 18, 19, 20, 21, 37, 25],
-    description: "Mobile App",
-    gallery: [
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/1.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/1.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/2.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/3.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/3.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/4.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/4.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/5.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/5.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/6.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/6.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/7.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/7.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/8.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/8.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/9.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/9.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/10.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/10.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/11.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/11.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-    ],
-    linksTitle: "Links:",
-    links: [
-      {
-        text: "",
-        url: "https://play.google.com/store/apps/details?id=com.mod.ordert&hl=en_US&gl=TR",
-        clickableText: "Google Play",
-      },
-    ],
-    aboutTitle: "About the Project:",
-    aboutItems: [
-      {
-        title: "# Description:",
-        boldSentence: "Description",
-        description:
-          "App simplifies order management and table reservations, offering a visual layout for exploring table positions and additional features.",
-        tag: 1,
-      },
-      {
-        title: "# Stack:",
-        boldSentence: "# Stack:",
-        description: "Flutter, MVVM, GetX, Cloud Messaging, Code-magic.",
-        tag: 1,
-      },
-      {
-        title: "# My Achievement:",
-        boldSentence: "My Achievement",
-        description:
-          "- Designed a complex, user friendly UI components to help user find their needs with a minimum number of actions.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Elevated the app to a new level, transitioning it from a state riddled with bugs to a polished, production-ready version for end users.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Proposed, designed, and implemented UI/UX enhancements to simplify feature usability for users, ensuring a more intuitive experience.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Introduced a modern CI/CD tool called Code Magic, which significantly reduced deployment time by 25%, improving our development process.",
-        tag: 1,
-      },
-    ],
-    options: [
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
-        label: "Play Store",
-        actionType: "LINK",
-        link: "https://play.google.com/store/apps/details?id=com.mod.ordert&hl=en_US&gl=TR",
-      },
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-        label: "Details",
-        actionType: "DEFAULT",
-      },
-    ],
-  },
+  // {
+  //   id: 9,
+  //   type: "image",
+  //   mediaUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/cover.png",
+  //   mediaViewer: {
+  //     image:
+  //       "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg",
+  //     mediaViewType: "V",
+  //   },
+  //   name: "Ordert",
+  //   logoUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/logo.png",
+  //   tags: [16, 18, 19, 20, 21, 37, 25],
+  //   description: "Mobile App",
+  //   gallery: [
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/1.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/1.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/2.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/3.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/3.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/4.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/4.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/5.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/5.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/6.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/6.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/7.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/7.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/8.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/8.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/9.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/9.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/10.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/10.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/11.png",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/11.png",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //   ],
+  //   linksTitle: "Links:",
+  //   links: [
+  //     {
+  //       text: "",
+  //       url: "https://play.google.com/store/apps/details?id=com.mod.ordert&hl=en_US&gl=TR",
+  //       clickableText: "Google Play",
+  //     },
+  //   ],
+  //   aboutTitle: "About the Project:",
+  //   aboutItems: [
+  //     {
+  //       title: "# Description:",
+  //       boldSentence: "Description",
+  //       description:
+  //         "App simplifies order management and table reservations, offering a visual layout for exploring table positions and additional features.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# Stack:",
+  //       boldSentence: "# Stack:",
+  //       description: "Flutter, MVVM, GetX, Cloud Messaging, Code-magic.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# My Achievement:",
+  //       boldSentence: "My Achievement",
+  //       description:
+  //         "- Designed a complex, user friendly UI components to help user find their needs with a minimum number of actions.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "- Elevated the app to a new level, transitioning it from a state riddled with bugs to a polished, production-ready version for end users.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "- Proposed, designed, and implemented UI/UX enhancements to simplify feature usability for users, ensuring a more intuitive experience.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "- Introduced a modern CI/CD tool called Code Magic, which significantly reduced deployment time by 25%, improving our development process.",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   options: [
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
+  //       label: "Play Store",
+  //       actionType: "LINK",
+  //       link: "https://play.google.com/store/apps/details?id=com.mod.ordert&hl=en_US&gl=TR",
+  //     },
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+  //       label: "Details",
+  //       actionType: "DEFAULT",
+  //     },
+  //   ],
+  // },
 
-  {
-    id: 11,
-    type: "image",
-    mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/cover.jpg",
-    mediaViewer: {
-      image:
-        "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/2.jpg",
-      mediaViewType: "V",
-    },
-    name: "Digital-X",
-    logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/logo.png",
-    tags: [16, 17, 19],
-    description: "Mobile App",
-    gallery: [
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/1.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/1.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/2.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/2.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/3.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/3.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/4.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/4.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/5.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/5.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/6.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/6.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/7.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/7.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/8.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/8.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/9.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/9.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/10.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/10.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-    ],
-    linksTitle: "Links:",
-    // links: [
-    //     {
-    //         text: '',
-    //         url: 'https://check.medxsol.com',
-    //         clickableText: 'Visit the platform',
-    //     }],
-    aboutTitle: "About the Project:",
-    aboutItems: [
-      // {
-      //     title: '# Description:',
-      //     boldSentence: 'Description',
-      //     description: "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
-      //     tag: 1
-      // },
-      {
-        title: "# Stack:",
-        boldSentence: "# Stack:",
-        description: "Flutter, BloC, Clean Architecture.",
-        tag: 1,
-      },
-      {
-        title: "# My Achievement:",
-        boldSentence: "My Achievement",
-        description:
-          "Contributed in developement process of the app, including converting figma design to interactive coded UI, managing UI state and data I/O.",
-        tag: 1,
-      },
-    ],
-    options: [
-      // {
-      //   icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
-      //   label: "Visit",
-      //   actionType: "LINK",
-      //   link: "https://check.medxsol.com",
-      // },
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-        label: "Details",
-        actionType: "DEFAULT",
-      },
-    ],
-  },
-  {
-    id: 12,
-    type: "image",
-    mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/cover.jpg",
-    mediaViewer: {
-      image:
-        "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/2.jpg",
-      mediaViewType: "V",
-    },
-    name: "Muslim App",
-    logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/logo.png",
-    tags: [16, 17, 19],
-    description: "Mobile App",
-    gallery: [
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/1.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/1.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/2.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/2.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/3.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/3.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/4.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/4.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/5.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/5.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/6.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/6.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/7.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/7.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/8.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/8.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/9.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/9.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/10.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/10.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-    ],
-    linksTitle: "Links:",
-    // links: [
-    //     {
-    //         text: '',
-    //         url: 'https://check.medxsol.com',
-    //         clickableText: 'Visit the platform',
-    //     }],
-    aboutTitle: "About the Project:",
-    aboutItems: [
-      {
-        title: "# Description:",
-        boldSentence: "Description",
-        description:
-          "An app designed for Muslim communities within a city or country, facilitating easy location of mosques through map integration. It serves as a centralized platform for donations and disseminates announcements pertinent to the community's activities and events.",
-        tag: 1,
-      },
-      {
-        title: "# Stack:",
-        boldSentence: "# Stack:",
-        description: "Flutter, Clean-Architecture.",
-        tag: 1,
-      },
-      {
-        title: "# My Achievement:",
-        boldSentence: "My Achievement",
-        description:
-          "- Actively participated in meetings, contributed to the development process, and ensured effective communication throughout the project.",
-        tag: 1,
-      },
-    ],
-    options: [
-      // {
-      //   icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
-      //   label: "Visit",
-      //   actionType: "LINK",
-      //   link: "https://check.medxsol.com",
-      // },
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-        label: "Details",
-        actionType: "DEFAULT",
-      },
-    ],
-  },
-  {
-    id: 14,
-    type: "image",
-    mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/cover.jpg",
-    mediaViewer: {
-      image:
-        "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/2.jpg",
-      mediaViewType: "V",
-    },
-    name: "Global Mobility",
-    logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/logo.png",
-    tags: [16, 17, 19],
-    description: "Mobile App",
-    gallery: [
-      // {
-      //     mediaViewer: {
-      //         image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/1.jpg',
-      //         mediaViewType: 'V'
-      //     },
-      //     src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/1.jpg', type: 'image', highlightWord: '', tag: 2
-      // },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/2.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/2.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/3.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/3.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/4.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/4.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/5.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/5.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/6.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/6.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/7.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/7.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/8.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/8.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/9.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/9.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/10.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/10.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-    ],
-    aboutTitle: "About the Project:",
-    aboutItems: [
-      {
-        title: "# Description:",
-        boldSentence: "Description",
-        description: "An online scooter renting app in dubai city.",
-        tag: 1,
-      },
-      {
-        title: "# Stack:",
-        boldSentence: "# Stack:",
-        description: "Flutter, BloC, Clean-Architecture socket.io.",
-        tag: 1,
-      },
-      {
-        title: "# My Achievement:",
-        boldSentence: "My Achievement",
-        description:
-          "- Communicated with non-technical stuff and tester to resolve software issues.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Intergrated a map viewer widget with markers and tracking routes to enhance user situational awareness, aligning with the application's purpose.",
-        tag: 1,
-      },
-    ],
-    options: [
-      // {
-      //   icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
-      //   label: "Visit",
-      //   actionType: "LINK",
-      //   link: "https://check.medxsol.com",
-      // },
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-        label: "Details",
-        actionType: "DEFAULT",
-      },
-    ],
-  },
+  // {
+  //   id: 11,
+  //   type: "image",
+  //   mediaUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/cover.jpg",
+  //   mediaViewer: {
+  //     image:
+  //       "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/2.jpg",
+  //     mediaViewType: "V",
+  //   },
+  //   name: "Digital-X",
+  //   logoUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/logo.png",
+  //   tags: [16, 17, 19],
+  //   description: "Mobile App",
+  //   gallery: [
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/1.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/1.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/2.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/2.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/3.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/3.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/4.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/4.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/5.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/5.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/6.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/6.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/7.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/7.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/8.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/8.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/9.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/9.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/2x/10.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/digitalX/3x/10.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //   ],
+  //   linksTitle: "Links:",
+  //   // links: [
+  //   //     {
+  //   //         text: '',
+  //   //         url: 'https://check.medxsol.com',
+  //   //         clickableText: 'Visit the platform',
+  //   //     }],
+  //   aboutTitle: "About the Project:",
+  //   aboutItems: [
+  //     // {
+  //     //     title: '# Description:',
+  //     //     boldSentence: 'Description',
+  //     //     description: "- A large-scale software platform was created from scratch after a five-month hiatus due to the search for a qualified developer. The initial release was successfully delivered and satisfied the client within two months of me starting the position and taking over the project, restoring the CEO's confidence in the continuation of the contract with the client.",
+  //     //     tag: 1
+  //     // },
+  //     {
+  //       title: "# Stack:",
+  //       boldSentence: "# Stack:",
+  //       description: "Flutter, BloC, Clean Architecture.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# My Achievement:",
+  //       boldSentence: "My Achievement",
+  //       description:
+  //         "Contributed in developement process of the app, including converting figma design to interactive coded UI, managing UI state and data I/O.",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   options: [
+  //     // {
+  //     //   icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
+  //     //   label: "Visit",
+  //     //   actionType: "LINK",
+  //     //   link: "https://check.medxsol.com",
+  //     // },
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+  //       label: "Details",
+  //       actionType: "DEFAULT",
+  //     },
+  //   ],
+  // },
+  // {
+  //   id: 12,
+  //   type: "image",
+  //   mediaUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/cover.jpg",
+  //   mediaViewer: {
+  //     image:
+  //       "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/2.jpg",
+  //     mediaViewType: "V",
+  //   },
+  //   name: "Muslim App",
+  //   logoUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/logo.png",
+  //   tags: [16, 17, 19],
+  //   description: "Mobile App",
+  //   gallery: [
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/1.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/1.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/2.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/2.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/3.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/3.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/4.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/4.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/5.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/5.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/6.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/6.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/7.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/7.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/8.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/8.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/9.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/9.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/2x/10.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/muslim app/3x/10.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //   ],
+  //   linksTitle: "Links:",
+  //   // links: [
+  //   //     {
+  //   //         text: '',
+  //   //         url: 'https://check.medxsol.com',
+  //   //         clickableText: 'Visit the platform',
+  //   //     }],
+  //   aboutTitle: "About the Project:",
+  //   aboutItems: [
+  //     {
+  //       title: "# Description:",
+  //       boldSentence: "Description",
+  //       description:
+  //         "An app designed for Muslim communities within a city or country, facilitating easy location of mosques through map integration. It serves as a centralized platform for donations and disseminates announcements pertinent to the community's activities and events.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# Stack:",
+  //       boldSentence: "# Stack:",
+  //       description: "Flutter, Clean-Architecture.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# My Achievement:",
+  //       boldSentence: "My Achievement",
+  //       description:
+  //         "- Actively participated in meetings, contributed to the development process, and ensured effective communication throughout the project.",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   options: [
+  //     // {
+  //     //   icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
+  //     //   label: "Visit",
+  //     //   actionType: "LINK",
+  //     //   link: "https://check.medxsol.com",
+  //     // },
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+  //       label: "Details",
+  //       actionType: "DEFAULT",
+  //     },
+  //   ],
+  // },
+  // {
+  //   id: 14,
+  //   type: "image",
+  //   mediaUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/cover.jpg",
+  //   mediaViewer: {
+  //     image:
+  //       "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/2.jpg",
+  //     mediaViewType: "V",
+  //   },
+  //   name: "Global Mobility",
+  //   logoUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/logo.png",
+  //   tags: [16, 17, 19],
+  //   description: "Mobile App",
+  //   gallery: [
+  //     // {
+  //     //     mediaViewer: {
+  //     //         image: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/1.jpg',
+  //     //         mediaViewType: 'V'
+  //     //     },
+  //     //     src: 'https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/1.jpg', type: 'image', highlightWord: '', tag: 2
+  //     // },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/2.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/2.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/3.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/3.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/4.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/4.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/5.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/5.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/6.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/6.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/7.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/7.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/8.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/8.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/9.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/9.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/2x/10.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/global mobility/3x/10.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //   ],
+  //   aboutTitle: "About the Project:",
+  //   aboutItems: [
+  //     {
+  //       title: "# Description:",
+  //       boldSentence: "Description",
+  //       description: "An online scooter renting app in dubai city.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# Stack:",
+  //       boldSentence: "# Stack:",
+  //       description: "Flutter, BloC, Clean-Architecture socket.io.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# My Achievement:",
+  //       boldSentence: "My Achievement",
+  //       description:
+  //         "- Communicated with non-technical stuff and tester to resolve software issues.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "- Intergrated a map viewer widget with markers and tracking routes to enhance user situational awareness, aligning with the application's purpose.",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   options: [
+  //     // {
+  //     //   icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
+  //     //   label: "Visit",
+  //     //   actionType: "LINK",
+  //     //   link: "https://check.medxsol.com",
+  //     // },
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+  //       label: "Details",
+  //       actionType: "DEFAULT",
+  //     },
+  //   ],
+  // },
   {
     id: 21,
     type: "image",
@@ -4207,131 +4207,131 @@ export const projects: Project[] = [
       },
     ],
   },
-  {
-    id: 19,
-    type: "video",
-    mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/hi/cover.png",
-    mediaViewer: {
-      image:
-        "https://odayali2249.github.io/portfolio-resources/resources/hi/cover.png",
-      mediaViewType: "V",
-    },
-    name: "Hitori Solver",
-    logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/hi/logo.png",
-    tags: [33, 27],
-    description: "Algorithms - Problem Solving",
-    gallery: [
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/hi/h-1.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/hi/h-1.png",
-        type: "image",
-        highlightWord: "",
-        tag: 1,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/hi/h-2.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/hi/h-2.png",
-        type: "image",
-        highlightWord: "",
-        tag: 1,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/hi/h-3.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/hi/h-3.png",
-        type: "image",
-        highlightWord: "",
-        tag: 1,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/hi/h-5.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/hi/h-5.png",
-        type: "image",
-        highlightWord: "",
-        tag: 1,
-      },
-    ],
-    linksTitle: "Links:",
-    links: [
-      {
-        text: "Source Code:",
-        url: "https://github.com/OdayAli2249/hitori-solver/",
-        clickableText: "Hitori Solver",
-      },
-    ],
-    aboutTitle: "About the project:",
-    aboutItems: [
-      {
-        title: "# Description:",
-        boldSentence: "# Description:",
-        description: `This project is a Hitori puzzle solver developed using Prolog for the logic processing and Python's Tkinter for the graphical user interface (GUI).
-                 Hitori is a logic-based number puzzle where the objective is to eliminate numbers from the grid so that no row or column contains duplicate numbers and the entire remaining cells form a single contiguous block.`,
-        tag: 1,
-      },
-      {
-        title: "# Features:",
-        boldSentence: "# Features:",
-        description: "",
-        tag: 1,
-      },
-      {
-        title: "Solver Engine",
-        boldSentence: "Solver Engine:",
-        description:
-          "Implemented in Prolog, leveraging the power of a rule-based system and first-order logic to solve the Hitori puzzles efficiently.",
-        tag: 1,
-      },
-      {
-        title: "Interactive GUI",
-        boldSentence: "Interactive GUI",
-        description: `Developed with Python's Tkinter, providing a user-friendly interface to input puzzles and visualize the solutions.`,
-        tag: 1,
-      },
-      {
-        title: "Seamless Integration",
-        boldSentence: "Seamless Integration",
-        description:
-          "Uses the pyswip library to interface between the Prolog solver and the Python application.",
-        tag: 1,
-      },
-      {
-        title: "# Stack:",
-        boldSentence: "Stack",
-        description: "Prolog, Python, Tkinter, pyswip.",
-        tag: 1,
-      },
-    ],
-    options: [
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
-        label: "Code",
-        actionType: "LINK",
-        link: "https://github.com/OdayAli2249/hitori-solver/",
-      },
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-        label: "Details",
-        actionType: "DEFAULT",
-      },
-    ],
-  },
+  // {
+  //   id: 19,
+  //   type: "video",
+  //   mediaUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/hi/cover.png",
+  //   mediaViewer: {
+  //     image:
+  //       "https://odayali2249.github.io/portfolio-resources/resources/hi/cover.png",
+  //     mediaViewType: "V",
+  //   },
+  //   name: "Hitori Solver",
+  //   logoUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/hi/logo.png",
+  //   tags: [33, 27],
+  //   description: "Algorithms - Problem Solving",
+  //   gallery: [
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/hi/h-1.png",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/hi/h-1.png",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 1,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/hi/h-2.png",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/hi/h-2.png",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 1,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/hi/h-3.png",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/hi/h-3.png",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 1,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/hi/h-5.png",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/hi/h-5.png",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   linksTitle: "Links:",
+  //   links: [
+  //     {
+  //       text: "Source Code:",
+  //       url: "https://github.com/OdayAli2249/hitori-solver/",
+  //       clickableText: "Hitori Solver",
+  //     },
+  //   ],
+  //   aboutTitle: "About the project:",
+  //   aboutItems: [
+  //     {
+  //       title: "# Description:",
+  //       boldSentence: "# Description:",
+  //       description: `This project is a Hitori puzzle solver developed using Prolog for the logic processing and Python's Tkinter for the graphical user interface (GUI).
+  //                Hitori is a logic-based number puzzle where the objective is to eliminate numbers from the grid so that no row or column contains duplicate numbers and the entire remaining cells form a single contiguous block.`,
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# Features:",
+  //       boldSentence: "# Features:",
+  //       description: "",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "Solver Engine",
+  //       boldSentence: "Solver Engine:",
+  //       description:
+  //         "Implemented in Prolog, leveraging the power of a rule-based system and first-order logic to solve the Hitori puzzles efficiently.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "Interactive GUI",
+  //       boldSentence: "Interactive GUI",
+  //       description: `Developed with Python's Tkinter, providing a user-friendly interface to input puzzles and visualize the solutions.`,
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "Seamless Integration",
+  //       boldSentence: "Seamless Integration",
+  //       description:
+  //         "Uses the pyswip library to interface between the Prolog solver and the Python application.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# Stack:",
+  //       boldSentence: "Stack",
+  //       description: "Prolog, Python, Tkinter, pyswip.",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   options: [
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
+  //       label: "Code",
+  //       actionType: "LINK",
+  //       link: "https://github.com/OdayAli2249/hitori-solver/",
+  //     },
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+  //       label: "Details",
+  //       actionType: "DEFAULT",
+  //     },
+  //   ],
+  // },
   {
     id: 20,
     type: "video",

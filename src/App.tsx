@@ -15,7 +15,7 @@ export default function App() {
 
   return (
     <div className="flex flex-col">
-      <Navbar tabs={tabs} />
+      {/* <Navbar tabs={tabs} /> */}
       <Outlet />
     </div>
   );

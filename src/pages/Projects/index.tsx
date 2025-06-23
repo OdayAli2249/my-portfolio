@@ -26,7 +26,7 @@ const Projects: React.FC = () => {
   );
 
   return (
-    <div className={(isXs || isSm || isMd) ? "flex flex-col relative" : "flex relative"} style={{ height: "calc(100vh - 60px)" }}
+    <div className={(isXs || isSm || isMd) ? "flex flex-col relative" : "flex relative"} style={{ height: "100vh" }}
       onClick={(event) => { }}>
       {(isXs || isSm || isMd) && filterButton}
       <div className={(isXs || isSm || isMd) ? (
