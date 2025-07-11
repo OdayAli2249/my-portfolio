@@ -34,7 +34,11 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   // <React.StrictMode>
-  <RouterProvider router={router} />
+  // <RouterProvider router={router} />
+  <div className="flex flex-col">
+    {/* <Navbar tabs={tabs} /> */}
+    <Projects />
+  </div>
   // </React.StrictMode>,
 );
 
