@@ -23,24 +23,24 @@ export const tags: Map<number, string> = new Map<number, string>([
     [20, "MVVM"],
     [21, "GetX"],
     [22, "java"],
-    [23, "Compiler Design"],
+    // [23, "Compiler Design"],
     [24, "Software Engineering"],
     // [25, "CI/CD"],
     [26, "Responsive Design"],
-    [27, "Artificial Intelligence"],
-    [28, "Expert System"],
-    [29, "Fuzzy Logic"],
-    [30, "Game"],
-    [31, "Physics Engine"],
-    [32, "Scientific Computation"],
-    [33, "Python"],
-    [34, "Machine Learning"],
-    [35, "Computer Vision"],
-    [36, "Intelligence Search Algorithm"],
+    //  [27, "Artificial Intelligence"],
+    // [28, "Expert System"],
+    // [29, "Fuzzy Logic"],
+    //  [30, "Game"],
+    // [31, "Physics Engine"],
+    // [32, "Scientific Computation"],
+    // [33, "Python"],
+    // [34, "Machine Learning"],
+    // [35, "Computer Vision"],
+    // [36, "Intelligence Search Algorithm"],
     [37, "OOP"],
-    [38, "Multithreaded programming"],
+    // [38, "Multithreaded programming"],
     // [39, "AWS"],
-    [40, "C#"]
+    //[40, "C#"]
 ]);
 
 export const secondaryTags: Map<number, string> = new Map<number, string>([
@@ -67,7 +67,9 @@ export const tagToAssociatedSecondaryTags: { [key: number]: number[] } = {
 };
 
 export const groupsTitle: string[] = ['Recommended', 'Proficient', 'Other'];
-export const basicTags = [2, 3, 4, 26, 24, 12, 14, 15, 7, 22, 38, 6, 13, 37];
+export const basicTags = [2, 3, 4, 26, 24, 12, 14, 15, 7,
+    // 22, 38,
+    6, 13, 37];
 
 export const tagsObject = {
     primary: {

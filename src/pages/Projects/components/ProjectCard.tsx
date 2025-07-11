@@ -15,7 +15,7 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
   };
 
   return (
-    <div className="bg-white rounded-lg shadow-md h-[310px] relative">
+    <div className="bg-white rounded-lg shadow-md h-[310px] relative hover:scale-[1.04] transition-transform">
       {project.type === "video" ? (
         <div onClick={handleClick}>
           <MediaViewer {...project.mediaViewer!} />
