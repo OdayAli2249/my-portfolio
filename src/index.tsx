@@ -13,32 +13,28 @@ const router = createBrowserRouter([
 
   {
     path: '/gallery',
-    element: <App />,
-    children: [
-      // {
-      //   index: true,
-      //   element: <Home />,
-      // },
-      {
-        // path: 'projects',
-        index: true,
-        element: <Projects />,
-      },
-      {
-        path: 'contact',
-        element: <Contact />,
-      },
-    ],
+    element: <Projects />,
+    // children: [
+    //   // {
+    //   //   index: true,
+    //   //   element: <Home />,
+    //   // },
+    //   {
+    //     // path: 'projects',
+    //     index: true,
+    //     element: <Projects />,
+    //   },
+    //   {
+    //     path: 'contact',
+    //     element: <Contact />,
+    //   },
+    // ],
   },
 ]);
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   // <React.StrictMode>
-  // <RouterProvider router={router} />
-  <div className="flex flex-col">
-    {/* <Navbar tabs={tabs} /> */}
-    <Projects />
-  </div>
+  <RouterProvider router={router} />
   // </React.StrictMode>,
 );
 
