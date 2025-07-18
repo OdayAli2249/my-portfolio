@@ -3111,422 +3111,422 @@ export const projects: Project[] = [
   //     },
   //   ],
   // },
-  // {
-  //   id: 15,
-  //   type: "image",
-  //   mediaUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/cc/6.png",
-  //   mediaViewer: {
-  //     image:
-  //       "https://odayali2249.github.io/portfolio-resources/resources/cc/6.png",
-  //     mediaViewType: "V",
-  //   },
-  //   name: "FuzzyDrive",
-  //   logoUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/cc/logo.png",
-  //   tags: [24, 27, 28, 29, 30, 40, 37],
-  //   description: "Evnironment Simulator",
-  //   gallery: [
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/cc/6.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/cc/6.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 2,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/cc/5.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/cc/5.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 2,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/cc/7.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/cc/7.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 2,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/cc/3.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/cc/3.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 2,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/cc/2.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/cc/2.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 2,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/cc/1.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/cc/1.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 2,
-  //     },
-  //   ],
-  //   linksTitle: "Links:",
-  //   links: [
-  //     {
-  //       text: "",
-  //       url: "https://github.com/OdayAli2249/FuzzyDrive---AI-Powered-Self-Driving-Car-Simulation",
-  //       clickableText: "github",
-  //     },
-  //     {
-  //       text: "",
-  //       url: "https://drive.google.com/drive/folders/1zw306jIbmizZnSh8cGc6N6iLfTnBA0jq",
-  //       clickableText: "demo",
-  //     },
-  //     {
-  //       text: "Reference",
-  //       url: "https://www.researchgate.net/publication/2247942_Fuzzy_Control_to_Drive_Car-Like_Vehicles",
-  //       clickableText: "Original research paper",
-  //     },
-  //   ],
-  //   aboutTitle: "About the Project:",
-  //   hyperWords: new Map<string, string>([
-  //     [
-  //       "here",
-  //       "https://www.researchgate.net/publication/2247942_Fuzzy_Control_to_Drive_Car-Like_Vehicles",
-  //     ],
-  //     [
-  //       "github",
-  //       "https://github.com/OdayAli2249/FuzzyDrive---AI-Powered-Self-Driving-Car-Simulation",
-  //     ],
-  //   ]),
-  //   aboutItems: [
-  //     {
-  //       title: "# Description:",
-  //       boldSentence: "Description",
-  //       description:
-  //         "A Unity 3D simulation that demonstrates the capabilities of an AI-powered self-driving car using fuzzy logic and rule-based system technologies. This project tackles the complex challenge of implementing a self-driving car simulation, based on research from a self-driving car simulation paper which you can find here .",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "The simulation features two vehicles: one operated by the user and the other navigated by an intelligent system leveraging fuzzy logic principles and knowledge-based systems.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description: `My contribution is to transform a theoretical concept in a scientific research into a measurable and controllable computer simulation using artificial 
-  //         intelligence technology, as well as an improvement on the method presented in the research to support handling unresolved rare case (only detected 
-  //         through taking the proposed method to practical computer simulation).`,
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description: "Complete, Well documented details on github",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "# Stack:",
-  //       boldSentence: "# Stack:",
-  //       description:
-  //         "Artificial Intelligence, Rule-Based Systems, Expert Systems, Fuzzy Logic, Game Development, Unity 3D.",
-  //       tag: 1,
-  //     },
-  //   ],
-  //   options: [
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
-  //       label: "Github",
-  //       actionType: "LINK",
-  //       link: "https://github.com/OdayAli2249/FuzzyDrive---AI-Powered-Self-Driving-Car-Simulation",
-  //     },
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/demo.svg",
-  //       label: "DEMO",
-  //       actionType: "LINK",
-  //       link: "https://drive.google.com/drive/folders/1zw306jIbmizZnSh8cGc6N6iLfTnBA0jq",
-  //     },
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-  //       label: "Details",
-  //       actionType: "DEFAULT",
-  //     },
-  //   ],
-  // },
-  // {
-  //   id: 1,
-  //   type: "video",
-  //   mediaUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg",
-  //   mediaViewer: {
-  //     image:
-  //       "https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg",
-  //     // images: [
-  //     //     'https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg',
-  //     //     'https://odayali2249.github.io/portfolio-resources/resources/sc/2.jpg',
-  //     //     'https://odayali2249.github.io/portfolio-resources/resources/sc/3.jpg',
-  //     //     'https://odayali2249.github.io/portfolio-resources/resources/sc/4.jpg',
-  //     //     'https://odayali2249.github.io/portfolio-resources/resources/sc/5.jpg'
-  //     // ],
-  //     // video: 'https://odayali2249.github.io/portfolio-resources/resources/sc/sc-demo-1.mp4',
-  //     mediaViewType: "V",
-  //   },
-  //   name: "Poly Dynamics",
-  //   logoUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/sc/logo.jpg",
-  //   tags: [30, 31, 32, 22, 37],
-  //   hyperWords: new Map<string, string>([
-  //     ["polygons", "https://www.mathsisfun.com/geometry/polygons.html"],
-  //     [
-  //       "brain-dots",
-  //       "https://play.google.com/store/search?q=brain-dots&c=apps&hl=en_US&gl=TR",
-  //     ],
-  //     [
-  //       "brain-it-on!",
-  //       "https://play.google.com/store/search?q=Brain%20It%20On!&c=apps&hl=en_US&gl=TR",
-  //     ],
-  //     [
-  //       "draw-a-stickman",
-  //       "https://play.google.com/store/apps/details?id=com.hitcents.drawastickman&hl=en_US&gl=TR",
-  //     ],
-  //     [
-  //       "love-balls",
-  //       "https://play.google.com/store/search?q=love-balls&c=apps&hl=en_US&gl=TR",
-  //     ],
-  //   ]),
-  //   description: "Physics engine - Games math",
-  //   gallery: [
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/sc/dashboard-1.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/sc/dashboard-1.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/sc/dashboard-2.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/sc/dashboard-2.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/sc/2.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/sc/2.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/sc/3.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/sc/3.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/sc/4.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/sc/4.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/sc/5.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/sc/5.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/sc/6.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/sc/6.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //   ],
-  //   linksTitle: "Links:",
-  //   links: [
-  //     {
-  //       text: "Source Code:",
-  //       url: "https://github.com/OdayAli2249/poly-dynamics-2D",
-  //       clickableText: "Poly Dynamics",
-  //     },
-  //     {
-  //       text: "DEMO",
-  //       url: "https://drive.google.com/drive/folders/10ZuK_7OOMD-zlNDn203hk-63XNLrMH9M?usp=sharing",
-  //       clickableText: "Poly Dynamics DEMO",
-  //     },
-  //     {
-  //       text: "Documentation (In Arabic)",
-  //       url: "https://drive.google.com/file/d/1M2ZfLIHVgRsdZFarElK_tG0nd-avTB3H/view?usp=sharing",
-  //       clickableText: "Poly Dynamics Docs",
-  //     },
-  //     {
-  //       text: "References:",
-  //       url:
-  //         "https://www.amazon.co.uk/Game-Physics-Engine-Development-Commercial-Grade/dp/" +
-  //         "0123819768/ref=asc_df_0123819768/?tag=googshopuk-21&linkCode=df0&hvadid=311013355418&hvpos" +
-  //         "=&hvnetw=g&hvrand=7481786533575717995&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&" +
-  //         "hvlocphy=20339&hvtargid=pla-489055530895&psc=1&mcid=52deca3b3da739f69d09f33d10f8f0b0&th=1&psc=1",
-  //       clickableText:
-  //         "Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics" +
-  //         " Engine for your Game",
-  //     },
-  //     {
-  //       text: "",
-  //       url: "https://www.amazon.co.uk/Game-Physics-Cookbook-Gabor-Szauer/dp/1787123669",
-  //       clickableText: "Game Physics Cookbook Paperback 24 Mar. 2017",
-  //     },
-  //     {
-  //       text: "",
-  //       url: "https://www.amazon.co.uk/Physics-Game-Programmers-Grant-Palmer/dp/159059472X",
-  //       clickableText:
-  //         "Physics for Game Programmers Paperback Illustrated, 20 April 2005",
-  //     },
-  //   ],
-  //   aboutTitle: "About the Project:",
-  //   aboutItems: [
-  //     {
-  //       title: "Physics Engine in Java and OpenGL",
-  //       boldSentence: "Physics Engine in Java and OpenGL",
-  //       description:
-  //         "Developed a robust physics engine using Java and OpenGL, providing a platform for simulating complex physical interactions. " +
-  //         "Leveraged the power of OpenGL for efficient rendering and visualization of 2D polygons and their dynamic behavior. " +
-  //         "By reviewing the source code and physics concepts in my GitHub repository, you will gain valuable knowledge and qualifications necessary to create sophisticated physics-based games, akin to popular titles like Brain-Dots , Brain-It-On! , Draw-a-Stickman and Love-Balls .",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title:
-  //         "Interactive Dashboard for Creating Custom Polygons and Customizing Body Parameters",
-  //       boldSentence:
-  //         "Interactive Dashboard for Creating Custom Polygons and Customizing Body Parameters",
-  //       description:
-  //         "Implemented an intuitive dashboard interface allowing users to create custom polygons/shapes and customize parameters for each individual body within the simulation. " +
-  //         "Provided controls to set initial angular and linear position, angle, mass and velocity for precise configuration of body dynamics. " +
-  //         "Empowered users to initiate simulation execution with the click of a button, facilitating seamless interaction and exploration of dynamic scenarios. ",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "Dynamic 2D Polygon Simulation",
-  //       boldSentence: "Dynamic 2D Polygon Simulation",
-  //       description:
-  //         "Implemented a dynamic simulation environment featuring 2D polygons falling from a height onto a cracked ground, enhancing challenge and realism. " +
-  //         "Designed the simulation to showcase realistic collisions and interactions between rigid bodies, accurately modeling physics principles. ",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "Integration of ODE Solver and Euler Method",
-  //       boldSentence: "Integration of ODE Solver and Euler Method",
-  //       description:
-  //         "Utilized an Ordinary Differential Equation (ODE) solver combined with the Euler method to simulate realistic physical behavior. " +
-  //         "Implemented advanced numerical methods to accurately model the dynamics of rigid bodies and their interactions within the simulation environment. ",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "In-depth Research and Reference Utilization",
-  //       boldSentence: "In-depth Research and Reference Utilization",
-  //       description:
-  //         "Conducted extensive research, drawing insights from physics textbooks and scientific computation research to inform the simulator's design and implementation. " +
-  //         "Incorporated findings from advanced physics concepts and computational methodologies to ensure fidelity and accuracy in the simulation's representation of physical phenomena. ",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "Visualization of Collision and Interaction Dynamics",
-  //       boldSentence: "Visualization of Collision and Interaction Dynamics",
-  //       description:
-  //         "Developed sophisticated visualization techniques with OpenGL to depict collision and interaction dynamics between rigid bodies. " +
-  //         "Enabled users to observe and analyze the complex behavior of polygons as they collide, deform, and interact with each other and the environment. ",
-  //       tag: 1,
-  //     },
-  //   ],
-  //   options: [
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
-  //       label: "Code",
-  //       actionType: "LINK",
-  //       link: "https://github.com/OdayAli2249/poly-dynamics-2D",
-  //     },
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/demo.svg",
-  //       label: "DEMO",
-  //       actionType: "LINK",
-  //       link: "https://drive.google.com/drive/folders/10ZuK_7OOMD-zlNDn203hk-63XNLrMH9M?usp=sharing",
-  //     },
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-  //       label: "Details",
-  //       actionType: "DEFAULT",
-  //     },
-  //   ],
-  // },
+  {
+    id: 15,
+    type: "image",
+    mediaUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/cc/6.png",
+    mediaViewer: {
+      image:
+        "https://odayali2249.github.io/portfolio-resources/resources/cc/6.png",
+      mediaViewType: "V",
+    },
+    name: "FuzzyDrive",
+    logoUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/cc/logo.png",
+    tags: [24, 27, 28, 29, 30, 40, 37],
+    description: "Evnironment Simulator",
+    gallery: [
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/cc/6.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/cc/6.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/cc/5.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/cc/5.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/cc/7.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/cc/7.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/cc/3.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/cc/3.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/cc/2.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/cc/2.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/cc/1.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/cc/1.png",
+        type: "image",
+        highlightWord: "",
+        tag: 2,
+      },
+    ],
+    linksTitle: "Links:",
+    links: [
+      {
+        text: "",
+        url: "https://github.com/OdayAli2249/FuzzyDrive---AI-Powered-Self-Driving-Car-Simulation",
+        clickableText: "github",
+      },
+      {
+        text: "",
+        url: "https://drive.google.com/drive/folders/1zw306jIbmizZnSh8cGc6N6iLfTnBA0jq",
+        clickableText: "demo",
+      },
+      {
+        text: "Reference",
+        url: "https://www.researchgate.net/publication/2247942_Fuzzy_Control_to_Drive_Car-Like_Vehicles",
+        clickableText: "Original research paper",
+      },
+    ],
+    aboutTitle: "About the Project:",
+    hyperWords: new Map<string, string>([
+      [
+        "here",
+        "https://www.researchgate.net/publication/2247942_Fuzzy_Control_to_Drive_Car-Like_Vehicles",
+      ],
+      [
+        "github",
+        "https://github.com/OdayAli2249/FuzzyDrive---AI-Powered-Self-Driving-Car-Simulation",
+      ],
+    ]),
+    aboutItems: [
+      {
+        title: "# Description:",
+        boldSentence: "Description",
+        description:
+          "A Unity 3D simulation that demonstrates the capabilities of an AI-powered self-driving car using fuzzy logic and rule-based system technologies. This project tackles the complex challenge of implementing a self-driving car simulation, based on research from a self-driving car simulation paper which you can find here .",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "The simulation features two vehicles: one operated by the user and the other navigated by an intelligent system leveraging fuzzy logic principles and knowledge-based systems.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description: `My contribution is to transform a theoretical concept in a scientific research into a measurable and controllable computer simulation using artificial 
+          intelligence technology, as well as an improvement on the method presented in the research to support handling unresolved rare case (only detected 
+          through taking the proposed method to practical computer simulation).`,
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description: "Complete, Well documented details on github",
+        tag: 1,
+      },
+      {
+        title: "# Stack:",
+        boldSentence: "# Stack:",
+        description:
+          "Artificial Intelligence, Rule-Based Systems, Expert Systems, Fuzzy Logic, Game Development, Unity 3D.",
+        tag: 1,
+      },
+    ],
+    options: [
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
+        label: "Github",
+        actionType: "LINK",
+        link: "https://github.com/OdayAli2249/FuzzyDrive---AI-Powered-Self-Driving-Car-Simulation",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/demo.svg",
+        label: "DEMO",
+        actionType: "LINK",
+        link: "https://drive.google.com/drive/folders/1zw306jIbmizZnSh8cGc6N6iLfTnBA0jq",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+        label: "Details",
+        actionType: "DEFAULT",
+      },
+    ],
+  },
+  {
+    id: 1,
+    type: "video",
+    mediaUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg",
+    mediaViewer: {
+      image:
+        "https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg",
+      // images: [
+      //     'https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg',
+      //     'https://odayali2249.github.io/portfolio-resources/resources/sc/2.jpg',
+      //     'https://odayali2249.github.io/portfolio-resources/resources/sc/3.jpg',
+      //     'https://odayali2249.github.io/portfolio-resources/resources/sc/4.jpg',
+      //     'https://odayali2249.github.io/portfolio-resources/resources/sc/5.jpg'
+      // ],
+      // video: 'https://odayali2249.github.io/portfolio-resources/resources/sc/sc-demo-1.mp4',
+      mediaViewType: "V",
+    },
+    name: "Poly Dynamics",
+    logoUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/sc/logo.jpg",
+    tags: [30, 31, 32, 22, 37],
+    hyperWords: new Map<string, string>([
+      ["polygons", "https://www.mathsisfun.com/geometry/polygons.html"],
+      [
+        "brain-dots",
+        "https://play.google.com/store/search?q=brain-dots&c=apps&hl=en_US&gl=TR",
+      ],
+      [
+        "brain-it-on!",
+        "https://play.google.com/store/search?q=Brain%20It%20On!&c=apps&hl=en_US&gl=TR",
+      ],
+      [
+        "draw-a-stickman",
+        "https://play.google.com/store/apps/details?id=com.hitcents.drawastickman&hl=en_US&gl=TR",
+      ],
+      [
+        "love-balls",
+        "https://play.google.com/store/search?q=love-balls&c=apps&hl=en_US&gl=TR",
+      ],
+    ]),
+    description: "Physics engine - Games math",
+    gallery: [
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/sc/dashboard-1.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/sc/dashboard-1.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/sc/dashboard-2.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/sc/dashboard-2.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/sc/1.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/sc/2.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/sc/2.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/sc/3.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/sc/3.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/sc/4.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/sc/4.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/sc/5.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/sc/5.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/sc/6.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/sc/6.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+    ],
+    linksTitle: "Links:",
+    links: [
+      {
+        text: "Source Code:",
+        url: "https://github.com/OdayAli2249/poly-dynamics-2D",
+        clickableText: "Poly Dynamics",
+      },
+      {
+        text: "DEMO",
+        url: "https://drive.google.com/drive/folders/10ZuK_7OOMD-zlNDn203hk-63XNLrMH9M?usp=sharing",
+        clickableText: "Poly Dynamics DEMO",
+      },
+      {
+        text: "Documentation (In Arabic)",
+        url: "https://drive.google.com/file/d/1M2ZfLIHVgRsdZFarElK_tG0nd-avTB3H/view?usp=sharing",
+        clickableText: "Poly Dynamics Docs",
+      },
+      {
+        text: "References:",
+        url:
+          "https://www.amazon.co.uk/Game-Physics-Engine-Development-Commercial-Grade/dp/" +
+          "0123819768/ref=asc_df_0123819768/?tag=googshopuk-21&linkCode=df0&hvadid=311013355418&hvpos" +
+          "=&hvnetw=g&hvrand=7481786533575717995&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&" +
+          "hvlocphy=20339&hvtargid=pla-489055530895&psc=1&mcid=52deca3b3da739f69d09f33d10f8f0b0&th=1&psc=1",
+        clickableText:
+          "Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics" +
+          " Engine for your Game",
+      },
+      {
+        text: "",
+        url: "https://www.amazon.co.uk/Game-Physics-Cookbook-Gabor-Szauer/dp/1787123669",
+        clickableText: "Game Physics Cookbook Paperback 24 Mar. 2017",
+      },
+      {
+        text: "",
+        url: "https://www.amazon.co.uk/Physics-Game-Programmers-Grant-Palmer/dp/159059472X",
+        clickableText:
+          "Physics for Game Programmers Paperback Illustrated, 20 April 2005",
+      },
+    ],
+    aboutTitle: "About the Project:",
+    aboutItems: [
+      {
+        title: "Physics Engine in Java and OpenGL",
+        boldSentence: "Physics Engine in Java and OpenGL",
+        description:
+          "Developed a robust physics engine using Java and OpenGL, providing a platform for simulating complex physical interactions. " +
+          "Leveraged the power of OpenGL for efficient rendering and visualization of 2D polygons and their dynamic behavior. " +
+          "By reviewing the source code and physics concepts in my GitHub repository, you will gain valuable knowledge and qualifications necessary to create sophisticated physics-based games, akin to popular titles like Brain-Dots , Brain-It-On! , Draw-a-Stickman and Love-Balls .",
+        tag: 1,
+      },
+      {
+        title:
+          "Interactive Dashboard for Creating Custom Polygons and Customizing Body Parameters",
+        boldSentence:
+          "Interactive Dashboard for Creating Custom Polygons and Customizing Body Parameters",
+        description:
+          "Implemented an intuitive dashboard interface allowing users to create custom polygons/shapes and customize parameters for each individual body within the simulation. " +
+          "Provided controls to set initial angular and linear position, angle, mass and velocity for precise configuration of body dynamics. " +
+          "Empowered users to initiate simulation execution with the click of a button, facilitating seamless interaction and exploration of dynamic scenarios. ",
+        tag: 1,
+      },
+      {
+        title: "Dynamic 2D Polygon Simulation",
+        boldSentence: "Dynamic 2D Polygon Simulation",
+        description:
+          "Implemented a dynamic simulation environment featuring 2D polygons falling from a height onto a cracked ground, enhancing challenge and realism. " +
+          "Designed the simulation to showcase realistic collisions and interactions between rigid bodies, accurately modeling physics principles. ",
+        tag: 1,
+      },
+      {
+        title: "Integration of ODE Solver and Euler Method",
+        boldSentence: "Integration of ODE Solver and Euler Method",
+        description:
+          "Utilized an Ordinary Differential Equation (ODE) solver combined with the Euler method to simulate realistic physical behavior. " +
+          "Implemented advanced numerical methods to accurately model the dynamics of rigid bodies and their interactions within the simulation environment. ",
+        tag: 1,
+      },
+      {
+        title: "In-depth Research and Reference Utilization",
+        boldSentence: "In-depth Research and Reference Utilization",
+        description:
+          "Conducted extensive research, drawing insights from physics textbooks and scientific computation research to inform the simulator's design and implementation. " +
+          "Incorporated findings from advanced physics concepts and computational methodologies to ensure fidelity and accuracy in the simulation's representation of physical phenomena. ",
+        tag: 1,
+      },
+      {
+        title: "Visualization of Collision and Interaction Dynamics",
+        boldSentence: "Visualization of Collision and Interaction Dynamics",
+        description:
+          "Developed sophisticated visualization techniques with OpenGL to depict collision and interaction dynamics between rigid bodies. " +
+          "Enabled users to observe and analyze the complex behavior of polygons as they collide, deform, and interact with each other and the environment. ",
+        tag: 1,
+      },
+    ],
+    options: [
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
+        label: "Code",
+        actionType: "LINK",
+        link: "https://github.com/OdayAli2249/poly-dynamics-2D",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/demo.svg",
+        label: "DEMO",
+        actionType: "LINK",
+        link: "https://drive.google.com/drive/folders/10ZuK_7OOMD-zlNDn203hk-63XNLrMH9M?usp=sharing",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+        label: "Details",
+        actionType: "DEFAULT",
+      },
+    ],
+  },
   {
     id: 16,
     type: "video",
