@@ -12,7 +12,7 @@ import Projects from './pages/Projects';
 const router = createBrowserRouter([
 
   {
-    path: '/gallery',
+    path: '/',
     element: <Projects />,
     // children: [
     //   // {
