@@ -2306,210 +2306,210 @@ export const projects: Project[] = [
       },
     ],
   },
-  {
-    id: 9,
-    type: "image",
-    mediaUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/cover.png",
-    mediaViewer: {
-      image:
-        "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg",
-      mediaViewType: "V",
-    },
-    name: "Ordert",
-    logoUrl:
-      "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/logo.png",
-    tags: [16, 18, 19, 20, 21, 37, 25],
-    description: "Mobile App",
-    gallery: [
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/1.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/1.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/2.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/3.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/3.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/4.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/4.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/5.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/5.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/6.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/6.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/7.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/7.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/8.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/8.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/9.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/9.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/10.jpg",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/10.jpg",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-      {
-        mediaViewer: {
-          image:
-            "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/11.png",
-          mediaViewType: "V",
-        },
-        src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/11.png",
-        type: "image",
-        highlightWord: "",
-        tag: 2,
-      },
-    ],
-    linksTitle: "Links:",
-    links: [
-      {
-        text: "",
-        url: "https://play.google.com/store/apps/details?id=com.mod.ordert&hl=en_US&gl=TR",
-        clickableText: "Google Play",
-      },
-    ],
-    aboutTitle: "About the Project:",
-    aboutItems: [
-      {
-        title: "# Description:",
-        boldSentence: "Description",
-        description:
-          "App simplifies order management and table reservations, offering a visual layout for exploring table positions and additional features.",
-        tag: 1,
-      },
-      {
-        title: "# Stack:",
-        boldSentence: "# Stack:",
-        description: "Flutter, MVVM, GetX, Cloud Messaging, Code-magic.",
-        tag: 1,
-      },
-      {
-        title: "# My Achievement:",
-        boldSentence: "My Achievement",
-        description:
-          "- Designed a complex, user friendly UI components to help user find their needs with a minimum number of actions.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Elevated the app to a new level, transitioning it from a state riddled with bugs to a polished, production-ready version for end users.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Proposed, designed, and implemented UI/UX enhancements to simplify feature usability for users, ensuring a more intuitive experience.",
-        tag: 1,
-      },
-      {
-        title: "",
-        boldSentence: "",
-        description:
-          "- Introduced a modern CI/CD tool called Code Magic, which significantly reduced deployment time by 25%, improving our development process.",
-        tag: 1,
-      },
-    ],
-    options: [
-      // {
-      //   icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
-      //   label: "Play Store",
-      //   actionType: "LINK",
-      //   link: "https://play.google.com/store/apps/details?id=com.mod.ordert&hl=en_US&gl=TR",
-      // },
-      {
-        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-        label: "Details",
-        actionType: "DEFAULT",
-      },
-    ],
-  },
+  // {
+  //   id: 9,
+  //   type: "image",
+  //   mediaUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/cover.png",
+  //   mediaViewer: {
+  //     image:
+  //       "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg",
+  //     mediaViewType: "V",
+  //   },
+  //   name: "Ordert",
+  //   logoUrl:
+  //     "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/logo.png",
+  //   tags: [16, 18, 19, 20, 21, 37, 25],
+  //   description: "Mobile App",
+  //   gallery: [
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/1.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/1.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/2.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/2.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/3.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/3.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/4.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/4.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/5.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/5.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/6.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/6.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/7.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/7.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/8.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/8.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/9.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/9.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/10.jpg",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/10.jpg",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //     {
+  //       mediaViewer: {
+  //         image:
+  //           "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/2x/11.png",
+  //         mediaViewType: "V",
+  //       },
+  //       src: "https://odayali2249.github.io/portfolio-resources/resources/mobile/ordert/3x/11.png",
+  //       type: "image",
+  //       highlightWord: "",
+  //       tag: 2,
+  //     },
+  //   ],
+  //   linksTitle: "Links:",
+  //   links: [
+  //     {
+  //       text: "",
+  //       url: "https://play.google.com/store/apps/details?id=com.mod.ordert&hl=en_US&gl=TR",
+  //       clickableText: "Google Play",
+  //     },
+  //   ],
+  //   aboutTitle: "About the Project:",
+  //   aboutItems: [
+  //     {
+  //       title: "# Description:",
+  //       boldSentence: "Description",
+  //       description:
+  //         "App simplifies order management and table reservations, offering a visual layout for exploring table positions and additional features.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# Stack:",
+  //       boldSentence: "# Stack:",
+  //       description: "Flutter, MVVM, GetX, Cloud Messaging, Code-magic.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "# My Achievement:",
+  //       boldSentence: "My Achievement",
+  //       description:
+  //         "- Designed a complex, user friendly UI components to help user find their needs with a minimum number of actions.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "- Elevated the app to a new level, transitioning it from a state riddled with bugs to a polished, production-ready version for end users.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "- Proposed, designed, and implemented UI/UX enhancements to simplify feature usability for users, ensuring a more intuitive experience.",
+  //       tag: 1,
+  //     },
+  //     {
+  //       title: "",
+  //       boldSentence: "",
+  //       description:
+  //         "- Introduced a modern CI/CD tool called Code Magic, which significantly reduced deployment time by 25%, improving our development process.",
+  //       tag: 1,
+  //     },
+  //   ],
+  //   options: [
+  //     // {
+  //     //   icon: "https://odayali2249.github.io/portfolio-resources/resources/visit.svg",
+  //     //   label: "Play Store",
+  //     //   actionType: "LINK",
+  //     //   link: "https://play.google.com/store/apps/details?id=com.mod.ordert&hl=en_US&gl=TR",
+  //     // },
+  //     {
+  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+  //       label: "Details",
+  //       actionType: "DEFAULT",
+  //     },
+  //   ],
+  // },
 
   // {
   //   id: 11,
@@ -3527,686 +3527,686 @@ export const projects: Project[] = [
   //     },
   //   ],
   // },
-  // {
-  //   id: 16,
-  //   type: "video",
-  //   mediaUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/ss/cover.png",
-  //   mediaViewer: {
-  //     image:
-  //       "https://odayali2249.github.io/portfolio-resources/resources/ss/cover.png",
-  //     mediaViewType: "V",
-  //   },
-  //   name: "ML Sudoku Solver",
-  //   logoUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/ss/logo.jpg",
-  //   tags: [33, 34, 35, 27],
-  //   hyperWords: new Map<string, string>([
-  //     ["github", "https://github.com/OdayAli2249/ML-Sudoku-Solver"],
-  //   ]),
-  //   description: "Computer Vision - Machine Learning",
-  //   gallery: [
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ss/5.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ss/5.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol2.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol2.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol3.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol3.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol4.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol4.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ss/1.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ss/1.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ss/1-sol.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ss/1-sol.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ss/2.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ss/2.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ss/2-sol.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ss/2-sol.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ss/3.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ss/3.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ss/3-sol.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ss/3-sol.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ss/4.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ss/4.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ss/4-sol.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ss/4-sol.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //   ],
-  //   linksTitle: "Links:",
-  //   links: [
-  //     {
-  //       text: "Source Code:",
-  //       url: "https://github.com/OdayAli2249/ML-Sudoku-Solver",
-  //       clickableText: "ML Sudoku Solver",
-  //     },
-  //   ],
-  //   aboutTitle: "About the Project:",
-  //   aboutItems: [
-  //     {
-  //       title: "# Description",
-  //       boldSentence: "# Description",
-  //       description:
-  //         "Real-Time ML Sudoku Solver is a project that demonstrates a fascinating intersection of computer vision and machine learning" +
-  //         " to solve Sudoku puzzles directly from video capture.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "- Complete documentation about implementation available on github .",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "# Stack",
-  //       boldSentence: "# Stack",
-  //       description:
-  //         "Python, Machine Learning, Computer Vision, Tensorflow, Keras, OpenCV.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "# Features",
-  //       boldSentence: "# Features",
-  //       description:
-  //         "- Real-Time Video Processing: Captures and processes video input to detect and solve Sudoku puzzles in real-time.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "- Image Input Support: Besides video, it can also detect and solve Sudoku puzzles in input image.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "- Machine Learning: Utilizes TensorFlow and Keras for digit recognition.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "- Computer Vision: Employs OpenCV for image preprocessing, features extraction and contour detection.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "- Dynamic Overlay: Displays the solved Sudoku puzzle overlayed on the original video feed.",
-  //       tag: 1,
-  //     },
-  //   ],
-  //   options: [
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
-  //       label: "Code",
-  //       actionType: "LINK",
-  //       link: "https://github.com/OdayAli2249/ML-Sudoku-Solver",
-  //     },
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-  //       label: "Details",
-  //       actionType: "DEFAULT",
-  //     },
-  //   ],
-  // },
-  // {
-  //   id: 17,
-  //   type: "video",
-  //   mediaUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/py/cover.png",
-  //   mediaViewer: {
-  //     image:
-  //       "https://odayali2249.github.io/portfolio-resources/resources/py/cover.png",
-  //     mediaViewType: "V",
-  //   },
-  //   name: "Python for Beginners",
-  //   logoUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/py/logo.png",
-  //   tags: [33],
-  //   hyperWords: new Map<string, string>([
-  //     [
-  //       "github",
-  //       "https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23",
-  //     ],
-  //   ]),
-  //   description: "Educational - Voluntary",
-  //   gallery: [
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/py/image1.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/py/image1.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/py/image2.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/py/image2.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/py/image3.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/py/image3.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/py/image4.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/py/image4.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/py/image5.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/py/image5.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //   ],
-  //   linksTitle: "Links:",
-  //   links: [
-  //     {
-  //       text: "Source Code:",
-  //       url: "https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23",
-  //       clickableText: "Course Files",
-  //     },
-  //   ],
-  //   aboutTitle: "About the Project:",
-  //   aboutItems: [
-  //     {
-  //       title: "# Description",
-  //       boldSentence: "# Description",
-  //       description:
-  //         "This is the lab files and exercises belong to a free, voluntary Python course that I created, organized and taught at the faculty of information technology engineering," +
-  //         " damascus university. The aim of this course was to provide a comprehensive introduction to Python programming, covering fundamental concepts and progressing to more advanced topics, including an introduction to artificial intelligence.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description: `- The curriculum is designed to be comprehensive and engaging, featuring various exercises that illustrate advanced concepts and reinforce each chapter's goals.
-  //                Exercises include a "Guess the Number" game, an employee list CRUD application, a "Worm" game, a multi-player Tic-Tac-Toe game, finally, in the AI introduction chapter, a family relationship recognition program using First-order logic. These practical projects ensure learners gain hands-on experience with Python's diverse capabilities.`,
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "# Chapters",
-  //       boldSentence: "# Chapters",
-  //       description: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "- Basics: Data types, loops, control commands, conditions.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "- Functions: Defining and calling functions, arguments, return values, scope.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description: "- Data Structures: Lists, tuples, dictionaries, sets.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "- Object-Oriented Programming (OOP): Classes, objects, inheritance, polymorphism.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "- Storage and Handling of Files: Reading from and writing to files, handling different file formats.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "- Introduction to Artificial Intelligence: Basic concepts of AI, simple AI project.",
-  //       tag: 1,
-  //     },
-  //   ],
-  //   options: [
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
-  //       label: "Code",
-  //       actionType: "LINK",
-  //       link: "https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23",
-  //     },
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-  //       label: "Details",
-  //       actionType: "DEFAULT",
-  //     },
-  //   ],
-  // },
-  // {
-  //   id: 18,
-  //   type: "video",
-  //   mediaUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/cb/cover.png",
-  //   mediaViewer: {
-  //     image:
-  //       "https://odayali2249.github.io/portfolio-resources/resources/cb/cover.png",
-  //     mediaViewType: "V",
-  //   },
-  //   name: "Connected Bridges Game",
-  //   logoUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/cb/logo.png",
-  //   tags: [1, 27, 36, 37],
-  //   hyperWords: new Map<string, string>([
-  //     ["github", "https://github.com/OdayAli2249/Connect-Bridges-Game"],
-  //   ]),
-  //   description: "Intelligence Search Algorithm",
-  //   gallery: [
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/cb/CBG1.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/cb/CBG1.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/cb/CBG2.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/cb/CBG2.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //   ],
-  //   linksTitle: "Links:",
-  //   links: [
-  //     {
-  //       text: "Source Code:",
-  //       url: "https://github.com/OdayAli2249/Connect-Bridges-Game",
-  //       clickableText: "Conncted Bridges Game",
-  //     },
-  //   ],
-  //   aboutTitle: "Description",
-  //   aboutItems: [
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "A web application that generates a connected bridge game grid and solves it using various algorithms. The application is built with an Express.js server that serves HTML document and features depth-first search, breadth-first search, A*, and hill climbing algorithms.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "# Game Rules",
-  //       boldSentence: "",
-  //       description:
-  //         "The game is played on an 𝑛×𝑚 grid where each cell can either represent wild land or water. Connected wild cells form islands, while connected water cells constitute the sea. The entire grid ensures every water cell is connected, forming a continuous sea. Players can move islands left, right, up, or down, provided there are no grid border crossings or collisions with other islands. The objective is to strategically move the islands to create a continuous connection of wild cells from the top edge to the bottom edge of the grid.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "- More context about the project is available on github .",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "# Stack",
-  //       boldSentence: "# Stack",
-  //       description:
-  //         "Intelligence Search Algorithms, node.js, express.js, HTML5, CSS",
-  //       tag: 1,
-  //     },
-  //   ],
-  //   options: [
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
-  //       label: "Code",
-  //       actionType: "LINK",
-  //       link: "https://github.com/OdayAli2249/Connect-Bridges-Game",
-  //     },
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-  //       label: "Details",
-  //       actionType: "DEFAULT",
-  //     },
-  //   ],
-  // },
-  // {
-  //   id: 2,
-  //   type: "video",
-  //   mediaUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg",
-  //   mediaViewer: {
-  //     image:
-  //       "https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg",
-  //     mediaViewType: "V",
-  //   },
-  //   name: "Ultimate Mines Weeper",
-  //   logoUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/ms/logo.jpg",
-  //   tags: [22, 24, 30, 37, 38],
-  //   description: "Multithreads System - Game",
-  //   gallery: [
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ms/menu.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ms/menu.jpg",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg",
-  //       type: "image",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg",
-  //       type: "image",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg",
-  //       type: "image",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg",
-  //       type: "image",
-  //       tag: 1,
-  //     },
-  //   ],
-  //   linksTitle: "Links:",
-  //   links: [
-  //     {
-  //       text: "Source Code:",
-  //       url: "https://github.com/OdayAli2249/mines-weeper-game/",
-  //       clickableText: "Ultimate Mines Weeper",
-  //     },
-  //     {
-  //       text: "DEMO:",
-  //       url: "https://drive.google.com/drive/folders/1Ku5xlSo3HvlcCpj6LKSet5IKCy6-SazJ?usp=drive_link",
-  //       clickableText: "Ultimate Mines Weeper DEMO",
-  //     },
-  //   ],
-  //   aboutTitle: "About the Project:",
-  //   aboutItems: [
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "An enhanced version of the classic mines weeper game implemented in Java using Multithreaded and Object-Oriented Programming (OOP) principles.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "",
-  //       boldSentence: "",
-  //       description:
-  //         "- A new rules get added to the game like supporting multiplay (human vs human, human vs computer), save and load game, display saved game, score record, shield concepts (something like health) and more..",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "Multithreading Programming for UI and Computation Separation",
-  //       boldSentence:
-  //         "Multithreading Programming for UI and Computation Separation",
-  //       description:
-  //         "Carefully managed interactions between threads to ensure smooth gameplay and user experience.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title:
-  //         "Object-Oriented Programming (OOP) and Advanced Software Architecture",
-  //       boldSentence:
-  //         "Object-Oriented Programming (OOP) and Advanced Software Architecture",
-  //       description:
-  //         "Employed Object-Oriented Programming principles to design a modular and scalable codebase.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "Mines Weeper Game with Advanced Roles",
-  //       boldSentence: "Mines Weeper Game with Advanced Roles",
-  //       description:
-  //         "Developed a Mines Weeper game with additional roles, offering enhanced gameplay experiences beyond the traditional rules.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "File Storage for Game Persistence and Statistics",
-  //       boldSentence: "File Storage for Game Persistence and Statistics",
-  //       description:
-  //         "Leveraged Java I/O stream SDK for efficient reading and writing of game data, enabling players to resume saved games and track their progress over time.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "Desktop Application in Java",
-  //       boldSentence: "Desktop Application in Java",
-  //       description:
-  //         "Built a desktop application using Java, leveraging its robustness and cross-platform compatibility. Utilized Java's rich ecosystem and libraries to develop a feature-rich Mines Weeper game.",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "Flexible User Interface (UI) for Parameter Customization",
-  //       boldSentence:
-  //         "Flexible User Interface (UI) for Parameter Customization",
-  //       description:
-  //         "Empowered players to adjust settings such as the number of shields for each player, board dimensions, and timeout settings to tailor the game to their preferences.",
-  //       tag: 1,
-  //     },
-  //   ],
-  //   options: [
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
-  //       label: "Code",
-  //       actionType: "LINK",
-  //       link: "https://github.com/OdayAli2249/mines-weeper-game/",
-  //     },
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/demo.svg",
-  //       label: "DEMO",
-  //       actionType: "LINK",
-  //       link: "https://drive.google.com/drive/folders/1Ku5xlSo3HvlcCpj6LKSet5IKCy6-SazJ?usp=drive_link",
-  //     },
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-  //       label: "Details",
-  //       actionType: "DEFAULT",
-  //     },
-  //   ],
-  // },
+  {
+    id: 16,
+    type: "video",
+    mediaUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/ss/cover.png",
+    mediaViewer: {
+      image:
+        "https://odayali2249.github.io/portfolio-resources/resources/ss/cover.png",
+      mediaViewType: "V",
+    },
+    name: "ML Sudoku Solver",
+    logoUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/ss/logo.jpg",
+    tags: [33, 34, 35, 27],
+    hyperWords: new Map<string, string>([
+      ["github", "https://github.com/OdayAli2249/ML-Sudoku-Solver"],
+    ]),
+    description: "Computer Vision - Machine Learning",
+    gallery: [
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ss/5.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ss/5.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol2.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol2.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol3.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol3.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol4.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ss/5-sol4.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ss/1.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ss/1.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ss/1-sol.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ss/1-sol.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ss/2.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ss/2.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ss/2-sol.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ss/2-sol.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ss/3.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ss/3.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ss/3-sol.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ss/3-sol.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ss/4.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ss/4.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ss/4-sol.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ss/4-sol.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+    ],
+    linksTitle: "Links:",
+    links: [
+      {
+        text: "Source Code:",
+        url: "https://github.com/OdayAli2249/ML-Sudoku-Solver",
+        clickableText: "ML Sudoku Solver",
+      },
+    ],
+    aboutTitle: "About the Project:",
+    aboutItems: [
+      {
+        title: "# Description",
+        boldSentence: "# Description",
+        description:
+          "Real-Time ML Sudoku Solver is a project that demonstrates a fascinating intersection of computer vision and machine learning" +
+          " to solve Sudoku puzzles directly from video capture.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Complete documentation about implementation available on github .",
+        tag: 1,
+      },
+      {
+        title: "# Stack",
+        boldSentence: "# Stack",
+        description:
+          "Python, Machine Learning, Computer Vision, Tensorflow, Keras, OpenCV.",
+        tag: 1,
+      },
+      {
+        title: "# Features",
+        boldSentence: "# Features",
+        description:
+          "- Real-Time Video Processing: Captures and processes video input to detect and solve Sudoku puzzles in real-time.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Image Input Support: Besides video, it can also detect and solve Sudoku puzzles in input image.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Machine Learning: Utilizes TensorFlow and Keras for digit recognition.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Computer Vision: Employs OpenCV for image preprocessing, features extraction and contour detection.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Dynamic Overlay: Displays the solved Sudoku puzzle overlayed on the original video feed.",
+        tag: 1,
+      },
+    ],
+    options: [
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
+        label: "Code",
+        actionType: "LINK",
+        link: "https://github.com/OdayAli2249/ML-Sudoku-Solver",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+        label: "Details",
+        actionType: "DEFAULT",
+      },
+    ],
+  },
+  {
+    id: 17,
+    type: "video",
+    mediaUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/py/cover.png",
+    mediaViewer: {
+      image:
+        "https://odayali2249.github.io/portfolio-resources/resources/py/cover.png",
+      mediaViewType: "V",
+    },
+    name: "Python for Beginners",
+    logoUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/py/logo.png",
+    tags: [33],
+    hyperWords: new Map<string, string>([
+      [
+        "github",
+        "https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23",
+      ],
+    ]),
+    description: "Educational - Voluntary",
+    gallery: [
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/py/image1.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/py/image1.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/py/image2.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/py/image2.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/py/image3.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/py/image3.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/py/image4.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/py/image4.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/py/image5.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/py/image5.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+    ],
+    linksTitle: "Links:",
+    links: [
+      {
+        text: "Source Code:",
+        url: "https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23",
+        clickableText: "Course Files",
+      },
+    ],
+    aboutTitle: "About the Project:",
+    aboutItems: [
+      {
+        title: "# Description",
+        boldSentence: "# Description",
+        description:
+          "This is the lab files and exercises belong to a free, voluntary Python course that I created, organized and taught at the faculty of information technology engineering," +
+          " damascus university. The aim of this course was to provide a comprehensive introduction to Python programming, covering fundamental concepts and progressing to more advanced topics, including an introduction to artificial intelligence.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description: `- The curriculum is designed to be comprehensive and engaging, featuring various exercises that illustrate advanced concepts and reinforce each chapter's goals.
+                 Exercises include a "Guess the Number" game, an employee list CRUD application, a "Worm" game, a multi-player Tic-Tac-Toe game, finally, in the AI introduction chapter, a family relationship recognition program using First-order logic. These practical projects ensure learners gain hands-on experience with Python's diverse capabilities.`,
+        tag: 1,
+      },
+      {
+        title: "# Chapters",
+        boldSentence: "# Chapters",
+        description: "",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Basics: Data types, loops, control commands, conditions.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Functions: Defining and calling functions, arguments, return values, scope.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description: "- Data Structures: Lists, tuples, dictionaries, sets.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Object-Oriented Programming (OOP): Classes, objects, inheritance, polymorphism.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Storage and Handling of Files: Reading from and writing to files, handling different file formats.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- Introduction to Artificial Intelligence: Basic concepts of AI, simple AI project.",
+        tag: 1,
+      },
+    ],
+    options: [
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
+        label: "Code",
+        actionType: "LINK",
+        link: "https://github.com/OdayAli2249/My-Python-Course-Lab-Files-f23",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+        label: "Details",
+        actionType: "DEFAULT",
+      },
+    ],
+  },
+  {
+    id: 18,
+    type: "video",
+    mediaUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/cb/cover.png",
+    mediaViewer: {
+      image:
+        "https://odayali2249.github.io/portfolio-resources/resources/cb/cover.png",
+      mediaViewType: "V",
+    },
+    name: "Connected Bridges Game",
+    logoUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/cb/logo.png",
+    tags: [1, 27, 36, 37],
+    hyperWords: new Map<string, string>([
+      ["github", "https://github.com/OdayAli2249/Connect-Bridges-Game"],
+    ]),
+    description: "Intelligence Search Algorithm",
+    gallery: [
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/cb/CBG1.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/cb/CBG1.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/cb/CBG2.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/cb/CBG2.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+    ],
+    linksTitle: "Links:",
+    links: [
+      {
+        text: "Source Code:",
+        url: "https://github.com/OdayAli2249/Connect-Bridges-Game",
+        clickableText: "Conncted Bridges Game",
+      },
+    ],
+    aboutTitle: "Description",
+    aboutItems: [
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "A web application that generates a connected bridge game grid and solves it using various algorithms. The application is built with an Express.js server that serves HTML document and features depth-first search, breadth-first search, A*, and hill climbing algorithms.",
+        tag: 1,
+      },
+      {
+        title: "# Game Rules",
+        boldSentence: "",
+        description:
+          "The game is played on an 𝑛×𝑚 grid where each cell can either represent wild land or water. Connected wild cells form islands, while connected water cells constitute the sea. The entire grid ensures every water cell is connected, forming a continuous sea. Players can move islands left, right, up, or down, provided there are no grid border crossings or collisions with other islands. The objective is to strategically move the islands to create a continuous connection of wild cells from the top edge to the bottom edge of the grid.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- More context about the project is available on github .",
+        tag: 1,
+      },
+      {
+        title: "# Stack",
+        boldSentence: "# Stack",
+        description:
+          "Intelligence Search Algorithms, node.js, express.js, HTML5, CSS",
+        tag: 1,
+      },
+    ],
+    options: [
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
+        label: "Code",
+        actionType: "LINK",
+        link: "https://github.com/OdayAli2249/Connect-Bridges-Game",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+        label: "Details",
+        actionType: "DEFAULT",
+      },
+    ],
+  },
+  {
+    id: 2,
+    type: "video",
+    mediaUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg",
+    mediaViewer: {
+      image:
+        "https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg",
+      mediaViewType: "V",
+    },
+    name: "Ultimate Mines Weeper",
+    logoUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/ms/logo.jpg",
+    tags: [22, 24, 30, 37, 38],
+    description: "Multithreads System - Game",
+    gallery: [
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ms/1.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ms/menu.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ms/menu.jpg",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ms/2.jpg",
+        type: "image",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ms/3.jpg",
+        type: "image",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ms/4.jpg",
+        type: "image",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/ms/5.jpg",
+        type: "image",
+        tag: 1,
+      },
+    ],
+    linksTitle: "Links:",
+    links: [
+      {
+        text: "Source Code:",
+        url: "https://github.com/OdayAli2249/mines-weeper-game/",
+        clickableText: "Ultimate Mines Weeper",
+      },
+      {
+        text: "DEMO:",
+        url: "https://drive.google.com/drive/folders/1Ku5xlSo3HvlcCpj6LKSet5IKCy6-SazJ?usp=drive_link",
+        clickableText: "Ultimate Mines Weeper DEMO",
+      },
+    ],
+    aboutTitle: "About the Project:",
+    aboutItems: [
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "An enhanced version of the classic mines weeper game implemented in Java using Multithreaded and Object-Oriented Programming (OOP) principles.",
+        tag: 1,
+      },
+      {
+        title: "",
+        boldSentence: "",
+        description:
+          "- A new rules get added to the game like supporting multiplay (human vs human, human vs computer), save and load game, display saved game, score record, shield concepts (something like health) and more..",
+        tag: 1,
+      },
+      {
+        title: "Multithreading Programming for UI and Computation Separation",
+        boldSentence:
+          "Multithreading Programming for UI and Computation Separation",
+        description:
+          "Carefully managed interactions between threads to ensure smooth gameplay and user experience.",
+        tag: 1,
+      },
+      {
+        title:
+          "Object-Oriented Programming (OOP) and Advanced Software Architecture",
+        boldSentence:
+          "Object-Oriented Programming (OOP) and Advanced Software Architecture",
+        description:
+          "Employed Object-Oriented Programming principles to design a modular and scalable codebase.",
+        tag: 1,
+      },
+      {
+        title: "Mines Weeper Game with Advanced Roles",
+        boldSentence: "Mines Weeper Game with Advanced Roles",
+        description:
+          "Developed a Mines Weeper game with additional roles, offering enhanced gameplay experiences beyond the traditional rules.",
+        tag: 1,
+      },
+      {
+        title: "File Storage for Game Persistence and Statistics",
+        boldSentence: "File Storage for Game Persistence and Statistics",
+        description:
+          "Leveraged Java I/O stream SDK for efficient reading and writing of game data, enabling players to resume saved games and track their progress over time.",
+        tag: 1,
+      },
+      {
+        title: "Desktop Application in Java",
+        boldSentence: "Desktop Application in Java",
+        description:
+          "Built a desktop application using Java, leveraging its robustness and cross-platform compatibility. Utilized Java's rich ecosystem and libraries to develop a feature-rich Mines Weeper game.",
+        tag: 1,
+      },
+      {
+        title: "Flexible User Interface (UI) for Parameter Customization",
+        boldSentence:
+          "Flexible User Interface (UI) for Parameter Customization",
+        description:
+          "Empowered players to adjust settings such as the number of shields for each player, board dimensions, and timeout settings to tailor the game to their preferences.",
+        tag: 1,
+      },
+    ],
+    options: [
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
+        label: "Code",
+        actionType: "LINK",
+        link: "https://github.com/OdayAli2249/mines-weeper-game/",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/demo.svg",
+        label: "DEMO",
+        actionType: "LINK",
+        link: "https://drive.google.com/drive/folders/1Ku5xlSo3HvlcCpj6LKSet5IKCy6-SazJ?usp=drive_link",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+        label: "Details",
+        actionType: "DEFAULT",
+      },
+    ],
+  },
   // {
   //   id: 19,
   //   type: "video",
@@ -4332,134 +4332,134 @@ export const projects: Project[] = [
   //     },
   //   ],
   // },
-  // {
-  //   id: 20,
-  //   type: "video",
-  //   mediaUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/sa/cover.png",
-  //   mediaViewer: {
-  //     image:
-  //       "https://odayali2249.github.io/portfolio-resources/resources/sa/cover.png",
-  //     mediaViewType: "V",
-  //   },
-  //   name: "Covid-19 Sentiment Analysis",
-  //   logoUrl:
-  //     "https://odayali2249.github.io/portfolio-resources/resources/sa/logo.png",
-  //   tags: [33, 34, 27],
-  //   description: "",
-  //   gallery: [
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/sa/1.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/sa/1.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/sa/2.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/sa/2.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       mediaViewer: {
-  //         image:
-  //           "https://odayali2249.github.io/portfolio-resources/resources/sa/final results table.png",
-  //         mediaViewType: "V",
-  //       },
-  //       src: "https://odayali2249.github.io/portfolio-resources/resources/sa/final results table.png",
-  //       type: "image",
-  //       highlightWord: "",
-  //       tag: 1,
-  //     },
-  //   ],
-  //   linksTitle: "Links:",
-  //   links: [
-  //     {
-  //       text: "Source Code:",
-  //       url: "https://github.com/OdayAli2249/covid-19-sentiment-analysis",
-  //       clickableText: "Covid-19 Sentiment Analysis",
-  //     },
-  //   ],
-  //   aboutTitle: "About the project:",
-  //   aboutItems: [
-  //     {
-  //       title: "# Description:",
-  //       boldSentence: "Description",
-  //       description: `Understanding public sentiment during crises is crucial for policymakers, health organizations, and businesses to
-  //                respond effectively, mitigate panic, and address public concerns. This project aims to analyze the sentiment of social media posts and
-  //                 other textual data related to COVID-19 using Natural Language Processing (NLP) and Machine Learning techniques.`,
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "# My Achievement:",
-  //       boldSentence: "Achievements:",
-  //       description: "",
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "Data Collection",
-  //       boldSentence: "Data Collection",
-  //       description: `Gathering a diverse set of textual data related to COVID-19 from various sources.`,
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "Data Preprocessing",
-  //       boldSentence: "Data Preprocessing",
-  //       description: `Cleaning, normalizing, and tokenizing the text data to prepare it for analysis.`,
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "Vectorization",
-  //       boldSentence: "Vectorization",
-  //       description: `Converting text data into numerical representations using different vectorization
-  //                methods such as word embeddings, Bag of Words, and TF-IDF.`,
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "Model Training",
-  //       boldSentence: "Model Training",
-  //       description: `Utilizing two different classifiers/models—Deep Learning with Artificial Neural
-  //                Networks and Linear Regression—to predict sentiment.`,
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "Evaluation and Results",
-  //       boldSentence: "Evaluation and Results",
-  //       description: `Displaying the performance of the models through plots and tables to compare their
-  //                effectiveness.`,
-  //       tag: 1,
-  //     },
-  //     {
-  //       title: "# Stack:",
-  //       boldSentence: "Stack",
-  //       description: "Python, nltk, keras, sklearn.",
-  //       tag: 1,
-  //     },
-  //   ],
-  //   options: [
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
-  //       label: "Code",
-  //       actionType: "LINK",
-  //       link: "https://github.com/OdayAli2249/covid-19-sentiment-analysis",
-  //     },
-  //     {
-  //       icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
-  //       label: "Details",
-  //       actionType: "DEFAULT",
-  //     },
-  //   ],
-  // },
+  {
+    id: 20,
+    type: "video",
+    mediaUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/sa/cover.png",
+    mediaViewer: {
+      image:
+        "https://odayali2249.github.io/portfolio-resources/resources/sa/cover.png",
+      mediaViewType: "V",
+    },
+    name: "Covid-19 Sentiment Analysis",
+    logoUrl:
+      "https://odayali2249.github.io/portfolio-resources/resources/sa/logo.png",
+    tags: [33, 34, 27],
+    description: "",
+    gallery: [
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/sa/1.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/sa/1.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/sa/2.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/sa/2.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+      {
+        mediaViewer: {
+          image:
+            "https://odayali2249.github.io/portfolio-resources/resources/sa/final results table.png",
+          mediaViewType: "V",
+        },
+        src: "https://odayali2249.github.io/portfolio-resources/resources/sa/final results table.png",
+        type: "image",
+        highlightWord: "",
+        tag: 1,
+      },
+    ],
+    linksTitle: "Links:",
+    links: [
+      {
+        text: "Source Code:",
+        url: "https://github.com/OdayAli2249/covid-19-sentiment-analysis",
+        clickableText: "Covid-19 Sentiment Analysis",
+      },
+    ],
+    aboutTitle: "About the project:",
+    aboutItems: [
+      {
+        title: "# Description:",
+        boldSentence: "Description",
+        description: `Understanding public sentiment during crises is crucial for policymakers, health organizations, and businesses to
+                 respond effectively, mitigate panic, and address public concerns. This project aims to analyze the sentiment of social media posts and
+                  other textual data related to COVID-19 using Natural Language Processing (NLP) and Machine Learning techniques.`,
+        tag: 1,
+      },
+      {
+        title: "# My Achievement:",
+        boldSentence: "Achievements:",
+        description: "",
+        tag: 1,
+      },
+      {
+        title: "Data Collection",
+        boldSentence: "Data Collection",
+        description: `Gathering a diverse set of textual data related to COVID-19 from various sources.`,
+        tag: 1,
+      },
+      {
+        title: "Data Preprocessing",
+        boldSentence: "Data Preprocessing",
+        description: `Cleaning, normalizing, and tokenizing the text data to prepare it for analysis.`,
+        tag: 1,
+      },
+      {
+        title: "Vectorization",
+        boldSentence: "Vectorization",
+        description: `Converting text data into numerical representations using different vectorization
+                 methods such as word embeddings, Bag of Words, and TF-IDF.`,
+        tag: 1,
+      },
+      {
+        title: "Model Training",
+        boldSentence: "Model Training",
+        description: `Utilizing two different classifiers/models—Deep Learning with Artificial Neural
+                 Networks and Linear Regression—to predict sentiment.`,
+        tag: 1,
+      },
+      {
+        title: "Evaluation and Results",
+        boldSentence: "Evaluation and Results",
+        description: `Displaying the performance of the models through plots and tables to compare their
+                 effectiveness.`,
+        tag: 1,
+      },
+      {
+        title: "# Stack:",
+        boldSentence: "Stack",
+        description: "Python, nltk, keras, sklearn.",
+        tag: 1,
+      },
+    ],
+    options: [
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/code.svg",
+        label: "Code",
+        actionType: "LINK",
+        link: "https://github.com/OdayAli2249/covid-19-sentiment-analysis",
+      },
+      {
+        icon: "https://odayali2249.github.io/portfolio-resources/resources/details.svg",
+        label: "Details",
+        actionType: "DEFAULT",
+      },
+    ],
+  },
   // {
   //   id: 22,
   //   type: "video",
